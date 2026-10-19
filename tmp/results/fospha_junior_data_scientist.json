@@ -1,0 +1,44 @@
+{
+  "name": "fospha_junior_data_scientist",
+  "company": "Fospha",
+  "role": "Junior Data Scientist",
+  "sector": "Technology",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/junior-data-scientist-at-fospha-4456871302",
+  "deadline": "",
+  "fit_rating": 79,
+  "cv_file": "cv/main_fospha_junior_data_scientist.tex",
+  "cover_letter_file": "cover_letters/cover_fospha_junior_data_scientist.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 13, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 5},
+  "gaps_acknowledged": [
+    "No marketing mix modelling, attribution methodology or incrementality testing experience (posting states these are not required and are taught in-house)",
+    "No Bayesian modelling experience",
+    "No production AWS pipeline ownership or automated QA and test-coverage practice",
+    "No full-time commercial data science experience, only internships alongside a quantitative MSc (the posting explicitly allows a strong internship record)"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led the letter on causal inference as the intellectual core of attribution, using the doubly robust causal forest dissertation (71,428 participants, overlap weighting, E-values, quantitative bias analysis) as the differentiator rather than any claimed marketing measurement experience",
+    "Made the Apple x Tmall audience programme the lead CV work bullet, since 12 segments by 15 advertising touchpoints feeding per-segment media playbooks is the nearest honest analogue of Fospha's multi-touchpoint measurement product",
+    "Mapped the posting's hardest essentials onto real evidence: rebuilding deprecated tags in unfamiliar Tmall platforms answers 'debug unfamiliar code', and Claude Code for orientation plus reviewing AI-assisted output answers 'strong AI fluency'",
+    "Named the two real gaps (MMM, production AWS pipelines) explicitly in the letter rather than bluffing, and stated the right to work in the UK until January 2029 without sponsorship",
+    "Wrote fresh documents distinct from the unsent Graduate Marketing Scientist pair for the same company, with no reused paragraphs and a different angle (causal inference and production-code ownership rather than the graduate development pathway)"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The posting's LinkedIn metadata says Employment: Volunteer and Seniority: Not Applicable, which contradicts the body text describing a paid London Data Science role at the Developing career level. Worth confirming with Fospha before applying.",
+    "The posting URL supplied in the task (job id 4456871302) differs from the URL inside the archived posting file (job id 4456005677). Both point at a Fospha Junior Data Scientist listing in London.",
+    "An unsent CV and cover letter for Fospha's Graduate Marketing Scientist role already exist in the repo. Send only one application to this company."
+  ]
+}

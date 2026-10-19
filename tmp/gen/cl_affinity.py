@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_affinitywater_associate_data_scientist",
+ "label":"Affinity Water Associate Data Scientist",
+ "paras":[
+"I am writing to apply for the Associate Data Scientist position at Affinity Water. I am currently completing an MSc in Health Data Science at University College London, after graduating from Imperial College London with a BSc in Biological Sciences. Across my academic and professional experience, I have cleaned and analysed both structured and unstructured data in Python, R and SQL, built and validated statistical and machine learning models, and turned the results into dashboards and recommendations that people acted on. I am particularly interested in this role because it combines real modelling work with direct contact with the stakeholders whose decisions the analysis supports.",
+
+"What attracts me most to Affinity Water is the opportunity to join the Performance and Insights team and work across a variety of data to find trends and build predictive models that support better business decisions. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved. Water is an essential service with a genuine public purpose, and I would rather develop my skills somewhere the analysis affects how a real network is run than somewhere the output stops at a report.",
+
+"In my current role at TikTok Shop UK, I collect, clean and analyse large merchant and transaction datasets in SQL and Python, exploring them to identify the trends and drivers behind marketplace performance. I build AI agents that automate recurring analytical and reporting workflows, using Claude Code as part of my day-to-day development. I also create the dashboards and KPI frameworks that operations teams use to set targets, and explain findings and their limitations to both technical and non-technical stakeholders.",
+
+"In my previous role at DS Digital Technology, I worked on a patient-facing medical agent for a pharmaceutical client. A large part of that work was turning unstructured text into analysable data: I mined 4,800 patient consultation threads using a regex and LLM extraction pipeline. I also co-built the knowledge base behind the agent, a medically reviewed knowledge graph of 123 entities and 161 relations, and designed blinded paired A/B tests to measure whether it actually improved output quality rather than assuming that it would. The Python pipeline underneath it used concurrency, retries, structured validation and checkpointing so that long automated runs completed reliably.",
+
+"My MSc dissertation gave me experience developing and validating machine learning models end to end. Using longitudinal biobank data, I engineered features across multiple time points and compared logistic regression against three tree ensembles to predict cardiovascular events in 458,840 participants. Discrimination was modest, with AUC between 0.714 and 0.718, but calibration was close to exact, which is what makes a predicted probability usable for a decision. I then estimated individual outcomes under different interventions, tested how sensitive those results were to unmeasured confounding, and deployed an interactive Streamlit tool so that a non-technical user could vary the inputs and see the modelled effect. Several results were null, and I reported them as null.",
+
+"My earlier experience as a Strategy Analyst Intern at Ipsos Strategy3 prepared me to work with stakeholders and communicate clearly. I built market-sizing and forecasting models identifying approximately \\$20M in revenue potential, structured evidence from more than 80 expert interviews into comparable variables, and worked with research and strategy colleagues to turn analytical findings into executive dashboards and client recommendations. This taught me to explain complex analysis to people who are not analysts and to be clear about what the numbers do and do not support.",
+
+"I would bring Affinity Water practical Python, R and SQL, hands-on experience building and validating machine learning models, and a genuine willingness to learn. I hold the right to work in the UK without sponsorship until January 2029 and I am happy to work on a hybrid basis from Hatfield.",
+
+"Thank you for considering my application. I would welcome the opportunity to discuss how my experience aligns with the Associate Data Scientist role and the work of the Performance and Insights team.",
+ ],
+}

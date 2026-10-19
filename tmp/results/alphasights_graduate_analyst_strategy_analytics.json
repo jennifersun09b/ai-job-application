@@ -1,0 +1,33 @@
+{
+  "name": "alphasights_graduate_analyst_strategy_analytics",
+  "company": "AlphaSights",
+  "role": "Graduate Analyst, Strategy & Analytics",
+  "sector": "Information services / expert network",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/graduate-analyst-strategy-analytics-at-alphasights-4463481349",
+  "deadline": "",
+  "fit_rating": 87,
+  "cv_file": "cv/main_alphasights_graduate_analyst_strategy_analytics.tex",
+  "cover_letter_file": "cover_letters/cover_alphasights_graduate_analyst_strategy_analytics.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 10, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 3},
+  "gaps_acknowledged": [
+    "No budgeting experience; letter says plainly it would be new",
+    "No talent analytics experience; letter says plainly it would be new",
+    "PowerPoint named in the posting but not evidenced in the profile, so it is not claimed; 'executive reporting decks' used instead"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Made the Ipsos Strategy3 expert-interview work the spine of the letter: 100+ expert interviews and a structured coding framework turning transcripts into quantitative variables, which is the analyst-side of exactly the product AlphaSights sells",
+    "Mapped the posting's four duties onto evidence one by one: data extraction from internal systems and KPI frameworks at TikTok Shop UK, market-sizing and $20M forecasting at Ipsos, executive communication to pharma and consumer-tech clients at DS Digital Technology, and market benchmarking in the skills block",
+    "Named native Mandarin and professional experience in Beijing and Hangzhou against AlphaSights' independently verified Shanghai, Hong Kong and Seoul offices, and closed on the mandatory quantitative test with dissertation evidence rather than a hedge"
+  ],
+  "verification": {"factual_accuracy": "pass", "targeting": "pass", "consistency": "pass", "quality": "pass", "pdf_layout": "pass", "ats": "pass"},
+  "warnings": [
+    "Posting states applicants must pass a quantitative test before the application progresses",
+    "If Jennifer confirms she has used PowerPoint at Ipsos or DS Digital, it is a named 'plus' in the posting and worth re-adding to the CV skills line"
+  ]
+}

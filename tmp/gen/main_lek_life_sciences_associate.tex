@@ -1,0 +1,178 @@
+%-------------------------
+% Resume in Latex
+% Author : Sidratul Muntaha Ahmed
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\ifdefined\pdfgentounicode
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\fi
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{0.95in}
+\addtolength{\topmargin}{-.60in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-9pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Zhuoyan Sun} \\ \vspace{3pt}
+\small
++44(0)7422426924 $|$
+\href{mailto:zhuoyansun41@gmail.com}{\underline{zhuoyansun41@gmail.com}} $|$
+\href{https://www.linkedin.com/in/zhuoyan-jennifer-sun-8b6558297}{\underline{Linkedin}} $|$
+\href{https://github.com/jennifersun09b}{\underline{GitHub}} $|$
+\href{https://jennifersun09b.github.io/portfolio/}{\underline{Portfolio}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{\textbf{Education}}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University College London}{Sep 2025 - Present}
+      {MSc Health Data Science \textit{(Distinction Expected)}}{London \textbf{\textbar{}} UK}
+          \resumeItemListStart
+            \resumeItem{\textbf{Core Modules:} Data Science and Statistics, Artif\kern0pt icial Intelligence in Healthcare, Advanced Machine Learning for Healthcare, Advanced Data Science and Statistics}
+        \resumeItemListEnd
+
+     \resumeSubheading
+      {Imperial College London}{Sep 2021 - Jun 2024}
+      {BSc Biological Sciences \textit{(Upper Second Class Honor)}}{London \textbf{\textbar{}} UK}
+          \resumeItemListStart
+            \resumeItem{\textbf{Core Modules:} Mathematics, Bioinformatics, Programming and Statistics, Computational Omics, Integrative System Biology}
+        \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{\textbf{Work Experience}}
+  \resumeSubHeadingListStart
+
+     \resumeSubheading
+      {Data Analyst Intern}{Sep 2026 - Present}
+      {TikTok UK}{London \textbf{\textbar{}} UK}
+      \resumeItemListStart
+        \resumeItem{Built an AI agent that automates repetitive steps of the analytics workf\kern0pt low, adopted by the wider team and partner teams to improve ef\kern0pt f\kern0pt iciency across teams}
+        \resumeItem{Mine large-scale merchant and transaction data in SQL and Python to identify growth and operations drivers that shape TikTok Shop's UK market-entry and expansion strategy}
+        \resumeItem{Build KPI frameworks and dashboards used by e-commerce teams to set targets and track initiatives, turning f\kern0pt indings into recommendations for operations, product and commercial stakeholders}
+      \resumeItemListEnd
+
+
+     \resumeSubheading
+      {Data Scientist Intern}{Jul 2026 - Sep 2026}
+      {DS Digital Technology}{Hangzhou \textbf{\textbar{}} CN}
+      \resumeItemListStart
+        \resumeItem{Delivered a medical AI engagement for a pharmaceutical client: designed a 246-question clinical benchmark and 6-dimension safety rubric with medical subject-matter experts, adopted as the client's acceptance standard}
+        \resumeItem{Co-built a medically reviewed knowledge graph and ran blinded A/B tests of its ef\kern0pt fect on answer quality, reviewing clinical literature and evidence to validate the content}
+        \resumeItem{Mined 4,800+ patient consultation threads to identify unmet needs, and presented evaluation reports and commercial recommendations to pharmaceutical client stakeholders}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {Data Analyst Intern}{May 2025 - Aug 2025}
+      {Ipsos Strategy3}{Beijing \textbf{\textbar{}} CN}
+      \resumeItemListStart
+        \resumeItem{Conducted primary and secondary research across healthcare and consumer markets, structuring 80+ expert interviews into a coding framework that produced quantitative evidence}
+        \resumeItem{Built market-sizing and forecasting models estimating \$20M revenue potential across emerging health-product segments, assessing competitive dynamics and growth opportunities}
+        \resumeItem{Transformed f\kern0pt indings into actionable recommendations and executive dashboards for client stakeholders}
+      \resumeItemListEnd
+
+
+ \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{\textbf{Project Experience}}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Causal ML Model for Cardiovascular Risk Simulation}{Dec 2025 - Sep 2026}
+      {University College London}{London \textbf{\textbar{}} UK}
+      \resumeItemListStart
+        \resumeItem{Built an end-to-end machine learning pipeline on longitudinal biobank data, engineering multi-timepoint features to predict cardiovascular risk}
+        \resumeItem{Developed and validated predictive and causal models that estimate individual-level counterfactual risk under lifestyle interventions}
+        \resumeItem{Deployed a Streamlit simulation app that translates model outputs into actionable, user-facing insights for preventive healthcare}
+      \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{\textbf{Skills}}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Programming}{: Python, R, SQL, Excel} \\
+     \textbf{Research and Commercial Analysis}{: primary and secondary research, expert interview programmes, market sizing and forecasting, competitive landscaping, scientif\kern0pt ic and clinical literature review, structured problem-solving} \\
+     \textbf{Life Sciences and Healthcare Data}{: UK Biobank cohort analysis, multi-omics, spatial transcriptomics, bioinformatics pipelines (Seurat/Scanpy/DESeq2), clinical NLP, molecular dynamics simulation} \\
+     \textbf{Data and Tools}{: statistics and causal inference, predictive modelling, scikit-learn, pandas, Power BI, Streamlit, Claude Code} \\
+     \textbf{Languages}{: English (f\kern0pt luent), Mandarin (native)}}}
+
+ \end{itemize}
+
+\end{document}

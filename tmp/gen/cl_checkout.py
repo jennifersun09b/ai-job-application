@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_checkout_product_data_scientist",
+ "label":"Checkout.com Product Data Scientist",
+ "paras":[
+"I am writing to apply for the Product Data Scientist position in London, working across the Platforms and SMB domain on the Activation, Risk and Configuration products. I am currently completing an MSc in Health Data Science at University College London, after graduating from Imperial College London, and I work as a data analyst at TikTok Shop UK. I am applying because the problem you describe, finding where merchants stall in an onboarding journey and deciding which parts of it are worth automating, is close to what I already do every week.",
+
+"What attracts me most to Checkout.com is that analytics is described as a highly visible function that critically impacts the company's success, rather than as reporting. At ten billion transactions a year, a step that costs an SMB merchant ten minutes during onboarding compounds into something material, and the interesting questions become operational rather than purely statistical. I enjoy taking an unclear operational problem, working out what the underlying question really is, and turning it into something measurable. Doing that alongside product managers and engineers, and then seeing the automation actually built, is the work I want.",
+
+"On product measurement, at TikTok Shop UK I interrogate large-scale merchant and transaction data in SQL and Python, running funnel and cohort analyses to locate exactly where merchants drop off. I build the KPI frameworks and dashboards that define how success is measured, then explain the analytical logic behind them to product, operations and commercial colleagues who want the decision rather than the methodology. I also build AI agents that automate recurring analytical and reporting workflows, which is the same judgement call your posting describes: deciding which repetitive steps genuinely warrant automation, and which are cheaper left alone.",
+
+"On data partnerships and integrity, the least glamorous work I have done is also the most relevant. At DS Digital Technology I rebuilt a set of deprecated audience tags across unfamiliar platforms in order to reproduce a 60 million-user segment, debugging source definitions until the counts finally reconciled. At TikTok I spend real time agreeing metric definitions between teams before anything is published. Insights are only high-integrity if the logging and modelling underneath them are right, and I would rather find that out before a product manager acts on the number than after.",
+
+"On experiments and proof-of-concept modelling, in my previous role I designed and ran blinded paired A/B tests to establish whether a medically reviewed knowledge graph genuinely improved answer quality, owning it from hypothesis through to recommendation. I built a Python pipeline over six large language models with retrieval augmentation that scored more than 2,400 responses automatically, replacing a manual review that could not scale. Both were proof-of-concept work: the question was feasibility and whether the approach justified further engineering, not production deployment.",
+
+"My MSc dissertation is where the statistical discipline comes from. I modelled risk across 458,840 participants, compared logistic regression against three tree ensembles, and estimated individual-level counterfactual outcomes. Several effects I expected were not supported by the data, and I said so. I would rather tell a product manager an experiment was inconclusive than let a roadmap get built on noise.",
+
+"I would bring strong SQL and Python, experiment design that survives scrutiny, working knowledge of clustering and NLP workflows applied to real tasks, and the habit of translating analysis into a decision. I should be straightforward that my experience comes from internships rather than several years in a permanent role, so if proven experience is meant more strictly than I can offer, I understand. What I can point to is that the specific work, merchant behaviour, funnels, experiments, data integrity and automation, is what I do now. I hold the right to work in the UK without sponsorship until January 2029.",
+
+"Thank you for considering my application. I would welcome the opportunity to discuss how I could help measure and improve the merchant onboarding journey for Platforms and SMB.",
+ ],
+}

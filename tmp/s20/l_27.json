@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4429793459",
+      "title": "Data Analyst",
+      "company": "MANUAL",
+      "companyUrl": "https://uk.linkedin.com/company/manualco",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-manual-4429793459"
+    },
+    {
+      "id": "4469008922",
+      "title": "Data Analyst",
+      "company": "Voy",
+      "companyUrl": "https://uk.linkedin.com/company/joinvoy",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-voy-4469008922"
+    },
+    {
+      "id": "4473356461",
+      "title": "Senior Healthcare Analyst",
+      "company": "Vitality",
+      "companyUrl": "https://uk.linkedin.com/company/vitalityuk",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-02",
+      "url": "https://uk.linkedin.com/jobs/view/senior-healthcare-analyst-at-vitality-4473356461"
+    },
+    {
+      "id": "4472173144",
+      "title": "Data Analyst - Participant Support Operations & Clinical Operations",
+      "company": "Our Future Health UK",
+      "companyUrl": "https://uk.linkedin.com/company/our-future-health-uk",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-participant-support-operations-clinical-operations-at-our-future-health-uk-4472173144"
+    },
+    {
+      "id": "4473247170",
+      "title": "Data Insights Analyst",
+      "company": "PEP Health",
+      "companyUrl": "https://uk.linkedin.com/company/pep-health",
+      "location": "United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/data-insights-analyst-at-pep-health-4473247170"
+    },
+    {
+      "id": "4355001040",
+      "title": "Clinical Informatics Analyst",
+      "company": "Medpace",
+      "companyUrl": "https://www.linkedin.com/company/medpace",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-28",
+      "url": "https://uk.linkedin.com/jobs/view/clinical-informatics-analyst-at-medpace-4355001040"
+    },
+    {
+      "id": "4473262376",
+      "title": "Data Specialist",
+      "company": "FAIRVIEW HEALTH LIMITED",
+      "companyUrl": "https://uk.linkedin.com/company/fairview-health-limited",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/data-specialist-at-fairview-health-limited-4473262376"
+    },
+    {
+      "id": "4473152994",
+      "title": "Public Health Analyst",
+      "company": "Croydon Council",
+      "companyUrl": "https://uk.linkedin.com/company/croydon-council",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-02",
+      "url": "https://uk.linkedin.com/jobs/view/public-health-analyst-at-croydon-council-4473152994"
+    },
+    {
+      "id": "4330418375",
+      "title": "Statistical Analyst (Stirling)",
+      "company": "Medpace",
+      "companyUrl": "https://www.linkedin.com/company/medpace",
+      "location": "Stirling, Scotland, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/statistical-analyst-stirling-at-medpace-4330418375"
+    },
+    {
+      "id": "4469958395",
+      "title": "Senior Data Analyst",
+      "company": "Wellcome Trust",
+      "companyUrl": "https://uk.linkedin.com/company/wellcome-trust",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-analyst-at-wellcome-trust-4469958395"
+    }
+  ]
+}

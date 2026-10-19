@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4472893054",
+      "title": "Data Scientist",
+      "company": "Abtrace",
+      "companyUrl": "https://uk.linkedin.com/company/abtrace",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-10-02",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-abtrace-4472893054"
+    },
+    {
+      "id": "4467543968",
+      "title": "Principal Data Scientist",
+      "company": "Cytel",
+      "companyUrl": "https://www.linkedin.com/company/cytel",
+      "location": "United Kingdom",
+      "date": "2026-09-17",
+      "url": "https://uk.linkedin.com/jobs/view/principal-data-scientist-at-cytel-4467543968"
+    },
+    {
+      "id": "4471100565",
+      "title": "Senior Research Scientist",
+      "company": "Surgo Health",
+      "companyUrl": "https://www.linkedin.com/company/surgo-health",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-research-scientist-at-surgo-health-4471100565"
+    },
+    {
+      "id": "4465304475",
+      "title": "Senior Data Scientist",
+      "company": "Signatur Biosciences",
+      "companyUrl": "https://uk.linkedin.com/company/signatur-bio",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-09",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-signatur-biosciences-4465304475"
+    },
+    {
+      "id": "4468237979",
+      "title": "Senior Data Scientist",
+      "company": "ICON Strategic Solutions",
+      "companyUrl": "https://uk.linkedin.com/company/icon-strategic-solutions",
+      "location": "Livingston, Scotland, United Kingdom",
+      "date": "2026-09-16",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-icon-strategic-solutions-4468237979"
+    },
+    {
+      "id": "4466424304",
+      "title": "Sr. Data Scientist",
+      "company": "hims & hers",
+      "companyUrl": "https://www.linkedin.com/company/hims-&-hers",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/sr-data-scientist-at-hims-hers-4466424304"
+    },
+    {
+      "id": "4474363018",
+      "title": "Principal Data Scientist",
+      "company": "CoMind",
+      "companyUrl": "https://uk.linkedin.com/company/comindtechnologies",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/principal-data-scientist-at-comind-4474363018"
+    },
+    {
+      "id": "4422820332",
+      "title": "Senior Data Scientist (Biostatistics)",
+      "company": "Acuity Analytics",
+      "companyUrl": "https://uk.linkedin.com/company/acuityanalytics",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-biostatistics-at-acuity-analytics-4422820332"
+    },
+    {
+      "id": "4471903654",
+      "title": "Senior Clinical Research Scientist",
+      "company": "Optellum",
+      "companyUrl": "https://uk.linkedin.com/company/optellum",
+      "location": "Oxford, England, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/senior-clinical-research-scientist-at-optellum-4471903654"
+    },
+    {
+      "id": "4422835232",
+      "title": "Senior Data Scientist (Biostatistics)",
+      "company": "Acuity Analytics",
+      "companyUrl": "https://uk.linkedin.com/company/acuityanalytics",
+      "location": "Greater Bristol Area, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-biostatistics-at-acuity-analytics-4422835232"
+    }
+  ]
+}

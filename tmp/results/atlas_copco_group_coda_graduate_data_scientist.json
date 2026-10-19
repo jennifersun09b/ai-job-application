@@ -1,0 +1,44 @@
+{
+  "name": "atlas_copco_group_coda_graduate_data_scientist",
+  "company": "Atlas Copco Group",
+  "role": "CODA Graduate Data Scientist",
+  "sector": "Industrial manufacturing",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/coda-graduate-data-scientist-at-atlas-copco-group-4462752855",
+  "deadline": "",
+  "fit_rating": 73,
+  "cv_file": "cv/main_atlas_copco_group_coda_graduate_data_scientist.tex",
+  "cover_letter_file": "cover_letters/cover_atlas_copco_group_coda_graduate_data_scientist.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 13, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 6},
+  "gaps_acknowledged": [
+    "No Databricks experience (posting names Databricks workflows and cloud platforms)",
+    "No dedicated time-series forecasting work (ARIMA, SARIMA, Prophet, exponential smoothing, LSTM, TFT) and no forecast-accuracy metrics such as MAE, RMSE or MAPE",
+    "No production-deployed or shipped anomaly-detection model; closest evidence is data-quality validation work",
+    "No industrial or manufacturing domain experience",
+    "No Sales, Finance or controlling domain exposure beyond market-sizing and revenue forecasting at Ipsos Strategy3",
+    "No ERP (SAP, Oracle, Dynamics 365) or formal scrum agile experience"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Added Ipsos Strategy3 as a third work entry so the market-sizing and revenue-forecasting evidence answers the posting's forecasting and predictive-modelling requirement directly, and reframed the UK Biobank dissertation as a predictive-modelling project (logistic regression vs XGBoost, LightGBM, random forests, calibration and decision curves, feature/threshold/scoring-logic testing) rather than a causal one",
+    "Framed the anomaly-detection requirement honestly as data-quality work (export defects found, deprecated tags rebuilt to reproduce a ~60M-user segment at DS Digital Technology) and stated plainly in the letter that no production anomaly-detection model has been shipped, instead of implying a modelling technique she has not used",
+    "Opened the company paragraph on independently verified Atlas Copco facts (decentralised organisation since 1873, UK business present since 1919 with the Hemel Hempstead head office) and tied decentralisation to why a group reporting platform must earn trust across entities; the Mandarin and China work is named once in the DS Digital paragraph rather than bolted onto the visa sentence"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The posting's Preferred Time Series Requirement (forecasting models on time-dependent data, and MAE/RMSE/MAPE forecast-accuracy metrics) is a genuine gap. It is acknowledged in the cover letter rather than papered over, and it is the most likely screening risk for this application.",
+    "No Databricks experience, which the posting names as the CODA platform. Also acknowledged in the letter.",
+    "The posting names Talent Acquisition contact April Harbour but states no application deadline, so the deadline field is empty rather than guessed."
+  ]
+}

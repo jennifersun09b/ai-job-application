@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_siemens_software_engineer_ai",
+ "label":"Siemens Software Engineer AI",
+ "paras":[
+ r"I am writing to apply for the Software Engineer -- AI position at Siemens Digital Industries Software in Cambridge. I am completing an MSc in Health Data Science at University College London, where a distinction is expected, after a BSc in Biological Sciences at Imperial College London, and I will graduate in September 2026. Across my academic and professional experience I have built machine learning systems end to end, from preparing the data through to validating whether the model actually performs. I am particularly interested in this role because it is a graduate position with structured mentorship attached to real industrial problems.",
+
+ r"What attracts me most to Siemens is the opportunity to apply machine learning to physical, industrial systems -- predictive maintenance, quality control and digital twin work -- where a model's output has consequences in the real world. My experience has been in healthcare and consumer data rather than manufacturing, so the domain would be new to me, and that is part of the appeal. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved.",
+
+ r"At TikTok Shop UK I am a Data Analyst Intern. Alongside my analytical work I built an AI agent that automates repetitive steps of the analytics workflow, which has been adopted by my own team and by partner teams. Building it meant understanding an existing workflow in detail, deciding which steps to automate and which needed a person, and then supporting colleagues as they started to use it. I use Claude Code in my development work and review the code it produces rather than accepting it unchecked.",
+
+ r"Before TikTok I worked as a Data Scientist Intern at DS Digital Technology, where I wrote production-quality Python for a client engagement: an application calling six large language model APIs with retrieval and multi-step workflows, generating and scoring over 2,400 responses. I also built the testing and validation layer around it, a 246-question benchmark and a six-dimension rubric that measured model performance and was adopted as the client's acceptance standard. Working with domain experts, I turned their subject-matter requirements into a reviewed knowledge graph and ran blinded A/B tests to check whether it actually improved the output.",
+
+ r"My machine learning foundations are the ones the role lists. My MSc dissertation compares logistic regression against three tree ensembles on 458,840 UK Biobank participants, with attention to calibration rather than headline accuracy, and I validated the conclusions on a second cohort before delivering the work as a deployed Streamlit application. I led a group project building an NLP pipeline that parsed clinical reports into structured features using fine-tuned transformer models in Hugging Face and PyTorch, evaluated against simpler baselines. Earlier, at Westlake University, I refactored and parallelised a multi-omics analysis pipeline in Python and R, cutting processing time by around 60 per cent and adding version-controlled scripts so the work could be reproduced -- much of that work was data collection, cleaning and feature preparation rather than modelling, which I understand is a real part of this role.",
+
+ r"At Ipsos Strategy3 I structured data from expert interviews into quantitative variables and presented the results to client stakeholders who wanted the recommendation rather than the method. This experience has strengthened my ability to document my work and communicate progress and findings clearly, which the role asks for.",
+
+ r"I should be clear about where I am starting from. I have not written C\kern0pt ++ or done CUDA or GPU programming, and my cloud experience with A\kern0pt WS is at a basic level rather than covering MLOps, so those are areas where I would be learning from the start. My Python, my grounding in machine learning theory and evaluation, and my experience with PyTorch and Hugging Face are all well established, and I have used TensorFlow at coursework level. I currently have the unrestricted right to work in the UK, valid until January 2029, and I am willing to relocate to Cambridge for an on-site role.",
+
+ r"Thank you for considering my application. I would welcome the opportunity to discuss how my machine learning and software experience could contribute to your AI teams in Cambridge.",
+ ]
+}

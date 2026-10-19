@@ -1,0 +1,54 @@
+{
+  "name": "mind_foundry_machine_learning_engineer",
+  "company": "Mind Foundry",
+  "role": "Machine Learning Engineer",
+  "sector": "Defence and National Security AI (software)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-mind-foundry-4457613172",
+  "deadline": "",
+  "fit_rating": 56,
+  "cv_file": "cv/main_mind_foundry_machine_learning_engineer.tex",
+  "cover_letter_file": "cover_letters/cover_mind_foundry_machine_learning_engineer.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 13, "synonym_only": 2, "missing_have_it": 0, "missing_gap": 14},
+  "gaps_acknowledged": [
+    "No production ML engineering or MLOps at scale: CI/CD, model serving architectures and production infrastructure named honestly as things she would be learning early",
+    "No edge or low-compute deployment experience, which this role emphasises heavily",
+    "No defence, national security or government-customer background",
+    "Holds no current UK Security Vetting (SC) and would be starting that process from scratch",
+    "No well-tested code evidence (no pytest or unit-test suites recorded in the profile), despite the posting naming it twice",
+    "No streaming data, Spark, Kafka, Flask or FastAPI microservices experience",
+    "No signal processing or sensor data fusion experience, which are nice-to-haves at a sonar and sensor-fusion company",
+    "Location: she is London based and the role is Oxford, Summertown, with client-site travel; the letter commits to relocating"
+  ],
+  "sponsorship_note": "not stated. The posting says nothing about visa sponsorship, but it does state 'You will need to hold existing or be eligible for UK Security Vetting (SC)'. She currently has the right to work in the UK without sponsorship and would need Skilled Worker sponsorship within about two years.",
+  "key_tailoring_decisions": [
+    "Led the letter's company paragraph on Mind Foundry's own verified 'First Principles Transparency' claim that its models 'assess and relay their certainty', anchored to NIGHTINGALE's trial with the Royal Navy and Thales on the S2087 sonar, where the stated benefit is faster triage and improved trust in outputs. Her dissertation's near-perfect calibration and honest null reporting is a direct answer to exactly that, so calibration and trust carry the letter rather than a generic ML pitch.",
+    "Added the Westlake University entry to the CV, which was absent from the prior worked example, because refactoring and parallelising a pipeline on Linux, cutting runtime ~60% and version-controlling documented scripts is the closest thing she has to the posting's 'clean, reproducible, well-tested' engineering requirement. Rewrote almost every bullet to a single line to fit it on one page rather than dropping a relevant entry.",
+    "Relabelled the CV skills block to the posting's own headings ('Model Evaluation and Assurance', 'Infrastructure and Delivery') and moved Linux from the programming line to infrastructure, matching where the posting lists it.",
+    "Stated the SC vetting position, the production-infrastructure gap and the defence-domain gap plainly in the letter rather than hoping nobody checks, on the judgement that a defence employer will verify all three anyway.",
+    "Surfaced the Imperial final-year project (Python pipeline over hundreds of GB of simulation output) on the education line to cover the posting's 'high-volume' data requirement truthfully."
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "SC VETTING IS THE REAL GATE. UK Security Vetting (SC) is widely reported to require five continuous years of UK residency immediately before application. Her record is UK Sep 2021-Jun 2024, China Sep 2024-Aug 2025, UK Sep 2025-present, plus Jul-Sep 2026 in Hangzhou. That is a ~12-month gap inside the window plus a recent 3-month gap, both in China, which adds foreign-ties scrutiny for a defence customer base. She will not meet the standard five-year continuous test today. SC is not gated on citizenship, and the posting says 'hold existing or be eligible for' rather than 'must already hold', so this is not a formal eligibility failure and does not trip her recorded citizenship-clearance deal-breaker. But realistic odds of clearing vetting on this timeline are low. Recommend emailing recruitment@mindfoundry.ai to ask directly whether a 12-month overseas gap inside the window is worth processing before investing further.",
+    "Compounding ask: she will also need Skilled Worker sponsorship within about two years. A defence contractor sponsoring a candidate who then needs SC with a China residency gap is a hard combination.",
+    "The orchestrator's role brief described Mind Foundry as insurance, infrastructure and government with a calibration and monitoring emphasis. The actual posting is Defence and National Security, sensor and sonar work, with SC vetting required. The documents were written against the verbatim posting, not the brief. The calibration angle still holds because it is verified on Mind Foundry's own site, but the user should know the sector is defence.",
+    "Defence and national security is not in her recorded target sectors, and the profile notes she is energised by direct contact with the problem owner and by healthcare and consumer-tech problems. Worth a conscious decision rather than an automatic send.",
+    "The letter commits to relocating to Oxford. Confirm she is willing before sending.",
+    "Two soft grounding items to confirm she can defend in interview: the CV says the Westlake pipeline ran 'on Linux' and that the clinical NLP models were fine-tuned 'in PyTorch'. Both are consistent with her recorded skills but are not explicitly tied to those projects in the profile.",
+    "Availability: no end date for the TikTok Shop UK internship is recorded in the profile, so the letter deliberately states only that her MSc finishes this month and does not commit to a start date.",
+    "Minor ATS artefact: the Computer Modern text layer extracts 'AWS' as 'A WS' in some parsers. AWS is not a posting keyword so impact is low, but flagging it.",
+    "Interview prep angle not used on the CV for space: the USTC spatial transcriptomics work (spot detection, filtering, clustering on noisy imaging data) is her closest honest adjacency to the posting's signal-processing nice-to-have. Frame it as detection and filtering on noisy imaging data, never as sensor fusion."
+  ]
+}

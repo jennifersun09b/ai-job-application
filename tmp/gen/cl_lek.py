@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_lek_associate_data_scientist",
+ "label":"L.E.K. Consulting Associate Data Scientist",
+ "paras":[
+ r"I am writing to apply for the Associate (Data Scientist) position in the Digital Data \& AI team at L.E.K. Consulting. I am currently completing an MSc in Health Data Science at University College London, where a distinction is expected, after graduating from Imperial College London, and I work as a Data Analyst Intern at TikTok Shop UK. Across my academic and professional experience I have taken open-ended commercial and clinical questions, turned them into structured analyses, and then had to explain honestly what those analyses could and could not support. I am particularly interested in this role because it applies analytical rigour to commercial decisions across sectors rather than to one product.",
+
+ r"What attracts me most to L.E.K. is that the Digital Data \& AI team supports case teams rather than working apart from them, so the analysis has to connect to a commercial deliverable. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved. The requirement to explain the limitations of findings is the part of the job description I responded to most, because the value of an analysis usually depends on knowing where it stops being reliable.",
+
+ r"At TikTok Shop UK I mine large-scale merchant and transaction data in SQL and Python to identify growth and operations drivers that shape UK market-entry and expansion strategy. I build KPI frameworks and dashboards used by e-commerce teams to set targets and track initiatives, turning findings into recommendations for operations, product and commercial stakeholders. I also built an AI agent, using Claude Code, that automates repetitive steps of the analytics workflow, and it has been adopted by the wider team and partner teams.",
+
+ r"On generative AI and AI agents, which you list as nice to have, my most relevant work is at DS Digital Technology on a medical AI engagement for a pharmaceutical client. I designed a 246-question benchmark and a six-dimension safety rubric with subject-matter experts, which became the client's acceptance standard for evaluating patient-facing AI answers. I built a Python pipeline calling six LLM APIs with retrieval and search augmentation, which produced and scored more than 2,400 responses through an LLM-as-judge framework, and co-built a reviewed knowledge graph whose effect on answer quality we tested with blinded paired A/B tests rather than assuming. I presented the findings, and the limitations, to client stakeholders.",
+
+ r"My MSc dissertation is where the statistics sit. I compared logistic regression against three tree ensembles for cardiovascular risk prediction on 458,840 UK Biobank participants, judging them on calibration rather than headline accuracy, then used doubly robust causal forests to estimate the effect of lifestyle change at an individual level. A large part of that project was establishing how far the conclusions could be pushed before they broke, using overlap weighting, sensitivity analysis including E-values and quantitative bias analysis, and external validation in a second cohort. I reported null results where I found them.",
+
+ r"My closest experience to consulting is Ipsos Strategy3, where I structured and analysed data from more than 80 expert interviews, built a coding framework that turned transcripts into quantitative variables, and built market-sizing and forecasting models estimating twenty million dollars of revenue potential across emerging health-product segments. This experience has strengthened my ability to work to a client's timetable and to connect an analytical finding back to the commercial question that prompted it.",
+
+ r"I should be clear about where I am starting from. My commercial experience is at internship level rather than in a full-time consulting role, my cloud experience is at a basic level on AWS, and I have not owned a model deployment in production, so those are areas where I would need support and where I would most like to develop. My Python, my SQL, my statistics and my experience evaluating generative AI systems are well established.",
+
+ r"I have the right to work in the UK until January 2029 without sponsorship, and I am based in London.",
+
+ r"Thank you for considering my application. I would welcome the opportunity to discuss how my background in data science, statistics and applied AI could support the Digital Data \& AI team.",
+ ]
+}

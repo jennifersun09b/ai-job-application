@@ -1,0 +1,41 @@
+{
+  "name": "cfc_associate_data_scientist",
+  "company": "CFC",
+  "role": "Associate Data Scientist",
+  "sector": "Insurance",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/associate-data-scientist-at-cfc-4464387340",
+  "deadline": "",
+  "fit_rating": 81,
+  "cv_file": "cv/main_cfc_associate_data_scientist.tex",
+  "cover_letter_file": "cover_letters/cover_cfc_associate_data_scientist.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 18, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 5},
+  "gaps_acknowledged": [
+    "No insurance or actuarial domain experience (posting states domain knowledge is not expected)",
+    "No production engineering ownership: CI/CD, release pipelines, monitoring and observability",
+    "No experiment tracking tooling such as MLflow"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led on LLM evaluation rather than risk modelling: the DS Digital Technology benchmark, six-dimension safety rubric and LLM-as-judge pipeline are the closest match to the posting's LLM evaluation and agent stress-testing work",
+    "Used CFC's Lane Assist agentic underwriting pilot (independently verified on cfc.com, launched April 2026 in the cyber team with underwriter approval on every quote) as the motivation hook, replacing an unverified 'leads the London cyber market' claim",
+    "Framed the dissertation as a risk model where calibration beats headline AUC, which is the underwriting-relevant reading of it, and named the causal forest work as measuring whether a change moved the outcome",
+    "Reused the posting's own section headings for the CV skills block (AI and LLMs, Technical, Analytical Foundations, ML Lifecycle) and added 'inference' to close the one truthful keyword gap",
+    "Stated both gaps plainly in one sentence and paired them with the right-to-work line: right to work in the UK until January 2029 without sponsorship, available immediately"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "Posting URL mismatch: the assignment URL ends 4464387340 but the archived posting file and its embedded LinkedIn link end 4464335782. Same company, role and text. Confirm the correct listing before applying."
+  ]
+}

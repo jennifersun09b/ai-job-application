@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_sony_graduate_analyst_business_planning_insights",
+ "label":"Sony Pictures Graduate/Analyst, Transactional Business Planning & Insights",
+ "paras":[
+ r"I am writing to apply for the Graduate/Analyst position in EMEA Transactional Business Planning \& Insights. I am currently completing an MSc in Health Data Science at University College London, after graduating from Imperial College London, and I work as a Data Analyst Intern at TikTok Shop UK. My work there is close to what this role describes: large transactional datasets, dashboards that commercial teams rely on, and analysis that has to be right and on time because decisions are made from it.",
+
+ r"At TikTok Shop UK I analyse merchant and transaction data in SQL and Python to identify trends, anomalies and the drivers behind performance across the UK marketplace. I build and maintain the KPI frameworks and dashboards that commercial and operations teams use to track performance against targets, and I prepare the analysis and presentations that go into business reviews. Much of the value is in noticing when a number moves for a reason nobody has explained yet, and then finding the explanation.",
+
+ r"I also built an AI agent that automates repetitive steps in our reporting workflow. It has been adopted by my team and by partner teams. I mention it because this role asks for someone who looks for opportunities to automate and simplify rather than accepting the reporting process as it stands, and because it is the kind of AI-assisted analytical tooling the posting refers to.",
+
+ r"My forecasting and modelling experience comes from two places. At Ipsos Strategy3 I built market-sizing and forecasting models for emerging health-product segments and turned the results into executive dashboards for client stakeholders. My MSc dissertation built predictive models over longitudinal data for 458,840 participants, where validating the data mattered more than the modelling, and I delivered the results as a Streamlit application so that people could use them without running code.",
+
+ r"I should set out where I am starting from. I have no experience of the home entertainment industry or its commercial models, and I have used Power BI rather than Tableau. I have moved between domains quickly before, from molecular biology to health data science to e-commerce analytics within two years, and the underlying tools transfer directly.",
+
+ r"I would bring strong SQL, advanced Excel, Power BI, Python, and experience building reporting that other teams depend on, together with the habit of checking data before trusting a report. I have the right to work in the UK until January 2029 without sponsorship, and I am based in London.",
+
+ r"Thank you for considering my application. I would welcome the opportunity to discuss how my experience in commercial reporting and forecasting could support the Business Planning \& Insights team.",
+ ]
+}

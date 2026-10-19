@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4435200705",
+      "title": "Senior Product Data Scientist",
+      "company": "Tripadvisor",
+      "companyUrl": "https://www.linkedin.com/company/tripadvisor",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-26",
+      "url": "https://uk.linkedin.com/jobs/view/senior-product-data-scientist-at-tripadvisor-4435200705"
+    },
+    {
+      "id": "4462435076",
+      "title": "Data Scientist, Company Planning & Execution",
+      "company": "Spotify",
+      "companyUrl": "https://se.linkedin.com/company/spotify",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-company-planning-execution-at-spotify-4462435076"
+    },
+    {
+      "id": "4454741350",
+      "title": "Staff Data Scientist, Pricing",
+      "company": "Airalo",
+      "companyUrl": "https://www.linkedin.com/company/airalocom",
+      "location": "United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/staff-data-scientist-pricing-at-airalo-4454741350"
+    },
+    {
+      "id": "4443612329",
+      "title": "Data Scientist - Measurement, Experimentation & Causal Inference",
+      "company": "Sony Interactive Entertainment",
+      "companyUrl": "https://www.linkedin.com/company/sony-interactive-entertainment-llc",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-measurement-experimentation-causal-inference-at-sony-interactive-entertainment-4443612329"
+    },
+    {
+      "id": "4473726721",
+      "title": "Senior Consultant Data Science",
+      "company": "Resultance",
+      "companyUrl": "https://lu.linkedin.com/company/resultance",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/senior-consultant-data-science-at-resultance-4473726721"
+    },
+    {
+      "id": "4473363387",
+      "title": "Senior Data Scientist | Global Leading Organisation | London",
+      "company": "Oho Group",
+      "companyUrl": "https://uk.linkedin.com/company/oho-group-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-02",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-global-leading-organisation-london-at-oho-group-4473363387"
+    },
+    {
+      "id": "4459544347",
+      "title": "Lead Data Scientist",
+      "company": "Harding+",
+      "companyUrl": "https://uk.linkedin.com/company/hardingplus",
+      "location": "Avonmouth, England, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/lead-data-scientist-at-harding%2B-4459544347"
+    },
+    {
+      "id": "4462310113",
+      "title": "Product Intelligence Data Scientist",
+      "company": "AVEVA",
+      "companyUrl": "https://uk.linkedin.com/company/aveva",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-26",
+      "url": "https://uk.linkedin.com/jobs/view/product-intelligence-data-scientist-at-aveva-4462310113"
+    },
+    {
+      "id": "4451198128",
+      "title": "Senior Data Scientist",
+      "company": "Monzo",
+      "companyUrl": "https://uk.linkedin.com/company/monzo",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-monzo-4451198128"
+    },
+    {
+      "id": "4436120078",
+      "title": "Data Scientist",
+      "company": "Optima Partners",
+      "companyUrl": "https://uk.linkedin.com/company/optima-partners",
+      "location": "Edinburgh, Scotland, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-optima-partners-4436120078"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4469885377",
+      "title": "AI Engineer",
+      "company": "Nordea",
+      "companyUrl": "https://fi.linkedin.com/company/nordea",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-09-21",
+      "url": "https://dk.linkedin.com/jobs/view/ai-engineer-at-nordea-4469885377"
+    },
+    {
+      "id": "4467399055",
+      "title": "Data AI Engineer (AI & Analytics)",
+      "company": "Laerdal Copenhagen",
+      "companyUrl": "https://dk.linkedin.com/company/laerdalcopenhagen",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-09-22",
+      "url": "https://dk.linkedin.com/jobs/view/data-ai-engineer-ai-analytics-at-laerdal-copenhagen-4467399055"
+    },
+    {
+      "id": "4468926185",
+      "title": "Senior ML Engineer",
+      "company": "Workday",
+      "companyUrl": "https://www.linkedin.com/company/workday",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-09-22",
+      "url": "https://dk.linkedin.com/jobs/view/senior-ml-engineer-at-workday-4468926185"
+    },
+    {
+      "id": "4440527218",
+      "title": "Software Engineer - Agentic AI & Java, SitaWare Insight",
+      "company": "Systematic",
+      "companyUrl": "https://dk.linkedin.com/company/systematic",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-09-10",
+      "url": "https://dk.linkedin.com/jobs/view/software-engineer-agentic-ai-java-sitaware-insight-at-systematic-4440527218"
+    },
+    {
+      "id": "4466080192",
+      "title": "Senior AI Engineer",
+      "company": "Zealand Pharma",
+      "companyUrl": "https://dk.linkedin.com/company/zealand-pharma",
+      "location": "Søborg, Capital Region of Denmark, Denmark",
+      "date": "2026-09-11",
+      "url": "https://dk.linkedin.com/jobs/view/senior-ai-engineer-at-zealand-pharma-4466080192"
+    },
+    {
+      "id": "4453242994",
+      "title": "Join Halfspace’s Engineering Team - Generative AI solutions",
+      "company": "Accenture Nordics",
+      "companyUrl": "https://www.linkedin.com/company/accenture-nordics",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-09-18",
+      "url": "https://dk.linkedin.com/jobs/view/join-halfspace%E2%80%99s-engineering-team-generative-ai-solutions-at-accenture-nordics-4453242994"
+    },
+    {
+      "id": "4459960735",
+      "title": "Experienced Software Engineer, AI Systems",
+      "company": "AudienceProject",
+      "companyUrl": "https://dk.linkedin.com/company/audience_project",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-09-15",
+      "url": "https://dk.linkedin.com/jobs/view/experienced-software-engineer-ai-systems-at-audienceproject-4459960735"
+    },
+    {
+      "id": "4469459298",
+      "title": "AI Agent Developer",
+      "company": "If Insurance",
+      "companyUrl": "https://se.linkedin.com/company/ifinsurance",
+      "location": "Copenhagen Municipality, Capital Region of Denmark, Denmark",
+      "date": "2026-09-23",
+      "url": "https://dk.linkedin.com/jobs/view/ai-agent-developer-at-if-insurance-4469459298"
+    },
+    {
+      "id": "4387796321",
+      "title": "Forward Deployed AI Engineer, Denmark - BCG X",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-09-09",
+      "url": "https://dk.linkedin.com/jobs/view/forward-deployed-ai-engineer-denmark-bcg-x-at-bcg-x-4387796321"
+    },
+    {
+      "id": "4453258941",
+      "title": "Join Halfspace’s AI & Advanced Analytics Team - Shaping the Future with AI",
+      "company": "Accenture Nordics",
+      "companyUrl": "https://www.linkedin.com/company/accenture-nordics",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-09-18",
+      "url": "https://dk.linkedin.com/jobs/view/join-halfspace%E2%80%99s-ai-advanced-analytics-team-shaping-the-future-with-ai-at-accenture-nordics-4453258941"
+    }
+  ]
+}

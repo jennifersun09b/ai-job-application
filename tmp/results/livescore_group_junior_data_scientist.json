@@ -1,0 +1,48 @@
+{
+  "name": "livescore_group_junior_data_scientist",
+  "company": "LiveScore Group",
+  "role": "Junior Data Scientist",
+  "sector": "Sports media and betting (consumer technology)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/junior-data-scientist-at-livescore-group-4462120264",
+  "deadline": "",
+  "fit_rating": 68,
+  "cv_file": "cv/main_livescore_group_junior_data_scientist.tex",
+  "cover_letter_file": "cover_letters/cover_livescore_group_junior_data_scientist.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 11, "synonym_only": 4, "missing_have_it": 0, "missing_gap": 5},
+  "gaps_acknowledged": [
+    "No Marketing Mix Modelling built in Robyn, Meridian or PyMC",
+    "No Bayesian regression or Bayesian MMM workflow experience",
+    "No GeoX / geo-lift incrementality test run",
+    "No formal econometrics or time-series modelling experience",
+    "No sports, betting or gaming domain experience",
+    "No production engineering at scale"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led on the Apple x Tmall media measurement work (12 segments, 15 paid media touchpoints, ~60M-user segment rebuild) as the closest honest analogue to an MMM pipeline, in both CV and letter",
+    "Added Ipsos Strategy3 as a third work entry for market-sizing and forecasting, to cover the posting's commercial and budget-estimate framing, and reframed the dissertation entry as causal ML plus a Streamlit simulation tool answering what-if scenarios",
+    "Named the MMM, Robyn/Meridian/PyMC, Bayesian and GeoX gaps explicitly in the letter rather than hiding them, and offered data quality, pipeline and incrementality analysis as the immediate contribution",
+    "Grounded the company paragraph in independently verified facts: three brands, LiveScore since 1998, 200 territories, FY25 operating loss narrowed to about GBP 27m on higher revenue, and 'Responsible' as a stated company value",
+    "Skills lines relabelled to the posting's vocabulary where truthful (Statistical Modelling with OLS/logistic/Ridge-Lasso, Testing and Experimentation, media touchpoint analysis); Bayesian deliberately left off as a real gap"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "GAMBLING-ADJACENT EMPLOYER: LiveScore Group owns LiveScore Bet and Virgin Bet, licensed sportsbooks in Great Britain, Gibraltar, Ireland and Nigeria. The role sits in Marketing Analytics and would model spend that acquires betting customers. This is not a stated deal-breaker in the candidate profile, so the application was drafted normally, but the user should make this call deliberately.",
+    "Responsible gambling in the posting and on the company site: the job advert itself says nothing about responsible gambling or age restrictions. LiveScore Group's own site lists 'Responsible' as one of seven company values, states it recognises 'our profound responsibility to our customers, particularly with regards to Responsible Gambling', and carries '18+ Gamble responsibly' with the BeGambleAware logo. The letter names this as a modelling constraint.",
+    "The posting file's own URL (LinkedIn job 4463547864) differs from the URL supplied in the assignment (4462120264). The archived posting text is the one supplied; the same role appears under both ids.",
+    "This is a specialised Marketing Mix Modelling role, not a general consumer product analytics role. The strongest requirements (MMM libraries, econometrics, time-series, Bayesian regression, GeoX) are genuine gaps and the letter says so openly.",
+    "Hybrid, 3 days per week in the Soho office (Tues-Thurs). No deadline stated. Nothing stated about visa sponsorship."
+  ]
+}

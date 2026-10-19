@@ -1,0 +1,46 @@
+{
+  "name": "quantumblack_ai_by_mckinsey_data_scientist_i",
+  "company": "QuantumBlack, AI by McKinsey",
+  "role": "Data Scientist I",
+  "sector": "AI consulting / professional services",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/data-scientist-i-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4318542313",
+  "deadline": "",
+  "fit_rating": 80,
+  "cv_file": "cv/main_quantumblack_ai_by_mckinsey_data_scientist_i.tex",
+  "cover_letter_file": "cover_letters/cover_quantumblack_ai_by_mckinsey_data_scientist_i.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 13, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 9},
+  "gaps_acknowledged": [
+    "No production engineering at scale (no deployed service, no ownership of a live system)",
+    "Project-scale rather than team-leadership-scale delivery stories; early career",
+    "No PySpark, Airflow, Databricks, Kedro, Dask/RAPIDS, Kubernetes, GCP or Azure experience",
+    "No SPSS or SAS (listed as nice-to-have)",
+    "Degree is MSc Health Data Science / BSc Biological Sciences, not one of the posting's named fields (CS, ML, Applied Statistics, Maths, Engineering, Physics); relies on the posting's 'or other technical fields' clause"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Promoted Ipsos Strategy3 onto the one-page CV as a third work entry so the consulting half of the role (market sizing, $20M forecast, 100+ expert interviews turned into quantitative variables) is visible before the technical projects",
+    "Built the letter around client-facing delivery rather than methods, naming Ipsos, IQVIA, Grand Pharmaceutical, BeiGene and Apple x Tmall, and closing on a first client engagement",
+    "Reused the posting's own vocabulary in the CV skills labels (Machine Learning and Data Mining, Statistics and Modelling, PyData stack) and surfaced GenAI evaluation, RAG and knowledge graphs as the honest neighbours of the posting's 'GenAI and agentic systems' strong plus, without claiming the word 'agentic'",
+    "Verified two company specifics independently before use: Kedro's open-source status and Linux Foundation hosting (kedro.org), and Vizro as McKinsey's open-source dashboarding toolkit (github.com/mckinsey/vizro); QuantumBlack's Formula 1 origin and 2015 McKinsey acquisition confirmed via Fortune and consultancy.uk coverage",
+    "Addressed logistics explicitly: London-based, available now, willing to travel, right to work in the UK with Skilled Worker sponsorship needed in about two years"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "Posting says nothing about visa sponsorship; McKinsey/QuantumBlack graduate eligibility is often gated on their own careers site, so confirm sponsorship before applying",
+    "Posting requires willingness to travel (framework flags frequent international travel for user discussion)",
+    "Degree fields named in the posting do not include Health Data Science or Biological Sciences; fit rests on the 'or other technical fields' clause",
+    "The cover letter cites IQVIA and Grand Pharmaceutical Group, which are real profile roles but do not appear on the one-page CV"
+  ]
+}

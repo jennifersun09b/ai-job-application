@@ -1,0 +1,11 @@
+{
+  "name": "trackr-cli",
+  "version": "1.0.0",
+  "description": "CLI for Trackr (the-trackr.com) application trackers: UK/US graduate schemes, internships and spring weeks via the public api.the-trackr.com JSON API. Zero runtime dependencies. Personal use only; the API allows 10 tracker requests per day, so responses are cached locally.",
+  "type": "module",
+  "main": "src/cli.ts",
+  "bin": { "trackr-search": "src/cli.ts" },
+  "scripts": { "start": "bun run src/cli.ts", "test": "bun test --timeout 30000", "typecheck": "tsc --noEmit" },
+  "dependencies": {},
+  "devDependencies": { "typescript": "^5.4.0", "@types/bun": "1.3.14" }
+}

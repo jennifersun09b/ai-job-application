@@ -1,0 +1,45 @@
+{
+  "name": "gresearch_applied_ai_engineer",
+  "company": "G-Research",
+  "role": "Applied AI Engineer",
+  "sector": "Financial Services and Capital Markets",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/applied-ai-engineer-at-g-research-4453419366",
+  "deadline": "",
+  "fit_rating": 55,
+  "cv_file": "cv/main_gresearch_applied_ai_engineer.tex",
+  "cover_letter_file": "cover_letters/cover_gresearch_applied_ai_engineer.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 6, "synonym_only": 4, "missing_have_it": 0, "missing_gap": 6},
+  "gaps_acknowledged": [
+    "No finance, trading or quantitative-markets background",
+    "No production LLM system at firm scale; LLM work is internship and project scale",
+    "No agent frameworks (LangGraph, Pydantic AI) or MCP server implementation experience",
+    "No multi-agent orchestration, memory or information-routing work",
+    "No LoRA or DPO fine-tuning; fine-tuning limited to PubMedBERT-style encoder models",
+    "No C#, C++, JVM, gRPC or Kubernetes exposure",
+    "No open-source AI contributions, conference talks or published technical writing"
+  ],
+  "sponsorship_note": "not stated in the posting; candidate holds UK right to work now and will need Skilled Worker sponsorship when current permission ends",
+  "key_tailoring_decisions": [
+    "Led the applied-AI story with the DS Digital Technology engagement: six-LLM-API pipeline with retrieval and search augmentation, 2,400+ LLM-as-judge scored responses, and the 246-question benchmark plus six-dimension rubric adopted as the client acceptance standard",
+    "Rebuilt the CV skills block around the posting's own headings (LLMs and Context Engineering, Evaluation and Reliability) and promoted the UK Biobank causal-ML work to a Project Experience entry to foreground statistical rigour (calibration, doubly robust causal forests, E-values)",
+    "Named the finance and production-scale gaps explicitly in the letter with a bridge (evaluation discipline transfers, senior review early), and tied the pitch to G-Research's independently verified stated values of honesty and curiosity plus the verified vacancy reference R3544"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "Honest fit is moderate: G-Research hires a very strong CS/maths profile and the posting asks for production LLM delivery, agent frameworks and MCPs that the candidate does not have. Recommend the user decides whether to submit.",
+    "Reviewer found and we corrected a grounding drift: the blinded paired A/B tests were designed, not confirmed run with results. Both documents now say designed. If the A/B actually ran, the letter could be strengthened with the real finding.",
+    "Apply via gresearch.com vacancy R3544 rather than LinkedIn; the reference is quoted in the letter and was verified on the company's own site."
+  ]
+}

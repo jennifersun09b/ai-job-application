@@ -1,0 +1,39 @@
+{
+  "name": "kinaxis_forward_deployed_engineer_i",
+  "company": "Kinaxis",
+  "role": "Forward Deployed Engineer I",
+  "sector": "Supply chain software (SaaS)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-i-at-kinaxis-4456104231",
+  "deadline": "",
+  "fit_rating": 72,
+  "cv_file": "cv/main_kinaxis_forward_deployed_engineer_i.tex",
+  "cover_letter_file": "cover_letters/cover_kinaxis_forward_deployed_engineer_i.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 10, "synonym_only": 7, "missing_have_it": 0, "missing_gap": 8},
+  "gaps_acknowledged": [
+    "No supply chain planning, logistics or operations domain experience (posting calls this a nice-to-have)",
+    "No production engineering at scale, no service owned in production",
+    "No Airflow, Kafka, dbt or modern data platform experience (Snowflake, Databricks, BigQuery)",
+    "No multi-agent orchestration or streaming API and authentication pattern experience",
+    "Below the stated 2-5 years of professional experience"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led the CV and letter with TikTok Shop UK Business Planning and Operations work, framing planning analytics and KPI frameworks as the closest honest analogue to supply chain planning",
+    "Added Westlake University as a third work entry to evidence data-pipeline refactoring, parallelisation and debugging imperfect data, which the posting's Data Engineering section asks for",
+    "Relabelled the CV skills block to the posting's own headings (AI and Agentic Development, Software Engineering, Data Engineering and Platforms) and named Claude Code as daily practice",
+    "Used the DS Digital client engagements (BeiGene LLM evaluation pipeline, Apple x Tmall tag rebuild) as the forward-deployed, customer-facing evidence, including presenting to client stakeholders",
+    "Addressed the up to 50 percent travel expectation and the remote UK or Ireland location explicitly, plus availability and the visa position, in one paragraph of the letter",
+    "Anchored the why-Kinaxis paragraph on two independently verified facts: Maestro concurrency plus its semantic layer, and the Maestro Agent Studio launch of 5 February 2026"
+  ],
+  "verification": {"factual_accuracy": "pass", "targeting": "pass", "consistency": "pass", "quality": "pass", "pdf_layout": "pass", "ats": "pass"},
+  "warnings": [
+    "The reviewer subagent edited the draft files directly instead of returning Part A, and never returned a narrative report. Its edits were re-audited by hand. One was rejected: it inserted 'I hold the right to work in the UK until January 2029 without sponsorship', a date supported by no grounding source, and this was reverted to the profile-grounded wording. Its Maestro Agent Studio claim was independently verified against the Kinaxis press release of 5 February 2026 and kept.",
+    "The posting says nothing about visa sponsorship, so the eligibility position past her current permission is unverified.",
+    "The posting asks for 2-5 years of professional experience and requires travel up to 50 percent."
+  ]
+}

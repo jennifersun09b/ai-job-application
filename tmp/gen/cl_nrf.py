@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_nrf_junior_data_scientist",
+ "label":"Norton Rose Fulbright Junior Data Scientist",
+ "paras":[
+ r"I am writing to apply for the Junior Data Scientist position in Legal Innovation, Design \& Technology at Norton Rose Fulbright. I am currently completing an MSc in Health Data Science at University College London, where a distinction is expected, after graduating from Imperial College London, and I work as a Data Analyst Intern at TikTok Shop UK. Across my academic and professional experience I have spent most of my time on the part of the work this role describes: exploring unfamiliar data, working out what it can and cannot support, and then measuring whether what we built actually worked. I am particularly interested in this role because it is a new R\&D capability rather than an established reporting function.",
+
+ r"What attracts me most is the emphasis on building evidence before building models. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved. The line in the role description about exploratory work producing credible hypotheses and well-documented next steps, not only charts or descriptive statistics, describes how I try to work, and it is the reason I am comfortable reporting that something did not work.",
+
+ r"At TikTok Shop UK I profile and explore unfamiliar merchant and operations datasets in Python and SQL, looking for data-quality problems, missingness and outliers before drawing conclusions. I form and test hypotheses about what is driving performance and turn the results into visualisations and recommendations for commercial and operations colleagues who do not want the technical detail. I also built an AI agent using Claude Code that speeds up repetitive exploration and documentation in my own workflow, and my team and adjacent teams now use it. I use it as an assistant rather than an authority, and I check its output before it reaches anyone else.",
+
+ r"On measuring AI products, my most relevant work is at DS Digital Technology, on a medical AI engagement for a pharmaceutical client. I designed a 246-question benchmark and a six-dimension rubric with subject-matter experts, which became the client's acceptance standard for evaluating AI answers, and built the human-review sampling and error analysis around it. I then built a Python pipeline calling six LLM APIs with retrieval and search augmentation, which produced and scored more than 2,400 responses through an LLM-as-judge framework. I also applied text analysis and information extraction to more than 4,800 consultation threads using a regex and LLM pipeline, and co-built a reviewed knowledge graph whose effect on answer quality we tested with blinded paired A/B tests rather than assuming.",
+
+ r"On reasoning about data quality and causation, my MSc dissertation is the clearest example. I built cardiovascular risk models on 458,840 UK Biobank participants, judging them on calibration rather than headline accuracy, then used doubly robust causal forests to estimate the effect of lifestyle change. Most of that project was spent on whether the result could be believed: overlap weighting for positivity, sensitivity analysis including E-values and quantitative bias analysis for unmeasured confounding, and external validation in a second cohort. I reported null results where I found them. I also led a UCL group project building a Hugging Face Transformers pipeline that parses radiology reports into structured features, fine-tuning ClinicalBERT and PubMedBERT-style models, which outperformed TF-IDF and kNN baselines.",
+
+ r"At Ipsos Strategy3 I built a structured coding framework that turned more than 80 expert interview transcripts into quantitative variables, and translated the findings into dashboards and recommendations for client stakeholders. This experience has strengthened my ability to explain an analytical decision to professionals outside my field, which I expect to matter when working with lawyers.",
+
+ r"I should be clear about the gaps. I have not worked in Microsoft Fabric or Databricks, and I have not used Spark or dbt, so those would be new to me, though I use Power BI, Git, notebooks and Docker routinely and write analyses to be re-run rather than left as one-off exploration. I have no legal-sector background. My Python, my SQL, my statistics and my experience evaluating AI systems are well established.",
+
+ r"I have the right to work in the UK until January 2029 without sponsorship, and I am based in London.",
+
+ r"Thank you for considering my application. I would welcome the opportunity to discuss how my background in exploratory analysis, causal reasoning and AI evaluation could support the R\&D team.",
+ ]
+}

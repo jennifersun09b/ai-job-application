@@ -1,0 +1,37 @@
+{
+  "id": "data-scientist-the-travel-corporation-66mfqk26",
+  "title": "Data Scientist",
+  "company": "The Travel Corporation",
+  "company_slug": "the-travel",
+  "location": "London, United Kingdom",
+  "date": "2026-09-02T07:33:04Z",
+  "url": "https://uk.whatjobs.com/pub_api__cpl__522528730__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+  "work_mode": "hybrid",
+  "regions": [
+    "uk"
+  ],
+  "countries": [
+    "gb"
+  ],
+  "skills": [
+    "ai",
+    "analytics",
+    "cloud",
+    "data-engineering",
+    "data-science",
+    "feature-engineering",
+    "machine-learning",
+    "python",
+    "snowflake",
+    "sql",
+    "statistics"
+  ],
+  "description": "Data Scientist\n\nVacancy Information\nLocation: London, UK\nSalary: Competitive\nWorking Pattern: Hybrid, 3 days per week in the office\nContract Type: Permanent\nWorking Hours: Monday to Friday\n\nAt TTC, we are Enriching lives by connecting people and places.\nFor over 100 years, we’ve been bringing the world closer together by crafting journeys that create lasting memories, lifelong friendships and meaningful cultural connections. Across more than 70 countries and our award-winning brands, we design and deliver travel experiences that go beyond sightseeing - they change perspectives.\nBehind every unforgettable journey is a passionate team making it happen. That’s where you come in.\n\nOur Values\nFive shared commitments shape how we work, and how we will work with you:\nValue Every Voice. We put people first.\nAct with Integrity. We do what is right.\nExplore Beyond Boundaries. We are driven by curiosity.\nOwn the Outcome. We take responsibility for our decisions.\nSucceed Together. We have each other's backs.\n\nThe Role\nThis is applied data science. You will use advanced analytics and machine learning to understand our customers better and solve problems that genuinely matter to the business, working with customer, booking, digital, marketing and behavioural data.\nYou will work across segmentation, propensity, personalisation, retention, forecasting and customer lifetime value, with the space to explore and the support to grow. What matters here is not building technically interesting models, but connecting rigorous analytical work to decisions, actions and outcomes you can point to. You will sit alongside experienced data scientists, engineers and analysts in a capability that is being built and scaled right now.\n\nWhat Will You Do?\nTurn customer and commercial challenges into structured analytical problems and testable hypotheses.\nExplore complex behavioural and transactional data to find what others have missed.\nDevelop and evaluate statistical and machine learning models.\nBuild segmentation, propensity, forecasting and personalisation solutions that reach real customers.\nApply rigour to feature engineering, validation and model performance.\nDesign and evaluate experiments to understand genuine impact.\nWork with Data Engineering to create reliable model inputs and productionise valuable solutions.\nMonitor solutions in the wild and keep improving them.\nCommunicate findings clearly to both technical and business audiences.\nContribute to data science standards, reproducibility and responsible AI practice.\n\nAbout You\nEssential\nStrong professional experience in data science or advanced analytics.\nAdvanced practical capability in Python and SQL.\nA strong grounding in statistics and machine learning.\nExperience developing and validating predictive models.\nExperience with customer, transactional, behavioural or digital data.\nUnderstanding of experimentation and statistical measurement.\nAnalytical curiosity paired with pragmatic commercial judgement.\nThe ability to explain complex analysis clearly and connect it to business action.\n\nDesirable\nExposure to segmentation, propensity, churn, forecasting, lifetime value or personalisation.\nExperience with Snowflake, cloud data science environments or production machine learning.\nFamiliarity with responsible AI principles and reproducible practice.\nExperience in a global, multi-brand or multi-market business.\nCuriosity about travel, hospitality or global consumer businesses.\n\nApply Now\nIf you want to build your data science career on data this rich, we would like to hear from you. Apply today, and tell us about a problem you enjoyed solving.",
+  "cities": [
+    "London"
+  ],
+  "seniority": null,
+  "category": "data_science",
+  "employment_type": "contract",
+  "salary": null
+}

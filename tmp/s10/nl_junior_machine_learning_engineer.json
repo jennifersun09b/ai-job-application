@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4469888128",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Blackbirds",
+      "companyUrl": "https://nl.linkedin.com/company/blackbirds-ai",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-21",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-engineer-at-blackbirds-4469888128"
+    },
+    {
+      "id": "4448537208",
+      "title": "Artificial Intelligence Ingenieur",
+      "company": "Momentum",
+      "companyUrl": "https://www.linkedin.com/company/momentumdigitalbv",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-28",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-ingenieur-at-momentum-4448537208"
+    },
+    {
+      "id": "4467701895",
+      "title": "Junior Roles - Data & AI",
+      "company": "Rewire",
+      "companyUrl": "https://nl.linkedin.com/company/rewirenow",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-15",
+      "url": "https://nl.linkedin.com/jobs/view/junior-roles-data-ai-at-rewire-4467701895"
+    },
+    {
+      "id": "4471500997",
+      "title": "AI Engineer - NL",
+      "company": "Capgemini",
+      "companyUrl": "https://fr.linkedin.com/company/capgemini",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-28",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-nl-at-capgemini-4471500997"
+    },
+    {
+      "id": "4468624295",
+      "title": "Junior AI Engineer",
+      "company": "Vibe Academy",
+      "companyUrl": "https://nl.linkedin.com/company/vibe-group-academy",
+      "location": "'s-Hertogenbosch, North Brabant, Netherlands",
+      "date": "2026-09-17",
+      "url": "https://nl.linkedin.com/jobs/view/junior-ai-engineer-at-vibe-academy-4468624295"
+    },
+    {
+      "id": "4466677674",
+      "title": "EngD position: AI for Underground Infrastructure Detection and Characterisation",
+      "company": "University of Twente",
+      "companyUrl": "https://nl.linkedin.com/school/university-of-twente/",
+      "location": "Enschede, Overijssel, Netherlands",
+      "date": "2026-09-24",
+      "url": "https://nl.linkedin.com/jobs/view/engd-position-ai-for-underground-infrastructure-detection-and-characterisation-at-university-of-twente-4466677674"
+    },
+    {
+      "id": "4472213766",
+      "title": "Junior Agentic AI Engineer",
+      "company": "Itility",
+      "companyUrl": "https://nl.linkedin.com/company/itility",
+      "location": "Eindhoven, North Brabant, Netherlands",
+      "date": "2026-09-26",
+      "url": "https://nl.linkedin.com/jobs/view/junior-agentic-ai-engineer-at-itility-4472213766"
+    },
+    {
+      "id": "4471878384",
+      "title": "AI Engineer",
+      "company": "Witteveen+Bos",
+      "companyUrl": "https://nl.linkedin.com/company/witteveen-bos",
+      "location": "Deventer, Overijssel, Netherlands",
+      "date": "2026-09-25",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-witteveen%2Bbos-4471878384"
+    },
+    {
+      "id": "4469436279",
+      "title": "Traineeship AI & Innovation (Dutch speaking)",
+      "company": "Bit Traineeship",
+      "companyUrl": "https://nl.linkedin.com/company/bit-traineeship",
+      "location": "Amsterdam Area",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/traineeship-ai-innovation-dutch-speaking-at-bit-traineeship-4469436279"
+    },
+    {
+      "id": "4469423669",
+      "title": "Future Tech Leaders Program (Dutch speaking)",
+      "company": "Bit Traineeship",
+      "companyUrl": "https://nl.linkedin.com/company/bit-traineeship",
+      "location": "Amsterdam Area",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/future-tech-leaders-program-dutch-speaking-at-bit-traineeship-4469423669"
+    }
+  ]
+}

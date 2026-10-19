@@ -1,0 +1,64 @@
+%-------------------------
+% Cover letter matching the jake-onepage CV (same fonts, margins, header style)
+% Compile: tectonic --chatter minimal <file>.tex  (pdfLaTeX also works)
+%-------------------------
+\documentclass[letterpaper,11pt]{article}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage[english]{babel}
+\usepackage{parskip}
+\usepackage{setspace}
+\addtolength{\oddsidemargin}{-0.45in}
+\addtolength{\evensidemargin}{-0.45in}
+\addtolength{\textwidth}{0.9in}
+\addtolength{\topmargin}{-.6in}
+\addtolength{\textheight}{1.2in}
+\urlstyle{same}
+\raggedright
+\setstretch{1.05}
+\pagestyle{empty}
+
+\begin{document}
+
+%----------HEADING (identical to the CV header)----------
+\begin{center}
+    \textbf{\Huge \scshape [YOUR_NAME]} \\ \vspace{3pt}
+    \small [YOUR_PHONE] $|$ \href{mailto:[YOUR_EMAIL]}{\underline{[YOUR_EMAIL]}} $|$
+    \href{[YOUR_LINKEDIN_URL]}{\underline{LinkedIn}} $|$
+    \href{[YOUR_GITHUB_URL]}{\underline{GitHub}} $|$
+    \href{[YOUR_PORTFOLIO_URL]}{\underline{Portfolio}}
+\end{center}
+\vspace{2pt}\hrule\vspace{10pt}
+
+\noindent [DATE, e.g. 8 September 2026]
+
+\noindent [HIRING_MANAGER_NAME or Hiring Team] \\
+[COMPANY] \\
+[COMPANY_CITY]
+
+\vspace{6pt}
+\noindent\textbf{Application for [ROLE_TITLE][REFERENCE_LINE_OPTIONAL e.g. ", reference 12345"]}
+
+\vspace{4pt}
+Dear [SALUTATION e.g. Hiring Team],
+
+[OPENING: one sentence naming the role; one sentence linking your background to it; one sentence on why this role. 3 sentences max.]
+
+[WHY THIS COMPANY: "What attracts me most to [COMPANY] is ..." with one verified specific (product, team, mission). 3-4 sentences.]
+
+[EXPERIENCE 1: the project most relevant to the posting. Open with the role/project, give one concrete number, close with what it lets you do for them. 4-5 sentences.]
+
+[EXPERIENCE 2: second most relevant project, same shape, shorter. 3-4 sentences.]
+
+[WHAT YOU BRING: "I would bring [COMPANY] ..." with two or three named capabilities and an honest note on any stated requirement you are still building. 2-3 sentences.]
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my experience aligns with [ROLE_TITLE] and [COMPANY]'s work on [SPECIFIC].
+
+\vspace{8pt}
+Yours sincerely,
+
+\vspace{14pt}
+[YOUR_NAME]
+
+\end{document}

@@ -1,0 +1,49 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: statistics, experimental design, causal inference, machine learning, model calibration and validation.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+• Core areas: mathematics, statistics, programming, bioinformatics and computational modelling.
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Query merchant growth and operations data in SQL and Python, surfacing actionable insights on the drivers behind
+UK marketplace performance.
+• Build KPI frameworks and dashboards that e-commerce operations teams use to set targets and track strategy
+initiatives.
+• Present prioritised recommendations to operations, product and commercial stakeholders, turning analysis into
+decisions.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Mined 12 Apple x Tmall audience segments across 15 advertising touchpoints, using repeated-measures, permutation
+and clustering methods.
+• Designed a 246-question benchmark and six-dimension rubric scoring 2,400+ patient-facing LLM responses for a
+pharmaceutical client.
+• Presented evaluation reports and media playbooks to pharma and consumer-tech client stakeholders in English and
+Mandarin.
+Associate Strategy Analyst May 2025 - Aug 2025
+Ipsos Strategy3 Beijing, China
+• Built market-sizing and forecasting models estimating $20M revenue potential across emerging health-product
+segments.
+• Designed a structured coding framework turning 100+ expert interviews into quantitative variables for segment-level
+analysis.
+• Delivered executive dashboards and recommendations to research and strategy teams for client reporting.
+Project Experience
+Cardiovascular Risk Prediction and Causal ML Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression against XGBoost, LightGBM and random forests on 458,840 participants, reaching AUC
+0.714-0.718 with near-perfect calibration.
+• Estimated 24 lifestyle effects with doubly robust causal forests on 71,428 participants, testing overlap and unmeasured
+confounding with E-values.
+• Shipped an interactive Streamlit tool so non-technical reviewers could explore results, and externally validated the
+models in NHEFS.
+Skills
+Programming: Python (pandas, NumPy, SciPy, scikit-learn), SQL, R, JavaScript, Linux shell, Git
+Data and Analytics Platforms : Power BI, Excel, Streamlit, Jupyter, Docker, A WS (basic), data mining and visualisation
+Data Science and Analytics Solutions : XGBoost, LightGBM, random forests, calibration, A/B testing, causal
+inference, forecasting, LLM evaluation, Claude Code
+Consulting and Delivery : stakeholder engagement, stakeholder interviews, use-case prioritisation, executive reporting |
+Languages: English (fluent), Mandarin (native)

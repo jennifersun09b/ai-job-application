@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4457350482",
+      "title": "Data Scientist (Pricing)",
+      "company": "Arthur Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/arthurfinancial",
+      "location": "London Area, United Kingdom",
+      "date": "2026-08-21",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-pricing-at-arthur-recruitment-4457350482"
+    },
+    {
+      "id": "4440473596",
+      "title": "Data Scientist",
+      "company": "InterEx Group",
+      "companyUrl": "https://uk.linkedin.com/company/interex-group",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-08-17",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-interex-group-4440473596"
+    },
+    {
+      "id": "4462214494",
+      "title": "Graduate Data Scientist",
+      "company": "Arcadis",
+      "companyUrl": "https://nl.linkedin.com/company/arcadis",
+      "location": "Manchester, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-arcadis-4462214494"
+    },
+    {
+      "id": "4462219479",
+      "title": "Graduate Data Scientist",
+      "company": "Arcadis",
+      "companyUrl": "https://nl.linkedin.com/company/arcadis",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-arcadis-4462219479"
+    },
+    {
+      "id": "4461397403",
+      "title": "Junior Data Scientist",
+      "company": "The Pensions Regulator",
+      "companyUrl": "https://uk.linkedin.com/company/the-pensions-regulator",
+      "location": "Brighton, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-scientist-at-the-pensions-regulator-4461397403"
+    },
+    {
+      "id": "4462415337",
+      "title": "Data Scientist - Energy Trading",
+      "company": "Bonhill Partners",
+      "companyUrl": "https://uk.linkedin.com/company/bonhill-partners",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-energy-trading-at-bonhill-partners-4462415337"
+    },
+    {
+      "id": "4466011166",
+      "title": "Associate Data Scientist (Power Platform)",
+      "company": "Women in Tech",
+      "companyUrl": "https://uk.linkedin.com/company/women-in-tech-uk",
+      "location": "Manchester, England, United Kingdom",
+      "date": "2026-09-11",
+      "url": "https://uk.linkedin.com/jobs/view/associate-data-scientist-power-platform-at-women-in-tech-4466011166"
+    },
+    {
+      "id": "4452736256",
+      "title": "Graduate Data Scientist - Cyber Analytics (Position located in Cheltenham, United Kingdom)",
+      "company": "KnowBe4",
+      "companyUrl": "https://www.linkedin.com/company/knowbe4",
+      "location": "Cheltenham, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-cyber-analytics-position-located-in-cheltenham-united-kingdom-at-knowbe4-4452736256"
+    },
+    {
+      "id": "4464352556",
+      "title": "Junior Data Scientist - Sales & Marketing",
+      "company": "iwoca",
+      "companyUrl": "https://uk.linkedin.com/company/iwoca",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-scientist-sales-marketing-at-iwoca-4464352556"
+    },
+    {
+      "id": "4417432842",
+      "title": "Data Scientist (London)",
+      "company": "The Voleon Group",
+      "companyUrl": "https://www.linkedin.com/company/voleon-capital-management",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-06",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-london-at-the-voleon-group-4417432842"
+    }
+  ]
+}

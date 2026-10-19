@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 3
+  },
+  "results": [
+    {
+      "id": "4435532057",
+      "title": "Data Scientist",
+      "company": "myPOS",
+      "companyUrl": "https://uk.linkedin.com/company/mypos-official",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-mypos-4435532057"
+    },
+    {
+      "id": "4467651171",
+      "title": "Data Scientist",
+      "company": "mthree",
+      "companyUrl": "https://uk.linkedin.com/company/mthree",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-mthree-4467651171"
+    },
+    {
+      "id": "4461949692",
+      "title": "Data Scientist",
+      "company": "GTR",
+      "companyUrl": "https://uk.linkedin.com/company/gtrail-uk",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-gtr-4461949692"
+    },
+    {
+      "id": "4471868611",
+      "title": "Senior Data Scientist - Last Mile Pricing",
+      "company": "Relay Technologies",
+      "companyUrl": "https://uk.linkedin.com/company/relay-tech",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-last-mile-pricing-at-relay-technologies-4471868611"
+    },
+    {
+      "id": "4470937506",
+      "title": "Data Scientist",
+      "company": "loveholidays",
+      "companyUrl": "https://uk.linkedin.com/company/loveholidays",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-loveholidays-4470937506"
+    },
+    {
+      "id": "4417348103",
+      "title": "Data Scientist - Scientific AI",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-27",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-scientific-ai-at-mckinsey-company-4417348103"
+    },
+    {
+      "id": "4470709694",
+      "title": "Data Scientist",
+      "company": "Datatech Analytics",
+      "companyUrl": "https://uk.linkedin.com/company/datatech-analytics",
+      "location": "Reading, England, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-datatech-analytics-4470709694"
+    },
+    {
+      "id": "4406624878",
+      "title": "Senior Data Scientist, Payment Intelligence",
+      "company": "GoCardless",
+      "companyUrl": "https://uk.linkedin.com/company/gocardless",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-payment-intelligence-at-gocardless-4406624878"
+    },
+    {
+      "id": "4467628478",
+      "title": "Data Scientist",
+      "company": "Leonardo",
+      "companyUrl": "https://it.linkedin.com/company/leonardo_company",
+      "location": "Luton, England, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-leonardo-4467628478"
+    },
+    {
+      "id": "4469334087",
+      "title": "Data Scientist",
+      "company": "InterEx Group",
+      "companyUrl": "https://uk.linkedin.com/company/interex-group",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-interex-group-4469334087"
+    }
+  ]
+}

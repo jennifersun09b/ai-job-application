@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4418231731",
+      "title": "Staff Machine Learning Engineer - Applied ML & Research",
+      "company": "Super",
+      "companyUrl": "https://ro.linkedin.com/company/super-technologies-international",
+      "location": "Amsterdam Area",
+      "date": "2026-09-11",
+      "url": "https://nl.linkedin.com/jobs/view/staff-machine-learning-engineer-applied-ml-research-at-super-4418231731"
+    },
+    {
+      "id": "4467213036",
+      "title": "Senior Applied AI Engineer – Agent Runtime",
+      "company": "DataSnipper",
+      "companyUrl": "https://nl.linkedin.com/company/datasnipper",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-14",
+      "url": "https://nl.linkedin.com/jobs/view/senior-applied-ai-engineer-%E2%80%93-agent-runtime-at-datasnipper-4467213036"
+    },
+    {
+      "id": "4464632383",
+      "title": "Senior AI Engineer",
+      "company": "Harnham",
+      "companyUrl": "https://uk.linkedin.com/company/harnham",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-16",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-at-harnham-4464632383"
+    },
+    {
+      "id": "4465218708",
+      "title": "Senior AI Engineer",
+      "company": "Sogeti",
+      "companyUrl": "https://fr.linkedin.com/company/sogeti",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-09-14",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-at-sogeti-4465218708"
+    },
+    {
+      "id": "4465634720",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Oakwell Hampton Group",
+      "companyUrl": "https://uk.linkedin.com/company/oakwell-hampton",
+      "location": "The Hague, South Holland, Netherlands",
+      "date": "2026-09-10",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-engineer-at-oakwell-hampton-group-4465634720"
+    },
+    {
+      "id": "4466193442",
+      "title": "AI Engineer",
+      "company": "Vattenfall",
+      "companyUrl": "https://se.linkedin.com/company/vattenfall",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-15",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-vattenfall-4466193442"
+    },
+    {
+      "id": "4464249849",
+      "title": "Tech Lead Machine Learning Engineer",
+      "company": "eBay",
+      "companyUrl": "https://www.linkedin.com/company/ebay",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-12",
+      "url": "https://nl.linkedin.com/jobs/view/tech-lead-machine-learning-engineer-at-ebay-4464249849"
+    },
+    {
+      "id": "4468464334",
+      "title": "AI Engineer",
+      "company": "Good Company",
+      "companyUrl": "https://nl.linkedin.com/company/joingoodcompany",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-09-20",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-good-company-4468464334"
+    },
+    {
+      "id": "4465974539",
+      "title": "AI Engineer",
+      "company": "Flow Traders",
+      "companyUrl": "https://nl.linkedin.com/company/flow-traders",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-16",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-flow-traders-4465974539"
+    },
+    {
+      "id": "4465792206",
+      "title": "Senior AI Engineer - NL",
+      "company": "Capgemini",
+      "companyUrl": "https://fr.linkedin.com/company/capgemini",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-09-14",
+      "url": "https://nl.linkedin.com/jobs/view/senior-ai-engineer-nl-at-capgemini-4465792206"
+    }
+  ]
+}

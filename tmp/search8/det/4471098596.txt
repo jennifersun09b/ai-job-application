@@ -1,0 +1,9 @@
+Data Analyst, New Grad
+Jobright.ai · United Kingdom
+Seniority: Entry level
+Employment: Full-time
+Function: Engineering
+Industries: Software Development
+Status: ACTIVE
+Jobright is your personal AI job search agent that transforms the way you do job search from solo, time-consuming efforts to a fast, expert-guided journey, simplifying every job search step and accelerating your route to the best job outcomes. As a Data Analyst, New Grad, you will work with a distributed team to transform product, job market, and user data into insights that improve the job search journey. Why Join Us • Build real, production AI agents used by real users • High ownership and impact • Work at the intersection of AI, agents, and product • Shape how people experience AI-driven job search Responsibilities • Analyze product, user, and job market data to identify trends and opportunities • Use SQL and analytical tools to create reports and dashboards • Define and track key product and business metrics • Support experiments and evaluate feature performance • Identify data quality issues and help improve analytical workflows • Communicate findings clearly to technical and non-technical stakeholders Qualification Required • Recent graduate or graduating soon in Data Science, Statistics, Computer Science, Mathematics, Economics, or a related field • Strong SQL skills and familiarity with spreadsheets or Python • Understanding of basic statistics, data analysis, and experimentation • Strong attention to detail and written communication skills • Ability to work remotely within the United Kingdom Preferred • Experience with pandas, scikit-learn, Tableau, Looker, or similar tools • Familiarity with product analytics, recommendation systems, or search • Experience working with large or messy datasets • Previous internship, research, or analytics project experience
+URL: https://www.linkedin.com/jobs/view/4471098596

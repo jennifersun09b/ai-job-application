@@ -1,0 +1,47 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: statistics, experimental design, causal inference, machine learning and model calibration.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+• Core areas: mathematics, programming, statistics, bioinformatics and computational biology.
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Extract merchant growth and operations data from internal systems in SQL and Python to identify UK marketplace
+performance drivers.
+• Build KPI frameworks and dashboards used by e-commerce operations teams to set targets and track strategy
+initiatives.
+• Present findings and recommendations to cross-functional operations, product and commercial stakeholders.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Benchmarked 12 Apple x Tmall audience segments across 15 ad touchpoints using repeated-measures, permutation and
+clustering tests.
+• Designed the Excel data framework and a Playwright API collector, and rebuilt deprecated tags to reproduce a
+∼60M-user segment.
+• Presented evaluation reports and recommendations to pharma and consumer-tech client stakeholders.
+Associate Strategy Analyst May 2025 - Aug 2025
+Ipsos Strategy3 Beijing, China
+• Analysed 100+ expert interviews and built a structured coding framework turning transcripts into quantitative
+variables.
+• Built market-sizing and forecasting models estimating $20M revenue potential across emerging health-product
+segments.
+• Turned healthcare and consumer findings into executive dashboards and recommendations with research and strategy
+teams.
+Project Experience
+Cardiovascular Risk Prediction and Causal ML Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression and three tree ensembles on 458,840 participants, achieving AUC 0.714-0.718 with
+near-perfect calibration.
+• Estimated lifestyle effects with doubly robust causal forests on 71,428 participants and tested overlap and confounding.
+• Built an interactive Streamlit tool and reported uncertainty honestly, including null results and sensitivity analyses.
+Skills
+Data Analysis : SQL, Python (pandas, NumPy, SciPy), R, Excel, Power BI, Git
+Quantitative Analysis : hypothesis testing, permutation and non-parametric tests, A/B testing, causal inference,
+forecasting, market sizing
+Process and Executive Communication : KPI frameworks, dashboards, market benchmarking, segmentation,
+expert-interview coding, executive reporting decks
+Machine Learning and AI : scikit-learn, XGBoost, LightGBM, LLM evaluation, Claude Code | Languages: English
+(fluent), Mandarin (native)

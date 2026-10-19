@@ -1,0 +1,755 @@
+{
+  "meta": {
+    "count": 25,
+    "page": 1,
+    "total": 2901
+  },
+  "results": [
+    {
+      "id": "data-scientist-fospha-t3pihsn6",
+      "title": "Data Scientist",
+      "company": "Fospha ",
+      "company_slug": "fospha",
+      "location": "London",
+      "date": "2026-09-07T10:46:16Z",
+      "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8143927?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "automation",
+        "aws",
+        "causal-inference",
+        "cloud",
+        "data-science",
+        "ecommerce",
+        "machine-learning",
+        "python",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-bet3651-kh6f3ot5",
+      "title": "Data Scientist",
+      "company": "Bet3651",
+      "company_slug": "bet365",
+      "location": "Stoke-on-Trent, England, gb",
+      "date": "2026-09-07T09:46:31Z",
+      "url": "https://jobs.smartrecruiters.com/Bet3651/744000147883267-data-scientist?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "analytics",
+        "cloud",
+        "data-analytics",
+        "data-mining",
+        "data-science",
+        "data-visualization",
+        "data-warehousing",
+        "deep-learning",
+        "distributed-systems",
+        "machine-learning",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-phoenix-group-cbfh3x7c",
+      "title": "Data Scientist",
+      "company": "Phoenix Group",
+      "company_slug": "phoenix-group",
+      "location": "Edinburgh, Scotland, United Kingdom",
+      "date": "2026-09-07T00:00:00Z",
+      "url": "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20827?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "aws",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "data-lake",
+        "data-science",
+        "data-warehousing",
+        "git",
+        "machine-learning",
+        "powerbi",
+        "python",
+        "spark",
+        "sql",
+        "tableau"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-clearscore-wl5wwzil",
+      "title": "Data Scientist",
+      "company": "ClearScore",
+      "company_slug": "clearscore",
+      "location": "London, UK",
+      "date": "2026-09-06T16:49:15Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5873196550?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "data-scientist-coreweave-europe-tntwvyno",
+      "title": "Data Scientist",
+      "company": "CoreWeave Europe",
+      "company_slug": "coreweave-europe",
+      "location": "London, UK",
+      "date": "2026-09-06T16:01:53Z",
+      "url": "https://coreweave.com/careers/job?4658196006=&board=coreweaveu&gh_jid=4658196006&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ab-testing",
+        "agentic-ai",
+        "ai",
+        "anomaly-detection",
+        "causal-inference",
+        "cloud",
+        "cloud-native",
+        "dask",
+        "data-science",
+        "distributed-computing",
+        "distributed-training",
+        "feature-engineering",
+        "gdpr",
+        "kubernetes",
+        "machine-learning",
+        "numpy",
+        "pandas",
+        "predictive-modeling",
+        "python",
+        "pytorch",
+        "reinforcement-learning",
+        "scikit-learn",
+        "scipy",
+        "spark",
+        "sql",
+        "statistics",
+        "tensorflow",
+        "time-series"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-consortia-s2avxvhd",
+      "title": "Data Scientist",
+      "company": "Consortia",
+      "company_slug": "consortia",
+      "location": "Soho, West London",
+      "date": "2026-09-05T11:48:13Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5871840511?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "data-science",
+        "data-visualization",
+        "python",
+        "salesforce",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-hannover-re-eoc6c5p6",
+      "title": "Data Scientist",
+      "company": "Hannover Re",
+      "company_slug": "hannover-re",
+      "location": null,
+      "date": "2026-09-05T00:00:00Z",
+      "url": "https://jobs.hannover-re.com/job/London-Data-Scientist-ENG-EC3V-0BG/1359538255/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "agile",
+        "analytics",
+        "business-development",
+        "cloud",
+        "data-analytics",
+        "data-science",
+        "devops",
+        "git",
+        "python",
+        "sql",
+        "stakeholder-management",
+        "statistics",
+        "version-control"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-bae-systems-pcxcsmps",
+      "title": "Data Scientist",
+      "company": "BAE Systems",
+      "company_slug": "bae-systems",
+      "location": null,
+      "date": "2026-09-05T00:00:00Z",
+      "url": "https://cybercareers.baesystems.com/job/Frimley-Data-Scientist/1395385833/?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "api",
+        "containerization",
+        "data-science",
+        "docker",
+        "elk",
+        "kibana",
+        "logstash",
+        "machine-learning",
+        "pandas",
+        "prototyping",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "tensorflow"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-northumberland-county-council-knegeqcy",
+      "title": "Data Scientist",
+      "company": "Northumberland County Council",
+      "company_slug": "northumberland-county-council",
+      "location": "Morpeth",
+      "date": "2026-09-05T00:00:00Z",
+      "url": "https://jobsearch.northumberland.gov.uk/jobs/job/Data-Scientist/3326?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "analytics",
+        "data-science",
+        "machine-learning",
+        "microsoft-fabric",
+        "powerbi",
+        "predictive-modeling",
+        "python",
+        "sql",
+        "strategic-planning"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-clearscore-technology-limited-lhxefo3r",
+      "title": "Data Scientist ",
+      "company": "ClearScore Technology Limited",
+      "company_slug": "clearscore-technology",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-04T14:24:35Z",
+      "url": "https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/4969020101?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "data-science",
+        "machine-learning",
+        "python",
+        "solution-design",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-ocado-group-offejbvk",
+      "title": "Data Scientist ",
+      "company": "Ocado Group",
+      "company_slug": "ocado-group",
+      "location": "London, United Kingdom",
+      "date": "2026-09-03T16:31:27Z",
+      "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4945157101&gh_jid=4945157101&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "automation",
+        "ci-cd",
+        "cloud",
+        "data-engineering",
+        "data-pipelines",
+        "data-science",
+        "deep-learning",
+        "gcp",
+        "keras",
+        "machine-learning",
+        "python",
+        "sql",
+        "tensorflow",
+        "time-series",
+        "transformers"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-deeprec-ai-3nusodxc",
+      "title": "Data Scientist",
+      "company": "DeepRec.ai",
+      "company_slug": "deeprec-ai",
+      "location": "London, UK",
+      "date": "2026-09-03T02:31:31Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5868098976?utm_medium=api&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "machine-learning"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-savant-recruitment-experts-v63jqcru",
+      "title": "Data Scientist",
+      "company": "Savant Recruitment Experts",
+      "company_slug": "savant-recruitment-experts",
+      "location": "United Kingdom",
+      "date": "2026-09-02T07:33:05Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__522512891__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "data-science",
+        "prompt-engineering",
+        "python",
+        "semantic-search",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-the-travel-corporation-66mfqk26",
+      "title": "Data Scientist",
+      "company": "The Travel Corporation",
+      "company_slug": "the-travel",
+      "location": "London, United Kingdom",
+      "date": "2026-09-02T07:33:04Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__522528730__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "cloud",
+        "data-engineering",
+        "data-science",
+        "feature-engineering",
+        "machine-learning",
+        "python",
+        "snowflake",
+        "sql",
+        "statistics"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-harnham-data-analytics-recruitment-vkugtz7d",
+      "title": "Data Scientist",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "company_slug": "harnham-data-analytics-recruitment",
+      "location": "London, UK",
+      "date": "2026-09-01T21:45:37Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5865274695?se=DD3l3cSp8RGR54Z4SFk1xA&utm_medium=api&utm_source=freehire.me&v=55A65A4557480AEDEB745D6F512D5E2795B3F023",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "analytics",
+        "data-science",
+        "predictive-modeling"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-fundingcircle-xpjw2gvz",
+      "title": "Data Scientist",
+      "company": "fundingcircle",
+      "company_slug": "funding-circle",
+      "location": "London",
+      "date": "2026-09-01T16:05:16Z",
+      "url": "https://jobs.ashbyhq.com/fundingcircle/e97e0bd0-0c97-42cc-98a7-e74ce6a544d9?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "backbone",
+        "data-science",
+        "fintech",
+        "machine-learning",
+        "python",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-triple-dot-studios-enps4od5",
+      "title": "Data Scientist",
+      "company": "Triple dot studios",
+      "company_slug": "triple-dot-studios",
+      "location": "London",
+      "date": "2026-09-01T11:02:07Z",
+      "url": "https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4953254101?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ab-testing",
+        "ai",
+        "data-engineering",
+        "data-science",
+        "ecommerce",
+        "machine-learning",
+        "prototyping",
+        "python",
+        "statistics"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-forecasting-sony-interactive-entertainment-wjbr5zni",
+      "title": "Data Scientist - Forecasting",
+      "company": "Sony Interactive Entertainment",
+      "company_slug": "sony-interactive-entertainment",
+      "location": "United Kingdom, London",
+      "date": "2026-09-07T15:32:13Z",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5556304004?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "data-pipelines",
+        "data-science",
+        "deep-learning",
+        "ecommerce",
+        "embeddings",
+        "machine-learning",
+        "mlops",
+        "pyspark",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-weather-analytics-apex-talent-solutions-tbg2w54l",
+      "title": "Data Scientist - Weather Analytics",
+      "company": "Apex Talent Solutions",
+      "company_slug": "apex-talent-solutions",
+      "location": "London",
+      "date": "2026-09-07T00:00:00Z",
+      "url": "https://www.reed.co.uk/jobs/data-scientist-weather-analytics/57317762?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "analytics",
+        "data-analytics",
+        "data-science",
+        "data-warehousing",
+        "machine-learning",
+        "predictive-analytics",
+        "predictive-modeling",
+        "python",
+        "snowflake"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-credit-risk-modelling-iwoca-6moq64hm",
+      "title": "Data Scientist - Credit Risk Modelling",
+      "company": "iwoca",
+      "company_slug": "iwoca",
+      "location": "London, UK",
+      "date": "2026-09-06T16:48:40Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5873195800?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "data-scientist-or-senior-data-scientist-hoare-lea-hla5cctg",
+      "title": "Data Scientist or Senior Data Scientist",
+      "company": "Hoare Lea",
+      "company_slug": "hoare-lea",
+      "location": "London, United Kingdom",
+      "date": "2026-09-06T09:26:34Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__527590511__7082?geoID=4&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "ci-cd",
+        "cloud",
+        "containerization",
+        "data-governance",
+        "data-science",
+        "data-visualization",
+        "data-warehousing",
+        "docker",
+        "generative-ai",
+        "machine-learning",
+        "networking",
+        "numpy",
+        "pandas",
+        "powerbi",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "sql",
+        "streamlit",
+        "tensorflow",
+        "unit-testing",
+        "version-control"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-financial-crime-hsbc-group-an6pcrce",
+      "title": "Data Scientist - Financial Crime",
+      "company": "HSBC Group",
+      "company_slug": "hsbc-group",
+      "location": "Norton, Sheffield",
+      "date": "2026-09-05T11:48:20Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5871841384?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "generative-ai",
+        "grpc",
+        "jvm",
+        "llm",
+        "microservices",
+        "python"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-fraud-moniepoint-gsgykpuj",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint",
+      "company_slug": "moniepoint",
+      "location": "Remote, London, United Kingdom",
+      "date": "2026-09-04T16:55:05Z",
+      "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4737173101?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "africa",
+        "eu",
+        "uk"
+      ],
+      "countries": [
+        "es",
+        "gb",
+        "ke",
+        "pl",
+        "za"
+      ],
+      "skills": [
+        "analytics",
+        "anomaly-detection",
+        "data-science",
+        "feature-engineering",
+        "fintech",
+        "machine-learning",
+        "model-evaluation",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-credit-risk-modelling-iwoca-co-uk-6c47yxnn",
+      "title": "Data Scientist - Credit Risk Modelling",
+      "company": "iwoca.co.uk",
+      "company_slug": "iwoca-co-uk",
+      "location": "London",
+      "date": "2026-09-04T09:05:05Z",
+      "url": "https://jobs.ashbyhq.com/iwoca.co.uk/d0254e59-397d-4057-9d87-8e57aa2c59e7?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "data-science",
+        "llm",
+        "machine-learning",
+        "prototyping",
+        "python",
+        "statistics",
+        "time-series"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-scientist-consultant-ii-hybrid-allstate-insurance-company-tdbbjzup",
+      "title": "Data Scientist Consultant II - (Hybrid)",
+      "company": "Allstate Insurance Company",
+      "company_slug": "allstate-insurance-company",
+      "location": "Belfast 10 Mays Meadow",
+      "date": "2026-09-04T00:00:00Z",
+      "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Belfast-10-Mays-Meadow/Data-Scientist-Consultant-II----Hybrid-_R34762?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "analytics",
+        "aws",
+        "azure",
+        "ci-cd",
+        "claude-code",
+        "cloud",
+        "containerization",
+        "data-analytics",
+        "data-engineering",
+        "data-science",
+        "docker",
+        "generative-ai",
+        "github",
+        "github-copilot",
+        "llm",
+        "machine-learning",
+        "mlops",
+        "predictive-analytics",
+        "predictive-modeling",
+        "python",
+        "pytorch",
+        "statistics",
+        "tensorflow"
+      ],
+      "description": null
+    }
+  ]
+}

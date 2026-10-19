@@ -1,0 +1,40 @@
+{
+  "name": "ipsos_data_labs_graduate_data_analyst",
+  "company": "Ipsos Data Labs",
+  "role": "Graduate Data Analyst",
+  "sector": "Market research and data analytics consultancy",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://www.gradcracker.com/hub/839/ipsos-data-labs/graduate-job/81816/graduate-data-analyst",
+  "deadline": "",
+  "fit_rating": 80,
+  "cv_file": "cv/main_ipsos_data_labs_graduate_data_analyst.tex",
+  "cover_letter_file": "cover_letters/cover_ipsos_data_labs_graduate_data_analyst.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 11, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 2},
+  "gaps_acknowledged": [
+    "No ownership of a production data platform or cloud data engineering (posting's team covers data platforms and cloud computing); named honestly in the letter as where she wants the training programme to push her",
+    "No direct experience in the FMCG, manufacturing, travel and tourism or public sector verticals the team serves"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Opened on the genuine inside track: her May-Aug 2025 Associate Strategy Analyst role at Ipsos Strategy3 in Beijing, framed explicitly as a different business unit from Data Labs so it reads as returning to Ipsos in a more technical seat, never as prior Data Labs or UK Ipsos experience",
+    "Second pillar is the technical step up since then: the UCL MSc, the 458,840-participant UK Biobank causal-ML dissertation, the Apple x Tmall audience and media-touchpoint analysis, and the LLM benchmark and rubric work, argued as survey and research literacy plus stronger statistics",
+    "Restored the Ipsos Strategy3 entry to the CV as a third work-experience block and relabelled the skills lines with the posting's own headings (Analytics and Insight, Data Science and AI, Data Visualisation and Reporting), leading with Power BI as the BI tool Ipsos Data Labs names"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The posting states the deadline only as '5pm Today' with no calendar date, so no deadline could be recorded without guessing. If the scrape is current the closing date is likely 2026-09-11, but this is unverified and the application should be submitted immediately.",
+    "The posting is silent on visa sponsorship. She holds the right to work in the UK now and would need Skilled Worker sponsorship in about two years; the letter states this plainly. Ipsos UK's sponsorship policy for this graduate scheme was not verified.",
+    "Salary is GBP 28,000 rising to GBP 34,500 at 18 months, low relative to her other shortlisted roles."
+  ]
+}

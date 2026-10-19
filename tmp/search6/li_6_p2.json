@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4471438025",
+      "title": "Graduate AI Engineer",
+      "company": "Essential Counsel",
+      "companyUrl": "https://uk.linkedin.com/company/essential-counsel-uk",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-ai-engineer-at-essential-counsel-4471438025"
+    },
+    {
+      "id": "4469717666",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Wipro",
+      "companyUrl": "https://in.linkedin.com/company/wipro",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/artificial-intelligence-engineer-at-wipro-4469717666"
+    },
+    {
+      "id": "4469626178",
+      "title": "Machine Learning Engineer",
+      "company": "Xantura Limited",
+      "companyUrl": "https://uk.linkedin.com/company/xantura",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-xantura-limited-4469626178"
+    },
+    {
+      "id": "4462755133",
+      "title": "Software Engineer III - LLM Suite Engineering - Senior Associate",
+      "company": "JPMorganChase",
+      "companyUrl": "https://www.linkedin.com/company/jpmorganchase",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-iii-llm-suite-engineering-senior-associate-at-jpmorganchase-4462755133"
+    },
+    {
+      "id": "4470977305",
+      "title": "AI Engineer",
+      "company": "Bowden Brown",
+      "companyUrl": "https://uk.linkedin.com/company/bowden-brown",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-at-bowden-brown-4470977305"
+    },
+    {
+      "id": "4469715800",
+      "title": "Artificial Intelligence Engineer",
+      "company": "SR2 | Socially Responsible Recruitment | Certified B Corporation™",
+      "companyUrl": "https://uk.linkedin.com/company/sr2-socially-responsible-recruitment",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/artificial-intelligence-engineer-at-sr2-socially-responsible-recruitment-certified-b-corporation%E2%84%A2-4469715800"
+    },
+    {
+      "id": "4469631026",
+      "title": "Senior Applied AI Engineer",
+      "company": "Xapien",
+      "companyUrl": "https://uk.linkedin.com/company/xapien-ai",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-applied-ai-engineer-at-xapien-4469631026"
+    },
+    {
+      "id": "4471457047",
+      "title": "Senior AI Engineer",
+      "company": "Capgemini",
+      "companyUrl": "https://fr.linkedin.com/company/capgemini",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ai-engineer-at-capgemini-4471457047"
+    },
+    {
+      "id": "4469468438",
+      "title": "Applied AI Engineer",
+      "company": "SoCode Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/socode-recruitment",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/applied-ai-engineer-at-socode-recruitment-4469468438"
+    },
+    {
+      "id": "4471101070",
+      "title": "AI Engineer Python",
+      "company": "Syngenta",
+      "companyUrl": "https://ch.linkedin.com/company/syngenta",
+      "location": "Bracknell, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-python-at-syngenta-4471101070"
+    }
+  ]
+}

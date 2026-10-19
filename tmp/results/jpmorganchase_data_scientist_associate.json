@@ -1,0 +1,43 @@
+{
+  "name": "jpmorganchase_data_scientist_associate",
+  "company": "JPMorganChase",
+  "role": "Data Scientist Associate",
+  "sector": "Financial Services",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/data-scientist-associate-at-jpmorganchase-4459862286",
+  "deadline": "",
+  "fit_rating": 61,
+  "cv_file": "cv/main_jpmorganchase_data_scientist_associate.tex",
+  "cover_letter_file": "cover_letters/cover_jpmorganchase_data_scientist_associate.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 9, "synonym_only": 1, "missing_have_it": 0, "missing_gap": 3},
+  "gaps_acknowledged": [
+    "No financial services or payments domain experience",
+    "No full-time post-graduation experience (record is internships and research posts)",
+    "No Databricks or PySpark; Power BI rather than Tableau",
+    "No production engineering at scale"
+  ],
+  "sponsorship_note": "not stated; posting is silent on visa sponsorship and work rights. Letter states right to work in the UK until January 2029 without sponsorship.",
+  "key_tailoring_decisions": [
+    "Led on consulting-style stakeholder delivery: promoted Ipsos Strategy3 ($20M market-sizing models, coding framework over 100+ expert interviews) into Work Experience alongside TikTok Shop UK and DS Digital Technology, and echoed the posting's own 'management consulting type approach to identify and prioritize use cases' in the letter and the CV skills labels",
+    "Foregrounded calibration, external validation (NHEFS) and causal inference (doubly robust causal forests, overlap weighting, E-values) over headline AUC, tied explicitly to bank model governance, which is the statistical framing a regulated lender can actually use",
+    "Named the Databricks, PySpark and payments-domain gaps outright in the letter rather than papering over them, and kept AWS marked '(basic)' on the CV; no keyword stuffing of tools she has not used"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "SENIORITY RISK: 'Associate' at JPMorganChase's Commercial and Investment Bank is a rank ABOVE the graduate Analyst rung. The posting's required list reads 'Applied years of relevant experience in Data Science and Analytics Solutions', 'Expertise in SQL' and 'Expertise in data and analytics platforms' - three experience-weighted words with no number attached. Realistic expectation is 2-3+ years of full-time work, which she does not have. Under her own screening rule this is a stretch application, not an apply-tier one. Documents are drafted and honest; the user should decide whether to submit.",
+    "Required platform stack (Databricks, PySpark, Tableau) is a genuine gap. Power BI is the nearest substitute and is not equivalent.",
+    "No payments, FX or trade finance exposure anywhere in the profile.",
+    "Company figures used in the letter ($1 trillion daily EMEA payments, 120 currencies) were fetched from jpmorgan.com/payments. Note that JPMorgan's EMEA and global pages publish conflicting country counts, so the country figure was deliberately left out; cite only the page you fetched if this comes up at interview."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4456005677",
+      "title": "Junior Data Scientist",
+      "company": "Fospha",
+      "companyUrl": "https://www.linkedin.com/company/fospha",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-11",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-scientist-at-fospha-4456005677"
+    },
+    {
+      "id": "4462219479",
+      "title": "Graduate Data Scientist",
+      "company": "Arcadis",
+      "companyUrl": "https://nl.linkedin.com/company/arcadis",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-arcadis-4462219479"
+    },
+    {
+      "id": "4463287763",
+      "title": "Graduate data scientist",
+      "company": "Bending Spoons",
+      "companyUrl": "https://it.linkedin.com/company/bendingspoons",
+      "location": "Oxford, England, United Kingdom",
+      "date": "2026-09-08",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4463287763"
+    },
+    {
+      "id": "4462214494",
+      "title": "Graduate Data Scientist",
+      "company": "Arcadis",
+      "companyUrl": "https://nl.linkedin.com/company/arcadis",
+      "location": "Manchester, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-arcadis-4462214494"
+    },
+    {
+      "id": "4457350482",
+      "title": "Data Scientist (Pricing)",
+      "company": "Arthur Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/arthurfinancial",
+      "location": "London Area, United Kingdom",
+      "date": "2026-08-21",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-pricing-at-arthur-recruitment-4457350482"
+    },
+    {
+      "id": "4417432842",
+      "title": "Data Scientist (London)",
+      "company": "The Voleon Group",
+      "companyUrl": "https://www.linkedin.com/company/voleon-capital-management",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-06",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-london-at-the-voleon-group-4417432842"
+    },
+    {
+      "id": "4463278919",
+      "title": "Graduate data scientist",
+      "company": "Bending Spoons",
+      "companyUrl": "https://it.linkedin.com/company/bendingspoons",
+      "location": "Cambridge, England, United Kingdom",
+      "date": "2026-09-08",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4463278919"
+    },
+    {
+      "id": "4462941345",
+      "title": "Data Scientist - Up to £55k - Python - AI SaaS",
+      "company": "Opus Recruitment Solutions",
+      "companyUrl": "https://uk.linkedin.com/company/opus-recruitment-solutions",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-up-to-%C2%A355k-python-ai-saas-at-opus-recruitment-solutions-4462941345"
+    },
+    {
+      "id": "4461397403",
+      "title": "Junior Data Scientist",
+      "company": "The Pensions Regulator",
+      "companyUrl": "https://uk.linkedin.com/company/the-pensions-regulator",
+      "location": "Brighton, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-scientist-at-the-pensions-regulator-4461397403"
+    },
+    {
+      "id": "4464809471",
+      "title": "Data Scientist, Early Career (UK)",
+      "company": "Jobright.ai",
+      "companyUrl": "https://www.linkedin.com/company/jobright-ai",
+      "location": "United Kingdom",
+      "date": "2026-09-11",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-early-career-uk-at-jobright-ai-4464809471"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4467543968",
+      "title": "Principal Data Scientist",
+      "company": "Cytel",
+      "companyUrl": "https://www.linkedin.com/company/cytel",
+      "location": "United Kingdom",
+      "date": "2026-09-17",
+      "url": "https://uk.linkedin.com/jobs/view/principal-data-scientist-at-cytel-4467543968"
+    },
+    {
+      "id": "4474363018",
+      "title": "Principal Data Scientist",
+      "company": "CoMind",
+      "companyUrl": "https://uk.linkedin.com/company/comindtechnologies",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/principal-data-scientist-at-comind-4474363018"
+    },
+    {
+      "id": "4465304475",
+      "title": "Senior Data Scientist",
+      "company": "Signatur Biosciences",
+      "companyUrl": "https://uk.linkedin.com/company/signatur-bio",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-09",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-signatur-biosciences-4465304475"
+    },
+    {
+      "id": "4472893054",
+      "title": "Data Scientist",
+      "company": "Abtrace",
+      "companyUrl": "https://uk.linkedin.com/company/abtrace",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-10-02",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-abtrace-4472893054"
+    },
+    {
+      "id": "4468237979",
+      "title": "Senior Data Scientist",
+      "company": "ICON Strategic Solutions",
+      "companyUrl": "https://uk.linkedin.com/company/icon-strategic-solutions",
+      "location": "Livingston, Scotland, United Kingdom",
+      "date": "2026-09-16",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-icon-strategic-solutions-4468237979"
+    },
+    {
+      "id": "4472934011",
+      "title": "Senior ML Algorithm Scientist",
+      "company": "ŌURA",
+      "companyUrl": "https://www.linkedin.com/company/oura",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ml-algorithm-scientist-at-%C5%8Dura-4472934011"
+    },
+    {
+      "id": "4471903654",
+      "title": "Senior Clinical Research Scientist",
+      "company": "Optellum",
+      "companyUrl": "https://uk.linkedin.com/company/optellum",
+      "location": "Oxford, England, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/senior-clinical-research-scientist-at-optellum-4471903654"
+    },
+    {
+      "id": "4468935133",
+      "title": "Data Science Specialist, Computational Real-World Evidence (cRWE), Data Science, London",
+      "company": "Novo Nordisk",
+      "companyUrl": "https://dk.linkedin.com/company/novo-nordisk",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/data-science-specialist-computational-real-world-evidence-crwe-data-science-london-at-novo-nordisk-4468935133"
+    },
+    {
+      "id": "4466424304",
+      "title": "Sr. Data Scientist",
+      "company": "hims & hers",
+      "companyUrl": "https://www.linkedin.com/company/hims-&-hers",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/sr-data-scientist-at-hims-hers-4466424304"
+    },
+    {
+      "id": "4444039177",
+      "title": "ML Research Engineer",
+      "company": "Circadia Health",
+      "companyUrl": "https://www.linkedin.com/company/circadia",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-11",
+      "url": "https://uk.linkedin.com/jobs/view/ml-research-engineer-at-circadia-health-4444039177"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Search Queries for Job Scraper
 
-<!-- SETUP: Customize these queries based on your skills, target roles, and location -->
+<!-- Customised by /setup 2026-09-08 for Zhuoyan Sun: UK/EU data scientist, applied AI, FDE, health data science -->
 
 ## Installed portal CLIs (primary for `/scrape`)
 
@@ -12,77 +12,95 @@ The `site:` query templates in this file are the **WebSearch fallback** — for 
 
 ## Search Sites
 
-Primary (your market's job boards - scaffold one with `/add-portal`):
-- **[YOUR_JOB_BOARD]** - your market's largest general job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: [YOUR_COUNTRY] / [YOUR_CITY]); also covered by `linkedin-search` CLI
-- **[YOUR_INDUSTRY_JOB_BOARD]** - a niche/industry board for your field (optional)
-- **[YOUR_ADDITIONAL_JOB_BOARD]** - another major board for your market (optional)
+Primary (UK market):
+- **linkedin.com/jobs** - LinkedIn job listings (filter: United Kingdom / London); covered by `linkedin-search` CLI
+- **freehire.me** - tech job aggregator; covered by `freehire-search` CLI (`--country GB`)
+- **gradcracker.com** - UK STEM graduate jobs and schemes; covered by `gradcracker-search` CLI (discipline + region pages; no free-text search, no posting dates - use `--order dateAdded --new` and `deadlineIso`)
+- **glassdoor.co.uk** - **WebSearch fallback only, no CLI.** Glassdoor's terms of use prohibit automated access and `robots.txt` disallows `/search/`, `/jobview/` and paginated `/Job/*_IP*` pages, so this framework does not scrape it. Use the `site:` queries below and open matches in the browser; use Glassdoor primarily for company reviews and salary ranges during `/apply` and `/interview` research.
+- **the-trackr.com** - Trackr application trackers (UK tech graduate schemes, internships, spring weeks); covered by `trackr-search` CLI. **Quota: 10 API requests per day**, cached 12h - `/scrape` should call only `uk-tech` `graduate-programmes` and `summer-internships` by default, with `--jobage 14` on the opening date.
 
 Secondary (company career pages via Google):
 - Direct Google searches with `site:` filters for known target companies
 
 ## Query Categories
 
-Queries are grouped by priority. Write **each category in every language from your Languages table** (see Language scope above). Combine each query with your location terms (e.g. your city, region, or metro area) where the site supports it.
+Queries are written in English only (both declared languages are English and Mandarin; no target market posts in Mandarin). Combine with location terms London / United Kingdom / Remote; EU postings use the country name.
 
-**Organize by function, not job title.** The same underlying work carries different titles across companies and markets (a "Data Scientist" role at one employer may be posted as "Insights Analyst" or "Data Consultant" at another). Name each priority category after the function it covers, and list several plausible job titles as query variants within that category rather than betting an entire priority tier on one exact title string.
+**Organize by function, not job title.** The same work is posted as Data Scientist, Insights Analyst, Product Analyst, Data Consultant or Decision Scientist depending on the employer.
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
+### Priority 1: Data Scientist (product analytics, experimentation, healthcare)
 
-These match your strongest and most desired career direction.
-
-```
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE_2]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_COUNTRY]
-```
-
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
-
-These match your domain expertise.
+Strongest and most desired direction; the TikTok analyst role and the UCL dissertation are the direct precedents.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
+site:linkedin.com/jobs "graduate data scientist" London
+site:linkedin.com/jobs "junior data scientist" "United Kingdom"
+site:linkedin.com/jobs "data scientist" (graduate OR associate OR "early career") London
+site:linkedin.com/jobs "product analyst" OR "decision scientist" OR "insights analyst" London
+site:linkedin.com/jobs "health data scientist" OR "clinical data scientist" "United Kingdom"
+site:gradcracker.com/hub "data scientist" graduate-job
+site:glassdoor.co.uk/Job "graduate data scientist" London
 ```
+CLI equivalents: `linkedin-search -q "graduate data scientist" -l "London, United Kingdom" --jobage 14`; `gradcracker-search -q "data science" -l london --order dateAdded`; `trackr-search -t uk-tech --type graduate-programmes --category "Data Science"`; `freehire-search -q "data scientist" --country GB --jobage 14`.
 
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
+### Priority 2: Applied AI / LLM evaluation / health AI
 
-Adjacent roles you could pivot into.
-
-```
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
-```
-
-### Priority 4: Broader Technical / Consulting
-
-Wider net for general technical roles.
+Domain expertise: LLM benchmark and rubric design, knowledge graphs, clinical NLP, UK Biobank causal ML.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:linkedin.com/jobs "applied AI engineer" OR "AI engineer" graduate London
+site:linkedin.com/jobs "LLM" (evaluation OR "AI quality" OR "applied scientist") London
+site:linkedin.com/jobs "clinical AI" OR "medical AI" OR "healthcare AI" "United Kingdom"
+site:linkedin.com/jobs "NLP" (clinical OR healthcare) "United Kingdom"
+site:trackr "AI and Machine Learning"
 ```
+CLI equivalents: `linkedin-search -q "applied AI engineer" -l "London, United Kingdom" --jobage 14`; `trackr-search -t uk-tech --type graduate-programmes --category "AI and Machine Learning"`; `gradcracker-search -q "machine learning" -l london`.
+
+### Priority 3: Forward Deployed Engineer / AI solutions / data consulting
+
+Adjacent: client-facing delivery is proven (BeiGene, Apple x Tmall, Ipsos), production engineering is the gap. Target graduate-friendly FDE tracks and consulting.
+
+```
+site:linkedin.com/jobs "forward deployed engineer" London
+site:linkedin.com/jobs "forward deployed" (graduate OR associate OR "new grad") "United Kingdom"
+site:linkedin.com/jobs "AI solutions engineer" OR "solutions engineer" AI London
+site:linkedin.com/jobs "data science consultant" OR "AI consultant" graduate London
+site:glassdoor.co.uk/Job "forward deployed engineer" London
+```
+CLI equivalents: `linkedin-search -q "forward deployed engineer" -l "London, United Kingdom" --jobage 14`; `freehire-search -q "forward deployed engineer" --country GB --jobage 14`.
+
+### Priority 4: Wider net (EU, remote, graduate programmes, analyst tracks)
+
+```
+site:linkedin.com/jobs "data scientist" graduate (Amsterdam OR Berlin OR Copenhagen OR Dublin OR Paris OR Zurich)
+site:linkedin.com/jobs "data scientist" remote "United Kingdom"
+site:linkedin.com/jobs "graduate analyst" (data OR analytics OR strategy) London 2027
+site:linkedin.com/jobs "graduate programme" (data OR technology OR "digital") "United Kingdom" 2027
+site:novonordisk.com graduate programme data science
+site:careers.google.com "data scientist" "university graduate"
+site:jobs.apple.com "data scientist" health
+site:jobs.bytedance.com "data scientist" graduate London
+```
+CLI equivalents: `linkedin-search -q "data scientist" -l "Remote" --jobage 14`; `linkedin-search -q "graduate data scientist" -l "Amsterdam, Netherlands" --jobage 14`; `trackr-search -t uk-tech --type summer-internships` (for 2027 internships as a fallback).
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+- **Ideal:** London and Greater London (hybrid or onsite)
+- **Acceptable:** any UK city (Cambridge, Oxford, Manchester, Edinburgh, Bristol, Brighton), fully remote UK, EU cities (Amsterdam, Berlin, Copenhagen, Dublin, Paris, Zurich, Munich)
+- **Borderline:** USA (only for exceptional employers); roles requiring relocation with no relocation support
+- **Too far:** none as a hard rule; Asia-Pacific is not currently targeted
 
 ## Language Filter
 
-Your working languages and levels are in CLAUDE.md's Languages table. When filtering scraped results, apply `04-job-evaluation.md`'s Language Gate: a posting requiring a language you haven't declared at all is excluded; a posting requiring a higher level than you declared in a language you do work in is not excluded, flag it clearly instead (see `job-scraper/SKILL.md`'s Step 3 "Quick Fit Assessment" for how the flag surfaces in `/scrape` output). Postings simply *written* in a language you don't work in, that don't require it on the job, are fine.
+Both declared languages are English (fluent) and Mandarin (native). Apply `04-job-evaluation.md`'s Language Gate: a posting requiring another language as a job condition is excluded; Mandarin-speaking roles are a positive signal, not a requirement.
 
 ## Date Filter
 
-Only include jobs posted within the last 14 days, or with an application deadline that has not yet passed. If a posting date cannot be determined, include it but flag as "date unknown".
+Only include jobs posted within the last 14 days, or with an application deadline that has not yet passed. Gradcracker exposes deadlines only (use `deadlineIso`); Trackr exposes opening dates (use `--jobage` on the opening date). If a posting date cannot be determined, include it but flag as "date unknown".
+
+## Portal budget
+
+Per `/scrape` run: LinkedIn (4-6 queries), freehire (2-3), Gradcracker (2-3 pages), Trackr **at most 2 requests** (`uk-tech` graduate-programmes and summer-internships; 10-per-day API quota, 12h cache). Danish portals stay disabled.
 
 ## Adapting Queries
 

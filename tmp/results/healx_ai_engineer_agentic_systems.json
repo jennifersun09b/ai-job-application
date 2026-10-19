@@ -1,0 +1,45 @@
+{
+  "name": "healx_ai_engineer_agentic_systems",
+  "company": "Healx",
+  "role": "AI Engineer (Agentic Systems)",
+  "sector": "Healthtech / AI drug discovery (techbio)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/ai-engineer-agentic-systems-at-healx-4459822186",
+  "deadline": "",
+  "fit_rating": 79,
+  "cv_file": "cv/main_healx_ai_engineer_agentic_systems.tex",
+  "cover_letter_file": "cover_letters/cover_healx_ai_engineer_agentic_systems.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 13, "synonym_only": 2, "missing_have_it": 0, "missing_gap": 3},
+  "gaps_acknowledged": [
+    "No drug discovery or cheminformatics experience (acknowledged in the cover letter)",
+    "No production service owned at scale, and no LLM agent shipped to production (acknowledged in the cover letter)",
+    "Below the stated 2 years of software or ML engineering experience: relevant roles are internships",
+    "No experience with the named stack (ADK, AgentSpace) or with MCP; not claimed anywhere"
+  ],
+  "sponsorship_note": "Sponsorship not stated. The posting says 'We will only consider UK-based applicants for this position.' The candidate is UK based, which the letter states.",
+  "key_tailoring_decisions": [
+    "Led on the knowledge-graph-plus-LLM-agent-plus-biomedicine overlap: the DS Digital Technology BeiGene engagement (six LLM APIs with retrieval, 2,400+ scored responses, 123-entity medically reviewed knowledge graph, blinded paired A/B tests) is the CV's centre of gravity and the letter's main experience paragraph",
+    "Added Westlake University as a third work entry for life-science and reproducible-pipeline credibility, and restored the Imperial final-year project (molecular dynamics of rare genetic variants) as a rare-disease-adjacent line; to keep one page, the UK Biobank causal-ML project was folded into the UCL education line instead of taking a full project entry",
+    "Rebuilt the skills block around the posting's own headings (Software Engineering, LLM and Agentic Systems, Evaluation, Life Science and Data) and included 'evaluation harnesses' verbatim from the bonus list, while deliberately NOT adding ADK, AgentSpace, MCP or unit testing, which the profile does not support",
+    "Company hook verified independently on healx.ai: first patient dosed in the INSPIRE-NF1 Phase 2 trial of HLX-1502, and the knowledge-graph platform; Cambridge location addressed honestly (willing to travel to Hills Road or relocate for the hybrid pattern)"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The mandatory reviewer subagent was blocked twice by the concurrent-subagent limit before succeeding on the third attempt; it did complete and its Part A edits were applied.",
+    "Grounding fixes applied on reviewer advice: the letter no longer claims clinicians signed off the safety rubric (only the knowledge graph is recorded as medically reviewed), and neither document now claims she sat with bench scientists at Westlake, which the profile does not record.",
+    "The letter no longer says 'available now' because she is in a live TikTok Shop UK internship; availability is implied by 'I finish an MSc ... this month'. If she wants an explicit start date, add it manually.",
+    "The INSPIRE-NF1 first-patient-dosed announcement dates from February 2025, so it is not recent news. Healx has a newer first-patient-dosed item for HLX-4310 in osteosarcoma that she should know about for interview.",
+    "'Tool use' on the skills line rests on the search-augmented multi-API pipeline. If she has not written an explicit tool or function-calling loop, drop that term."
+  ]
+}

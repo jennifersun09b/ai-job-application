@@ -1,0 +1,96 @@
+% 中文简历 -- 数据科学家方向. Compile with XeLaTeX / tectonic.
+\documentclass{zh_resume}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 中文姓名：把 Zhuoyan Sun 替换为你的中文名
+\name{Zhuoyan Sun}
+\contactInfo{+44(0)7422426924}{zhuoyansun41@gmail.com}{https://jennifersun09b.github.io/portfolio/}
+\centerline{\small \textbf{求职意向：}数据科学家 / 数据分析师}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\logosection{\faGraduationCap}{教育经历}
+
+\datedline{\textbf{伦敦大学学院（UCL）}}{\dateRange{2025.09}{至今}}
+\datedline{\tripleInfo{健康数据科学}{理学硕士}{健康信息学研究所}}{英国伦敦}
+
+\begin{itemize}
+  \item 预计获 Distinction（优异）学位
+  \item 核心课程：数据科学与统计、医疗人工智能、医疗高级机器学习、高级数据科学与统计
+\end{itemize}
+
+\datedline{\textbf{帝国理工学院（Imperial College London）}}{\dateRange{2021.09}{2024.06}}
+\datedline{\tripleInfo{生物科学}{理学学士}{生命科学系}}{英国伦敦}
+
+\begin{itemize}
+  \item 二等一荣誉学位（Upper Second-Class Honours）
+  \item 核心课程：数学、生物信息学、编程与统计、计算组学、整合系统生物学
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\logosection{\faSuitcase}{实习经历}
+
+\datedline{\textbf{TikTok 英国} - 数据分析实习生}{\dateRange{2026.09}{至今}}
+\datedline{商业规划与运营（TikTok Shop）}{英国伦敦}
+
+\begin{itemize}
+  \item 使用 SQL 与 Python 挖掘大规模商家与交易数据，定位商家增长与运营表现的关键驱动因素，为 TikTok Shop 英国市场的进入与扩张策略提供数据洞察
+  \item 搭建 KPI 指标体系与数据看板，供电商运营团队设定目标、追踪策略项目进展
+  \item 将分析结论转化为策略建议与落地路线图，向运营、产品与商业团队等跨职能利益相关方汇报
+\end{itemize}
+
+\datedline{\textbf{DS Digital Technology} - 数据科学实习生}{\dateRange{2026.07}{2026.09}}
+\datedline{医药客户医疗 AI 项目}{中国杭州}
+
+\begin{itemize}
+  \item 为医药客户设计 246 题骨转移患者问答评测集与 6 维度安全评分标准（含红线规则），被客户采纳为患者端 AI 回答的验收标准
+  \item 搭建 Python 评测流水线，调用 6 个大模型 API（结合检索与搜索增强），以 LLM-as-judge 框架生成并评分 2,400+ 条回答，并通过人工复核验证评分器可靠性
+  \item 设计盲法配对 A/B 实验，量化医学审核知识图谱（123 个实体、161 条关系）对回答质量的提升效果，向客户汇报结论与优化优先级
+  \item 构建正则 + 大模型两阶段信息抽取流程，挖掘 4,800+ 条患者咨询记录，沉淀为评测集背后的患者问题库
+\end{itemize}
+
+\datedline{\textbf{益普索 Ipsos Strategy3} - 数据分析实习生}{\dateRange{2025.05}{2025.08}}
+\datedline{医疗与消费者研究}{中国北京}
+
+\begin{itemize}
+  \item 建立结构化编码框架，将 80+ 场医疗专业人士访谈文本转化为可量化变量，识别市场与客户行为模式
+  \item 分析市场数据集，评估行业趋势、竞争格局与增长机会
+  \item 将分析结果转化为可视化图表与数据驱动的建议，交付客户利益相关方
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\logosection{\faWrench}{项目经历}
+
+\datedline{\textbf{心血管风险模拟的因果机器学习模型}}{\dateRange{2025.12}{2026.09}}
+\datedline{伦敦大学学院（UCL）}{英国伦敦}
+
+\begin{itemize}
+  \item 基于纵向生物样本库数据搭建端到端机器学习流水线，构建多时间点特征以预测心血管风险
+  \item 开发并验证预测模型与因果模型，估计个体在生活方式干预下的反事实风险
+  \item 部署 Streamlit 模拟应用，将模型输出转化为面向用户、可执行的预防医疗洞察
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\logosection{\faCogs}{专业技能}
+\begin{itemize}[parsep=0.5ex]
+  \item 编程语言：Python、SQL、R、Linux Shell
+  \item 统计与实验：假设检验、A/B 测试、实验设计、因果推断（因果森林、双重稳健估计）、置换检验
+  \item 机器学习：scikit-learn、XGBoost、LightGBM、PyTorch、模型校准与验证、Hugging Face Transformers、LLM 评测
+  \item 数据与工具：pandas、NumPy、SciPy、Matplotlib、Power BI、Excel、Git、Docker、Streamlit、AWS
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\logosection{\faInfo}{其他}
+\begin{itemize}[parsep=0.5ex]
+  \item LinkedIn: \href{https://www.linkedin.com/in/zhuoyan-jennifer-sun-8b6558297}{linkedin.com/in/zhuoyan-jennifer-sun-8b6558297} \quad GitHub: \href{https://github.com/jennifersun09b}{github.com/jennifersun09b}
+  \item 语言：英语 - 熟练（专业工作水平，英国本硕学历） \quad 英国工作许可：2029 年 1 月前无需雇主担保
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}

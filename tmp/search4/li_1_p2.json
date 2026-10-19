@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4470480466",
+      "title": "Data Science Consultant",
+      "company": "Sia",
+      "companyUrl": "https://fr.linkedin.com/company/sia-partners",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/data-science-consultant-at-sia-4470480466"
+    },
+    {
+      "id": "4469117852",
+      "title": "Psychometrisch Data Scientist",
+      "company": "Cito",
+      "companyUrl": "https://nl.linkedin.com/company/cito",
+      "location": "Arnhem, Gelderland, Netherlands",
+      "date": "2026-09-18",
+      "url": "https://nl.linkedin.com/jobs/view/psychometrisch-data-scientist-at-cito-4469117852"
+    },
+    {
+      "id": "4470478586",
+      "title": "Data Science Consultant",
+      "company": "Sia",
+      "companyUrl": "https://fr.linkedin.com/company/sia-partners",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/data-science-consultant-at-sia-4470478586"
+    },
+    {
+      "id": "4470410279",
+      "title": "Junior Consultant Risk, Actuariaat & AI",
+      "company": "ActuCore",
+      "companyUrl": "https://nl.linkedin.com/company/actucore",
+      "location": "The Hague, South Holland, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/junior-consultant-risk-actuariaat-ai-at-actucore-4470410279"
+    },
+    {
+      "id": "4467368498",
+      "title": "Traineeship Data Analytics",
+      "company": "Breinstein",
+      "companyUrl": "https://nl.linkedin.com/company/breinsteinnl",
+      "location": "Groningen, Netherlands",
+      "date": "2026-09-21",
+      "url": "https://nl.linkedin.com/jobs/view/traineeship-data-analytics-at-breinstein-4467368498"
+    },
+    {
+      "id": "4470419742",
+      "title": "Traineeship Data Engineering & Analytics",
+      "company": "Veneficus - THE DATA BASE",
+      "companyUrl": "https://nl.linkedin.com/company/veneficus",
+      "location": "The Randstad, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/traineeship-data-engineering-analytics-at-veneficus-the-data-base-4470419742"
+    },
+    {
+      "id": "4197312239",
+      "title": "Junior / Medior Data Consultant",
+      "company": "Emixa",
+      "companyUrl": "https://www.linkedin.com/company/emixa",
+      "location": "Naarden, North Holland, Netherlands",
+      "date": "2026-09-20",
+      "url": "https://nl.linkedin.com/jobs/view/junior-medior-data-consultant-at-emixa-4197312239"
+    },
+    {
+      "id": "4465073091",
+      "title": "Specialist Improvement (Data) e-Commerce",
+      "company": "Albert Heijn",
+      "companyUrl": "https://nl.linkedin.com/company/albert-heijn",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-09-09",
+      "url": "https://nl.linkedin.com/jobs/view/specialist-improvement-data-e-commerce-at-albert-heijn-4465073091"
+    },
+    {
+      "id": "4465658280",
+      "title": "Optimising Cancer follow-up using mathematical models and AI",
+      "company": "Erasmus University Rotterdam",
+      "companyUrl": "https://nl.linkedin.com/school/erasmus-university-rotterdam/",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-10",
+      "url": "https://nl.linkedin.com/jobs/view/optimising-cancer-follow-up-using-mathematical-models-and-ai-at-erasmus-university-rotterdam-4465658280"
+    },
+    {
+      "id": "4463868669",
+      "title": "AI Solutions Engineering Analyst",
+      "company": "Metyis",
+      "companyUrl": "https://ch.linkedin.com/company/metyis",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-09",
+      "url": "https://nl.linkedin.com/jobs/view/ai-solutions-engineering-analyst-at-metyis-4463868669"
+    }
+  ]
+}

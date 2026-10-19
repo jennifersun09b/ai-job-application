@@ -1,0 +1,160 @@
+%-------------------------
+% Resume in LaTeX (Jake's template variant) -- Zhuoyan Sun
+% Compile with pdfLaTeX (Overleaf default). Also compiles with XeLaTeX/tectonic.
+%-------------------------
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\ifdefined\pdfgentounicode
+  \input{glyphtounicode}
+  \pdfgentounicode=1   % ATS-parsable text
+\fi
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.6in}
+\addtolength{\textwidth}{1.2in}
+\addtolength{\topmargin}{-.8in}
+\addtolength{\textheight}{1.75in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Zhuoyan Sun} \\ \vspace{3pt}
+    \small +44 (0)7422 426924 $|$ \href{mailto:zhuoyansun41@gmail.com}{\underline{zhuoyansun41@gmail.com}} $|$
+    \href{https://www.linkedin.com/in/zhuoyan-jennifer-sun-8b6558297}{\underline{linkedin.com/in/zhuoyansun}} $|$
+    \href{https://jennifersun09b.github.io/portfolio/}{\underline{portfolio}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University College London}{Sep 2025 -- Sep 2026}
+      {MSc Health Data Science}{London, UK}
+      \resumeItemListStart
+        \resumeItem{\textbf{Core Modules:} Data Science \& Statistics, Advanced Machine Learning for Healthcare, AI in Healthcare}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Imperial College London}{Sep 2021 -- Jun 2024}
+      {BSc Biological Sciences}{London, UK}
+      \resumeItemListStart
+        \resumeItem{\textbf{Core Modules:} Mathematics, Bioinformatics, Programming and Statistics, Computational Omics}
+        
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Work Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Data Analyst Intern (Incoming)}{2026, start date TBC}
+      {TikTok Shop UK -- Business Planning \& Operations}{London, UK}
+      \resumeItemListStart
+        \resumeItem{Business partner to TikTok Shop UK eCommerce teams: merchant growth analysis, KPI frameworks, roadmaps}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Applied AI Engineer}{Jul 2026 -- Present}
+      {DS Digital Technology}{Hangzhou, CN}
+      \resumeItemListStart
+        \resumeItem{Translated pharma client BeiGene\textquotesingle s open-ended brief into a scoped medical-AI deliverable: 246-question patient benchmark, 6-dimension rubric with red-line safety rules, LLM-as-judge scoring and a grounding knowledge graph}
+        \resumeItem{Built the end-to-end Python pipeline calling 6 LLM APIs via an OpenAI-compatible gateway with Tavily/Doubao search augmentation, parallel runs and checkpointing; 2,400+ traceable responses and stakeholder HTML reports}
+        \resumeItem{Built a medically reviewed knowledge graph (123 entities, 161 evidence-linked relations) and a defect-driven KB toolkit (extraction, citation validation, quality checks) packaged as an agent skill; ran blinded A/B evaluations of KB uplift}
+        \resumeItem{Automated data collection with Playwright: RPA scripts harvesting answers from 6 LLM web chat UIs on a scheduler/worker platform, and a session-attached collector capturing Tmall Databank API responses into Excel}
+        \resumeItem{Apple $\times$ Tmall: re-validated 12 audience segments across Databank/DMP/Strategy Center, rebuilt deprecated tags ($\sim$60M-user segment) and delivered a statistical touchpoint analysis (Friedman, permutation, CLR) as playbooks}
+        \resumeItem{Mined 4,800+ consultation threads (140k+ messages) with a regex + LLM extraction pipeline into a patient-question bank and journey insights presented to the client}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Associate Strategy Analyst}{May 2025 -- Aug 2025}
+      {Ipsos Strategy3}{Beijing, CN}
+      \resumeItemListStart
+        \resumeItem{Ran 100+ expert interviews and analysed healthcare and consumer datasets for pharma clients; built market-sizing models estimating \$20M revenue potential and presented recommendations and dashboards to client stakeholders}
+        \resumeItem{Worked with cross-functional data, research and strategy teams to deliver client-ready business recommendations}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Project Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Clinical NLP \& LLM Pipeline for Radiology Reports}{Jan 2026 -- Present}
+      {University College London}{London, UK}
+      \resumeItemListStart
+        \resumeItem{Built an NLP pipeline with Hugging Face Transformers to parse radiology reports into structured features and fine-tuned ClinicalBERT-style models to quantify diagnostic difficulty}
+        \resumeItem{Developed an evaluation framework surfacing failure modes in vision-language systems and benchmarking reliability against text-derived signals and patient data}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Causal ML Model for Cardiovascular Risk Simulation}{Dec 2025 -- Present}
+      {University College London}{London, UK}
+      \resumeItemListStart
+        \resumeItem{Built an end-to-end ML pipeline on longitudinal biobank data and developed predictive and causal ML models producing individual-level counterfactual risk estimates for lifestyle interventions}
+        \resumeItem{Shipped a simulation-driven web app (Streamlit) translating model outputs into actionable, user-facing insights for preventive healthcare}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------SKILLS-----------
+\section{Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Programming}{: Python, SQL, JavaScript, R, Linux Shell} \\
+     \textbf{LLM \& Agents}{: OpenAI-compatible / Anthropic APIs, RAG, knowledge graphs, LLM-as-judge evaluation, prompt \& rubric design} \\
+     \textbf{Data \& ML}{: pandas, NumPy, SciPy, scikit-learn, PyTorch, Hugging Face, XGBoost, statistics \& A/B testing} \\
+     \textbf{Delivery}{: Git, Docker, Linux, Playwright / RPA, Streamlit, SQLite, AWS, Power BI $|$ \textbf{Languages}: English, Mandarin}
+    }}
+ \end{itemize}
+
+\end{document}

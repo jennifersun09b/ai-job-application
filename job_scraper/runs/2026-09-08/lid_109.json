@@ -1,0 +1,15 @@
+{
+  "id": "4448080067",
+  "title": "Data Scientist",
+  "company": "mthree",
+  "companyUrl": "https://uk.linkedin.com/company/mthree",
+  "location": "Sheffield, England, United Kingdom",
+  "date": null,
+  "url": "https://www.linkedin.com/jobs/view/4448080067",
+  "description": "Data Scientist The Opportunity We are seeking a Data Scientist to join our Global Technology Division. This role sits within a highly strategic engineering team focused on predictive enterprise optimization and internal mobility platforms. You will hold the keys to a core mathematical engine, designing and deploying sophisticated recommendation models and matching indexes that mathematically balance complex business constraints against corporate operational overhead. Key Responsibilities Algorithm & Index Design: Develop, tune, and maintain semantic matching algorithms, recommendation engines, or Natural Language Processing (NLP) models to map unstructured text profiles against highly technical corporate frameworks. Predictive Optimisation Modeling: Build mathematical optimization models evaluating personnel distribution variables alongside geographic constraints and operational cost parameters to calculate cost-effective resource strategies. Upholding Statistical Truth: Champion mathematical and statistical rigor. Ensure all machine learning models accurately handle data imbalances, control for historical performance biases, and rigorously evaluate algorithmic fairness. Collaborative AI Deployment: Work closely with upstream data teams to track model metrics, monitor algorithmic prediction drift, and safely surface confidence scores to executive decision-makers. Required Technical Skills Experience: Intermediate experience as a Data Scientist, Machine Learning Engineer, or Quantitative Analyst within an enterprise environment (Fintech, Banking, or Scale-up SaaS preferred). Python Mastery: Complete fluency in Python and specialized machine learning/statistical libraries (scikit-learn, SciPy, statsmodels). Hands-on exposure to NLP frameworks or text embeddings (spaCy, HuggingFace) is highly valued. Statistical Rigor: A solid foundation in applied statistics, including clustering, regression architectures, and predictive modeling validation techniques. Exploratory Data Storytelling: Ability to visually explain algorithm performance trends (using Plotly, Seaborn, etc.) and present model logic transparently to senior management. Data Scientist",
+  "seniority": "Associate",
+  "employmentType": "Full-time",
+  "jobFunction": "Information Technology",
+  "industries": "Banking and IT Services and IT Consulting",
+  "isActive": true
+}

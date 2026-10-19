@@ -1,0 +1,40 @@
+{
+  "name": "marketcast_junior_data_scientist_i_dsaas",
+  "company": "MarketCast",
+  "role": "Junior Data Scientist I - DSaaS",
+  "sector": "Market Research / Media and Advertising Measurement",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/junior-data-scientist-i-dsaas-at-marketcast-4464678112",
+  "deadline": "",
+  "fit_rating": 78,
+  "cv_file": "cv/main_marketcast_junior_data_scientist_i_dsaas.tex",
+  "cover_letter_file": "cover_letters/cover_marketcast_junior_data_scientist_i_dsaas.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 16, "synonym_only": 1, "missing_have_it": 0, "missing_gap": 1},
+  "gaps_acknowledged": [
+    "No TV viewing data or TV/media industry experience; bridged in the letter via advertising audience measurement on the Apple x Tmall programme and a stated interest in learning the media side",
+    "AWS experience is basic rather than platform-level; stated plainly in the letter and marked '(basic)' on the CV"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led the DS Digital Technology entry with the Apple x Tmall advertising work (12 segments x 15 touchpoints, ~60M-user segment rebuild, per-segment media playbooks) so the CV opens on campaign and audience measurement, which is MarketCast's core business",
+    "Added Ipsos Strategy3 as a third work entry to put market-research industry experience on the page, since MarketCast's clients and teams are market research",
+    "Reused the posting's own vocabulary where truthful: 'interrogate', 'bespoke client reports', 'supervised and unsupervised learning', 'algorithms', 'data visualisations', plus a Skills line carrying Python, Pandas, SQL, Streamlit and AWS",
+    "Anchored the 'why this company' paragraph on Brand Effect and Total Effect, verified on marketcast.com rather than from the posting"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The mandatory reviewer subagent could not be spawned: the Agent tool returned 'Concurrent subagent limit reached' on two attempts because 20 drafter agents are already running. The grounding audit, AI-tells audit, template-compliance check, company research and company_research/marketcast.json were completed by the drafting agent instead. A second-pair-of-eyes review has therefore NOT happened on this application.",
+    "Company research facts taken from Glassdoor and Companies House are search-result leads only; the pages themselves were not fetched. Neither is used in the cover letter."
+  ]
+}

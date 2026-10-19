@@ -1,0 +1,100 @@
+Zhuoyan Sun
++44(0)7422426924 | zhuoyansun41@gmail.com | Linkedin | GitHub | Portfolio
+Education
+University College London Sep 2025 - Present
+MSc Health Data Science (Distinction Expected) London | UK
+• Core Modules: Data Science and Statistics, Artificial Intelligence in Healthcare, Advanced Machine Learning for
+Healthcare, Advanced Data Science and Statistics
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second Class Honor) London | UK
+• Core Modules: Mathematics, Bioinformatics, Programming and Statistics, Computational Omics, Integrative
+System Biology
+Work Experience
+Data Analyst Intern Sep 2026 - Present
+TikTok UK London | UK
+• Built an AI agent that automates repetitive steps of the analytics workflow, adopted by the wider team and
+partner teams to improve efficiency across teams
+• Mine large-scale merchant and transaction data in SQL and Python to identify growth and operations drivers that
+shape TikTok Shop’s UK market-entry and expansion strategy
+• Build KPI frameworks and dashboards used by e-commerce teams to set targets and track initiatives, turning
+findings into recommendations for operations, product and commercial stakeholders
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou | CN
+• Turned an open-ended client question into a structured analysis: designed a 246-question benchmark and
+6-dimension safety rubric adopted as a pharmaceutical client’s acceptance standard for patient-facing AI answers
+• Developed a Python pipeline calling 6 LLM APIs with retrieval and search augmentation, producing and scoring
+2,400+ responses with an LLM-as-judge framework, and built AI agents and a reviewed knowledge graph
+• Ran blinded A/B tests to measure the knowledge graph’s effect on answer quality, and presented findings,
+limitations and priorities to client stakeholders
+Data Analyst Intern May 2025 - Aug 2025
+Ipsos Strategy3 Beijing | CN
+• Structured and analysed data from 80+ expert interviews, building a coding framework that turned unstructured
+transcripts into quantitative variables for commercial analysis
+• Built market-sizing and forecasting models estimating $20M revenue potential across emerging health-product
+segments
+• Connected analytical findings to the commercial question and presented visualisations and recommendations to
+client stakeholders
+Project Experience
+Causal ML Model for Cardiovascular Risk Simulation Dec 2025 - Sep 2026
+University College London London | UK
+• Built an end-to-end machine learning pipeline on longitudinal biobank data, engineering multi-timepoint features
+to predict cardiovascular risk
+• Developed and validated predictive and causal models that estimate individual-level counterfactual risk under
+lifestyle interventions
+• Deployed a Streamlit simulation app that translates model outputs into actionable, user-facing insights for
+preventive healthcare
+Skills
+Programming: Python, SQL, R, Git, Linux shell
+Data Science and Statistics : exploratory data analysis, statistical inference and significance testing, experimental
+design, A/B testing, causal inference, model validation and calibration, uncertainty and limitations
+Machine Learning and AI : supervised and unsupervised learning, scikit-learn, XGBoost, PyTorch, generative AI, AI
+agents, LLM evaluation, RAG, knowledge graphs
+Data and T ools : pandas, NumPy, SciPy, Matplotlib, Power BI, Excel, Docker, Streamlit, AWS, Claude Code
+Languages: English (fluent), Mandarin (native)
+Dear Hiring Manager,
+I am writing to apply for the Associate (Data Scientist) position in the Digital Data & AI team at L.E.K.
+Consulting. I am currently completing an MSc in Health Data Science at University College London, where a
+distinction is expected, after graduating from Imperial College London, and I work as a Data Analyst Intern at
+TikTok Shop UK. Across my academic and professional experience I have taken open-ended commercial and
+clinical questions, turned them into structured analyses, and then had to explain honestly what those analyses
+could and could not support. I am particularly interested in this role because it applies analytical rigour to
+commercial decisions across sectors rather than to one product.
+What attracts me most to L.E.K. is that the Digital Data & AI team supports case teams rather than working
+apart from them, so the analysis has to connect to a commercial deliverable. I enjoy taking an unclear business
+problem, identifying what users actually need, and turning it into a workflow that can be tested and improved.
+The requirement to explain the limitations of findings is the part of the job description I responded to most,
+because the value of an analysis usually depends on knowing where it stops being reliable.
+At TikTok Shop UK I mine large-scale merchant and transaction data in SQL and Python to identify growth
+and operations drivers that shape UK market-entry and expansion strategy. I build KPI frameworks and
+dashboards used by e-commerce teams to set targets and track initiatives, turning findings into
+recommendations for operations, product and commercial stakeholders. I also built an AI agent, using Claude
+Code, that automates repetitive steps of the analytics workflow, and it has been adopted by the wider team and
+partner teams.
+On generative AI and AI agents, which you list as nice to have, my most relevant work is at DS Digital
+Technology on a medical AI engagement for a pharmaceutical client. I designed a 246-question benchmark and
+a six-dimension safety rubric with subject-matter experts, which became the client’s acceptance standard for
+evaluating patient-facing AI answers. I built a Python pipeline calling six LLM APIs with retrieval and search
+augmentation, which produced and scored more than 2,400 responses through an LLM-as-judge framework, and
+co-built a reviewed knowledge graph whose effect on answer quality we tested with blinded paired A/B tests
+rather than assuming. I presented the findings, and the limitations, to client stakeholders.
+My MSc dissertation is where the statistics sit. I compared logistic regression against three tree ensembles for
+cardiovascular risk prediction on 458,840 UK Biobank participants, judging them on calibration rather than
+headline accuracy, then used doubly robust causal forests to estimate the effect of lifestyle change at an
+individual level. A large part of that project was establishing how far the conclusions could be pushed before
+they broke, using overlap weighting, sensitivity analysis including E-values and quantitative bias analysis, and
+external validation in a second cohort. I reported null results where I found them.
+My closest experience to consulting is Ipsos Strategy3, where I structured and analysed data from more than 80
+expert interviews, built a coding framework that turned transcripts into quantitative variables, and built
+market-sizing and forecasting models estimating twenty million dollars of revenue potential across emerging
+health-product segments. This experience has strengthened my ability to work to a client’s timetable and to
+connect an analytical finding back to the commercial question that prompted it.
+I should be clear about where I am starting from. My commercial experience is at internship level rather than
+in a full-time consulting role, my cloud experience is at a basic level on A WS, and I have not owned a model
+deployment in production, so those are areas where I would need support and where I would most like to
+develop. My Python, my SQL, my statistics and my experience evaluating generative AI systems are well
+established.
+I have the right to work in the UK until January 2029 without sponsorship, and I am based in London.
+Thank you for considering my application. I would welcome the opportunity to discuss how my background in
+data science, statistics and applied AI could support the Digital Data & AI team.
+Yours sincerely,
+Zhuoyan Sun

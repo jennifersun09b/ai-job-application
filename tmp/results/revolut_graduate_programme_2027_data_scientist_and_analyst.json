@@ -1,0 +1,46 @@
+{
+  "name": "revolut_graduate_programme_2027_data_scientist_and_analyst",
+  "company": "Revolut",
+  "role": "Graduate Programme 2027: Data Scientist and Analyst",
+  "sector": "Financial Services (fintech)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/graduate-programme-2027-data-scientist-and-analyst-at-revolut-4455628108",
+  "deadline": "",
+  "fit_rating": 78,
+  "cv_file": "cv/main_revolut_graduate_programme_2027_data_scientist_and_analyst.tex",
+  "cover_letter_file": "cover_letters/cover_revolut_graduate_programme_2027_data_scientist_and_analyst.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 15, "synonym_only": 4, "missing_have_it": 0, "missing_gap": 2},
+  "gaps_acknowledged": [
+    "No financial services or banking domain experience (acknowledged directly in the letter)",
+    "No production engineering at scale (acknowledged directly in the letter)",
+    "LookML / Looker not used; she has Power BI and Streamlit instead, left as an honest gap and never stuffed",
+    "Degree subject is Biological Sciences plus MSc Health Data Science rather than computer science, maths or physics, so the quantitative content is made explicit in the Education 'Core areas' line"
+  ],
+  "sponsorship_note": "Posting says the programme is open to international applicants willing to relocate to a tech hub in Poland, Portugal, Spain, the UK or the UAE, with visa assistance, travel costs and accommodation (conditions apply). No refusal of sponsorship. Letter states she holds the right to work in the UK until January 2029 without sponsorship.",
+  "key_tailoring_decisions": [
+    "Led with TikTok Shop UK consumer product analytics (merchant growth, operational funnels, KPI frameworks, ad-hoc analysis in SQL and Python) as the closest analogue to Revolut's product-team data work, using the posting's own funnel and conversion vocabulary",
+    "Made experimentation and causal rigour the second pillar: blinded paired A/B tests, permutation and repeated-measures methods, and the dissertation's doubly robust causal forests, overlap weighting and E-values on 71,428 participants, plus calibrated risk models on 458,840 records to cover the posting's 'machine learning models' requirement",
+    "Anchored the why-Revolut paragraph in the independently verified March 2026 mobilisation exit and full UK banking licence (tech.eu, corroborated by CNBC), tying it to the posting's own examples of interest rate sensitivity and incentive profitability",
+    "Addressed logistics explicitly: either 2027 intake, UK preference, three days a week in the office, and the right to work in the UK until January 2029 without sponsorship",
+    "Added an Ipsos Strategy3 entry and an analytics-engineering skills line (KPI frameworks, funnel and conversion analysis, dashboards, ETL and Python data pipelines) to cover the posting's analytics-engineering and data-infrastructure themes; trimmed the Imperial modules line to hold one page",
+    "Kept the Mandarin and China sentence, since the programme spans multiple markets and global teams, against the reviewer's suggestion to cut it"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The posting states applications open from May 2026 and recruitment runs July to December 2026, with roles filled on a rolling basis. Apply as early as possible; there is no stated deadline.",
+    "Programme start is early or late 2027, so there is a gap between her September 2026 MSc completion and the start date. The letter says either intake works but does not explain how she would bridge the interim; expect that question at interview.",
+    "The posting asks for a 2:1 in computer science, maths, physics or a related field. Her BSc is Biological Sciences (2:1) with an MSc in Health Data Science, which should qualify as related but is not a literal match.",
+    "LookML/Looker is a genuine gap and was deliberately left uncovered."
+  ]
+}

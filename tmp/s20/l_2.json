@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4473883085",
+      "title": "Graduate data scientist",
+      "company": "Bending Spoons",
+      "companyUrl": "https://it.linkedin.com/company/bendingspoons",
+      "location": "Cambridge, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4473883085"
+    },
+    {
+      "id": "4456005677",
+      "title": "Junior Data Scientist",
+      "company": "Fospha",
+      "companyUrl": "https://www.linkedin.com/company/fospha",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-scientist-at-fospha-4456005677"
+    },
+    {
+      "id": "4417432842",
+      "title": "Data Scientist (London)",
+      "company": "The Voleon Group",
+      "companyUrl": "https://www.linkedin.com/company/voleon-capital-management",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-27",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-london-at-the-voleon-group-4417432842"
+    },
+    {
+      "id": "4471524483",
+      "title": "Data Scientist, Early Career (UK)",
+      "company": "Jobright.ai",
+      "companyUrl": "https://www.linkedin.com/company/jobright-ai",
+      "location": "United Kingdom",
+      "date": "2026-09-28",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-early-career-uk-at-jobright-ai-4471524483"
+    },
+    {
+      "id": "4452736256",
+      "title": "Graduate Data Scientist - Cyber Analytics (Position located in Cheltenham, United Kingdom)",
+      "company": "KnowBe4",
+      "companyUrl": "https://www.linkedin.com/company/knowbe4",
+      "location": "Cheltenham, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-cyber-analytics-position-located-in-cheltenham-united-kingdom-at-knowbe4-4452736256"
+    },
+    {
+      "id": "4435550491",
+      "title": "Math, Physics & Engineering Graduates",
+      "company": "Prima",
+      "companyUrl": "https://it.linkedin.com/company/prima-assicurazioni",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/math-physics-engineering-graduates-at-prima-4435550491"
+    },
+    {
+      "id": "4475083275",
+      "title": "Technical Graduate - Data Analysis & Data Science 2027",
+      "company": "CGI",
+      "companyUrl": "https://ca.linkedin.com/company/cgi",
+      "location": "Wideopen, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/technical-graduate-data-analysis-data-science-2027-at-cgi-4475083275"
+    },
+    {
+      "id": "4474138160",
+      "title": "Copy of Graduate Marketing Scientist",
+      "company": "Blenheim Chalcot",
+      "companyUrl": "https://uk.linkedin.com/company/blenheim-chalcot",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/copy-of-graduate-marketing-scientist-at-blenheim-chalcot-4474138160"
+    },
+    {
+      "id": "4471736345",
+      "title": "Junior Quantitative Researcher",
+      "company": "Durlston Partners",
+      "companyUrl": "https://uk.linkedin.com/company/durlston-partners",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/junior-quantitative-researcher-at-durlston-partners-4471736345"
+    },
+    {
+      "id": "4472703494",
+      "title": "Data Scientist (Pricing)",
+      "company": "Arthur Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/arthurfinancial",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-28",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-pricing-at-arthur-recruitment-4472703494"
+    }
+  ]
+}

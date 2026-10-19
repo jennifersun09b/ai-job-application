@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4473099992",
+      "title": "Generative AI Engineer",
+      "company": "Opus Recruitment Solutions",
+      "companyUrl": "https://uk.linkedin.com/company/opus-recruitment-solutions",
+      "location": "United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/generative-ai-engineer-at-opus-recruitment-solutions-4473099992"
+    },
+    {
+      "id": "4474286394",
+      "title": "Data Engineer (Bioinformatics)",
+      "company": "Our Future Health UK",
+      "companyUrl": "https://uk.linkedin.com/company/our-future-health-uk",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-05",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-bioinformatics-at-our-future-health-uk-4474286394"
+    },
+    {
+      "id": "4458515436",
+      "title": "Staff Software Engineer - Data Platforms",
+      "company": "Our Future Health UK",
+      "companyUrl": "https://uk.linkedin.com/company/our-future-health-uk",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/staff-software-engineer-data-platforms-at-our-future-health-uk-4458515436"
+    },
+    {
+      "id": "4473654568",
+      "title": "Founding Engineer",
+      "company": "Cavendish Professionals",
+      "companyUrl": "https://uk.linkedin.com/company/cavendish-professionals",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-05",
+      "url": "https://uk.linkedin.com/jobs/view/founding-engineer-at-cavendish-professionals-4473654568"
+    },
+    {
+      "id": "4467064829",
+      "title": "Senior Data Scientist",
+      "company": "TrueNorth®",
+      "companyUrl": "https://uk.linkedin.com/company/true-north-ltd",
+      "location": "United Kingdom",
+      "date": "2026-09-14",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-truenorth%C2%AE-4467064829"
+    },
+    {
+      "id": "4469216576",
+      "title": "Data Analyst",
+      "company": "Home-Start UK",
+      "companyUrl": "https://uk.linkedin.com/company/home-start-uk",
+      "location": "United Kingdom",
+      "date": "2026-09-18",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-home-start-uk-4469216576"
+    },
+    {
+      "id": "4470917747",
+      "title": "Data Engineer",
+      "company": "Burns Sheehan",
+      "companyUrl": "https://uk.linkedin.com/company/burnssheehan",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-burns-sheehan-4470917747"
+    },
+    {
+      "id": "4473736994",
+      "title": "Software Engineer - Research Data Platform",
+      "company": "Bioptimus",
+      "companyUrl": "https://fr.linkedin.com/company/bioptimus",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-research-data-platform-at-bioptimus-4473736994"
+    },
+    {
+      "id": "4473741541",
+      "title": "Software Engineer - Research Data Platform",
+      "company": "Bioptimus",
+      "companyUrl": "https://fr.linkedin.com/company/bioptimus",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-research-data-platform-at-bioptimus-4473741541"
+    },
+    {
+      "id": "4464512300",
+      "title": "Band 8a Informatics Business Partner",
+      "company": "University Hospitals Birmingham NHS Foundation Trust",
+      "companyUrl": "https://uk.linkedin.com/company/uhb",
+      "location": "West Midlands, England, United Kingdom",
+      "date": "2026-09-10",
+      "url": "https://uk.linkedin.com/jobs/view/band-8a-informatics-business-partner-at-university-hospitals-birmingham-nhs-foundation-trust-4464512300"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4466850484",
+      "title": "Senior Data Scientist",
+      "company": "Wundermart",
+      "companyUrl": "https://nl.linkedin.com/company/wundermart",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-16",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-at-wundermart-4466850484"
+    },
+    {
+      "id": "4469418509",
+      "title": "Senior Data Scientist (m/f/d)",
+      "company": "Jobgether",
+      "companyUrl": "https://be.linkedin.com/company/jobgether",
+      "location": "Netherlands",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-m-f-d-at-jobgether-4469418509"
+    },
+    {
+      "id": "4459446449",
+      "title": "Data Scientist",
+      "company": "Nationale-Nederlanden",
+      "companyUrl": "https://nl.linkedin.com/company/nationale-nederlanden",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-19",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-at-nationale-nederlanden-4459446449"
+    },
+    {
+      "id": "4470621759",
+      "title": "Senior Data Scientist, Buyer",
+      "company": "Vinted",
+      "companyUrl": "https://lt.linkedin.com/company/vinted",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-buyer-at-vinted-4470621759"
+    },
+    {
+      "id": "4422392096",
+      "title": "Senior Data Scientist",
+      "company": "IG&H",
+      "companyUrl": "https://nl.linkedin.com/company/ig&h",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-09-18",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-at-ig-h-4422392096"
+    },
+    {
+      "id": "4468558248",
+      "title": "Data Scientist",
+      "company": "CIMSOLUTIONS",
+      "companyUrl": "https://nl.linkedin.com/company/cimsolutions",
+      "location": "North Holland, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-at-cimsolutions-4468558248"
+    },
+    {
+      "id": "4459437506",
+      "title": "Senior Data Scientist",
+      "company": "Nationale-Nederlanden",
+      "companyUrl": "https://nl.linkedin.com/company/nationale-nederlanden",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-19",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-at-nationale-nederlanden-4459437506"
+    },
+    {
+      "id": "4466461802",
+      "title": "Data Scientist",
+      "company": "Postcode Loterij",
+      "companyUrl": "https://nl.linkedin.com/company/postcodeloterij",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-12",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-at-postcode-loterij-4466461802"
+    },
+    {
+      "id": "4470926073",
+      "title": "Senior Data Scientist",
+      "company": "Bitvavo",
+      "companyUrl": "https://nl.linkedin.com/company/bitvavocom",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-at-bitvavo-4470926073"
+    },
+    {
+      "id": "4431741084",
+      "title": "Lead Data Scientist, Revenue - Ads, Revenue",
+      "company": "Vinted",
+      "companyUrl": "https://lt.linkedin.com/company/vinted",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-17",
+      "url": "https://nl.linkedin.com/jobs/view/lead-data-scientist-revenue-ads-revenue-at-vinted-4431741084"
+    }
+  ]
+}

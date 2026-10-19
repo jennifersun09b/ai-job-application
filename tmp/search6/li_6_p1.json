@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4470949624",
+      "title": "Senior Machine Learning Engineer",
+      "company": "UnderwriteMe",
+      "companyUrl": "https://uk.linkedin.com/company/underwriteme",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-machine-learning-engineer-at-underwriteme-4470949624"
+    },
+    {
+      "id": "4471451553",
+      "title": "Software Engineer (Machine Learning)",
+      "company": "Netcraft",
+      "companyUrl": "https://uk.linkedin.com/company/netcraft",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-machine-learning-at-netcraft-4471451553"
+    },
+    {
+      "id": "4463455215",
+      "title": "Generative AI Engineer",
+      "company": "McCabe & Barton",
+      "companyUrl": "https://uk.linkedin.com/company/mccabe-&-barton",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/generative-ai-engineer-at-mccabe-barton-4463455215"
+    },
+    {
+      "id": "4443919382",
+      "title": "Machine Learning Engineer, Applied AI - Deployed",
+      "company": "Brain Co.",
+      "companyUrl": "https://www.linkedin.com/company/brainco-ai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-applied-ai-deployed-at-brain-co-4443919382"
+    },
+    {
+      "id": "4469627110",
+      "title": "Senior AI Engineer",
+      "company": "9fin",
+      "companyUrl": "https://uk.linkedin.com/company/9fin",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ai-engineer-at-9fin-4469627110"
+    },
+    {
+      "id": "4469494995",
+      "title": "Staff Applied ML Engineer - Financial Crime",
+      "company": "Wise",
+      "companyUrl": "https://uk.linkedin.com/company/wiseaccount",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/staff-applied-ml-engineer-financial-crime-at-wise-4469494995"
+    },
+    {
+      "id": "4469490198",
+      "title": "AI Engineer (UK)",
+      "company": "Meltwater",
+      "companyUrl": "https://www.linkedin.com/company/meltwater",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-uk-at-meltwater-4469490198"
+    },
+    {
+      "id": "4471425743",
+      "title": "Founding AI Engineer | Agentic AI, LLMs, Evals | Production Code Generation, Agent Systems, Model Routing - Tackling a $150BN+ Industry | London, 4/5 days (On-Site) | Up to £150k + Equity",
+      "company": "Owen Thomas | B Corp™",
+      "companyUrl": "https://uk.linkedin.com/company/owen-thomas-talent",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/founding-ai-engineer-agentic-ai-llms-evals-production-code-generation-agent-systems-model-routing-tackling-a-%24150bn%2B-industry-london-4-5-days-on-site-up-to-%C2%A3150k-%2B-equity-at-owen-thomas-b-corp%E2%84%A2-4471425743"
+    },
+    {
+      "id": "4414655161",
+      "title": "Senior ML Engineer",
+      "company": "Boehringer Ingelheim",
+      "companyUrl": "https://de.linkedin.com/company/boehringer-ingelheim",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ml-engineer-at-boehringer-ingelheim-4414655161"
+    },
+    {
+      "id": "4469462637",
+      "title": "Applied AI Engineer",
+      "company": "WeDo",
+      "companyUrl": "https://uk.linkedin.com/company/wedo-tech-solutions-limited",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/applied-ai-engineer-at-wedo-4469462637"
+    }
+  ]
+}

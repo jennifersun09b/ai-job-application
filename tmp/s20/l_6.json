@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4473265271",
+      "title": "Data Scientist I - Product",
+      "company": "MarketCast",
+      "companyUrl": "https://www.linkedin.com/company/marketcast",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-i-product-at-marketcast-4473265271"
+    },
+    {
+      "id": "4456005677",
+      "title": "Junior Data Scientist",
+      "company": "Fospha",
+      "companyUrl": "https://www.linkedin.com/company/fospha",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-scientist-at-fospha-4456005677"
+    },
+    {
+      "id": "4469930155",
+      "title": "Data Scientist - Legal Technology",
+      "company": "Harnham",
+      "companyUrl": "https://uk.linkedin.com/company/harnham",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-legal-technology-at-harnham-4469930155"
+    },
+    {
+      "id": "4473646377",
+      "title": "Data Scientist - Marketing Science",
+      "company": "WPP Media",
+      "companyUrl": "https://www.linkedin.com/company/wpp-media",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-05",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-marketing-science-at-wpp-media-4473646377"
+    },
+    {
+      "id": "4466274705",
+      "title": "Scientist",
+      "company": "Genomics",
+      "companyUrl": "https://uk.linkedin.com/company/genomics-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/scientist-at-genomics-4466274705"
+    },
+    {
+      "id": "4464433419",
+      "title": "Applied AI ML - Senior Associate",
+      "company": "JPMorganChase",
+      "companyUrl": "https://www.linkedin.com/company/jpmorganchase",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/applied-ai-ml-senior-associate-at-jpmorganchase-4464433419"
+    },
+    {
+      "id": "4452736256",
+      "title": "Graduate Data Scientist - Cyber Analytics (Position located in Cheltenham, United Kingdom)",
+      "company": "KnowBe4",
+      "companyUrl": "https://www.linkedin.com/company/knowbe4",
+      "location": "Cheltenham, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-cyber-analytics-position-located-in-cheltenham-united-kingdom-at-knowbe4-4452736256"
+    },
+    {
+      "id": "4460621741",
+      "title": "Associate Consultant - Data & Analytics",
+      "company": "Equifax",
+      "companyUrl": "https://www.linkedin.com/company/equifax",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/associate-consultant-data-analytics-at-equifax-4460621741"
+    },
+    {
+      "id": "4471782337",
+      "title": "Data Scientist Associate Consultant - London (M,F,D) - Hybrid",
+      "company": "L.E.K. Consulting",
+      "companyUrl": "https://www.linkedin.com/company/lekconsulting",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-associate-consultant-london-m-f-d-hybrid-at-l-e-k-consulting-4471782337"
+    },
+    {
+      "id": "4417432842",
+      "title": "Data Scientist (London)",
+      "company": "The Voleon Group",
+      "companyUrl": "https://www.linkedin.com/company/voleon-capital-management",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-27",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-london-at-the-voleon-group-4417432842"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "count": 6,
+    "page": 1,
+    "discipline": "all",
+    "location": null,
+    "order": "dateAdded",
+    "titleFilter": "data",
+    "source": "https://www.gradcracker.com/search/all-disciplines/engineering-graduate-jobs?order=dateAdded"
+  },
+  "results": [
+    {
+      "id": "84186",
+      "title": "Digital Excellence Business - Graduate Programme 2027",
+      "company": "MBDA",
+      "companyUrl": "https://www.gradcracker.com/hub/115/mbda",
+      "location": "Stevenage (Hertfordshire)",
+      "date": null,
+      "url": "https://www.gradcracker.com/hub/115/mbda-uk/graduate-job/84186/digital-excellence-business-graduate-programme-2027",
+      "deadline": "November 2nd, 2026",
+      "deadlineIso": "2026-11-02",
+      "salary": "£31,900 + a £3,000 joining bonus",
+      "degreeRequired": "2:2 and above",
+      "disciplines": "Computer Science, Software, Cyber Security, Data, AI.",
+      "isNew": true
+    },
+    {
+      "id": "84185",
+      "title": "Digital Excellence Business - Graduate Programme 2027",
+      "company": "MBDA",
+      "companyUrl": "https://www.gradcracker.com/hub/115/mbda",
+      "location": "Stevenage (Hertfordshire)",
+      "date": null,
+      "url": "https://www.gradcracker.com/hub/115/mbda-uk/graduate-job/84185/digital-excellence-business-graduate-programme-2027",
+      "deadline": "November 2nd, 2026",
+      "deadlineIso": "2026-11-02",
+      "salary": "£31,900 + a £3,000 joining bonus",
+      "degreeRequired": "2:2 and above",
+      "disciplines": "Business, Economics, Computer Science, Data, Maths.",
+      "isNew": true
+    },
+    {
+      "id": "84144",
+      "title": "2027 Rewards Data & Intelligence Consulting Graduate Programme",
+      "company": "WTW",
+      "companyUrl": "https://www.gradcracker.com/hub/294/wtw",
+      "location": "London (Hybrid)",
+      "date": null,
+      "url": "https://www.gradcracker.com/hub/294/wtw/graduate-job/84144/2027-rewards-data-and-intelligence-consulting-graduate-programme",
+      "deadline": "October 21st, 2026",
+      "deadlineIso": "2026-10-21",
+      "salary": "Competitive",
+      "degreeRequired": "2:1 and above",
+      "disciplines": "Data, Analytics, Statistics, Maths, Economics, AI.",
+      "isNew": true
+    },
+    {
+      "id": "84143",
+      "title": "2027 Executive Compensation & Board Advisory Graduate Programme",
+      "company": "WTW",
+      "companyUrl": "https://www.gradcracker.com/hub/294/wtw",
+      "location": "London (Hybrid)",
+      "date": null,
+      "url": "https://www.gradcracker.com/hub/294/wtw/graduate-job/84143/2027-executive-compensation-and-board-advisory-graduate-programme",
+      "deadline": "October 21st, 2026",
+      "deadlineIso": "2026-10-21",
+      "salary": "Competitive",
+      "degreeRequired": "2:1 and above",
+      "disciplines": "Analytics, Data, Statistics, Economics, Finance, Maths, AI.",
+      "isNew": true
+    },
+    {
+      "id": "84141",
+      "title": "2027 Work, Reward & Career (WRC) Consulting Graduate Programme",
+      "company": "WTW",
+      "companyUrl": "https://www.gradcracker.com/hub/294/wtw",
+      "location": "London (Hybrid)",
+      "date": null,
+      "url": "https://www.gradcracker.com/hub/294/wtw/graduate-job/84141/2027-work-reward-and-career-wrc-consulting-graduate-programme",
+      "deadline": "October 21st, 2026",
+      "deadlineIso": "2026-10-21",
+      "salary": "Competitive",
+      "degreeRequired": "2:1 and above",
+      "disciplines": "Data, Analytics, Statistics, AI, Business, Maths, Finance.",
+      "isNew": true
+    },
+    {
+      "id": "84120",
+      "title": "2027 UK Graduate Risk Analysis Career Path",
+      "company": "Mott MacDonald",
+      "companyUrl": "https://www.gradcracker.com/hub/3/mott-macdonald",
+      "location": "Various locations",
+      "date": null,
+      "url": "https://www.gradcracker.com/hub/3/mott-macdonald/graduate-job/84120/2027-uk-graduate-risk-analysis-career-path",
+      "deadline": "Ongoing",
+      "deadlineIso": null,
+      "salary": "Competitive",
+      "degreeRequired": "Bachelor's",
+      "disciplines": "Maths, Analytics, Data, Economics.",
+      "isNew": true
+    }
+  ]
+}

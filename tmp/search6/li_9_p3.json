@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 3
+  },
+  "results": [
+    {
+      "id": "4471440628",
+      "title": "Graduate Data Analyst",
+      "company": "Permax Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/permax-recruitment",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-analyst-at-permax-recruitment-4471440628"
+    },
+    {
+      "id": "4469334087",
+      "title": "Data Scientist",
+      "company": "InterEx Group",
+      "companyUrl": "https://uk.linkedin.com/company/interex-group",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-interex-group-4469334087"
+    },
+    {
+      "id": "4469601666",
+      "title": "Data Operations Service Officer",
+      "company": "Office for National Statistics",
+      "companyUrl": "https://uk.linkedin.com/company/office-for-national-statistics",
+      "location": "Titchfield, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/data-operations-service-officer-at-office-for-national-statistics-4469601666"
+    },
+    {
+      "id": "4469316952",
+      "title": "Business Development Analyst",
+      "company": "Sompo",
+      "companyUrl": "https://bm.linkedin.com/company/sompo-",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/business-development-analyst-at-sompo-4469316952"
+    },
+    {
+      "id": "4471172804",
+      "title": "运营分析师",
+      "company": "Firstunion",
+      "companyUrl": "https://cn.linkedin.com/company/firstuniontech",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/%E8%BF%90%E8%90%A5%E5%88%86%E6%9E%90%E5%B8%88-at-firstunion-4471172804"
+    },
+    {
+      "id": "4469440853",
+      "title": "Junior Data Engineer",
+      "company": "Haystack",
+      "companyUrl": "https://uk.linkedin.com/company/wearehaystack",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-engineer-at-haystack-4469440853"
+    },
+    {
+      "id": "4470973653",
+      "title": "Junior Machine Learning Engineer",
+      "company": "Trainline",
+      "companyUrl": "https://uk.linkedin.com/company/trainline",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/junior-machine-learning-engineer-at-trainline-4470973653"
+    },
+    {
+      "id": "4469613810",
+      "title": "Operations Associate - Compliance",
+      "company": "Lime",
+      "companyUrl": "https://www.linkedin.com/company/limebike",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/operations-associate-compliance-at-lime-4469613810"
+    },
+    {
+      "id": "4454784072",
+      "title": "Commercial Insight Analyst",
+      "company": "The Gym Group",
+      "companyUrl": "https://uk.linkedin.com/company/the-gym-group",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/commercial-insight-analyst-at-the-gym-group-4454784072"
+    },
+    {
+      "id": "4469704441",
+      "title": "Data Management Specialist",
+      "company": "ConnectPro Ltd",
+      "companyUrl": "https://www.linkedin.com/company/connectpro-ltd",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/data-management-specialist-at-connectpro-ltd-4469704441"
+    }
+  ]
+}

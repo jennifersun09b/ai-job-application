@@ -1,0 +1,21 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_quick_release_graduate_consultant",
+ "label":"Quick Release Graduate Consultant",
+ "center":True,
+ "paras":[
+ r"I am writing to apply for the Graduate Consultant Intake 2027 position at Quick Release. I completed an MSc in Health Data Science at University College London in September 2026, where a distinction is expected, after a BSc in Biological Sciences at Imperial College London, and I currently work as a Data Analyst Intern at TikTok Shop UK. Across my academic and professional experience I have worked out what is really going on in messy data, turned it into reporting that people can use, and changed how a process works as a result.",
+
+ r"What attracts me most to Quick Release is that the work has a visible end point: new products such as electric vehicles and robotics reaching the market faster because the people, processes and data behind them work better. The posting describes projects that start with a diagnostic and grow into hands-on deployments that blend analytics, reporting, project management and software, and that is the kind of consulting I want to do. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved.",
+
+ r"At TikTok Shop UK I analyse merchant and transaction data in SQL and Python and build the KPI frameworks and dashboards that operations, product and commercial teams use to set targets and track initiatives. When my supervisor asked me to configure a campaign for merchants by hand, I worked out the logic after a few examples and used Claude Code to build an AI agent with a validation step to check accuracy. My supervisor was sceptical at first, but I delivered before the same-day deadline and the agent cut the time the task took by around 40 to 50 percent. The lesson I took from it is that a better process only creates value once the people using it trust it.",
+
+ r"At DS Digital Technology I worked as a Data Scientist Intern on a healthcare AI project for a pharmaceutical client. The client had no clear way to decide whether an answer from their patient-facing AI was safe, so I worked with their clinical experts to turn this into a 246-question benchmark and a six-dimension scoring rubric, which the client adopted as its acceptance standard. I also built the Python pipelines to score more than 2,400 responses and to turn 4,800 free-text patient threads into structured data. This taught me how much of a project depends on agreeing with the client what good looks like before building anything.",
+
+ r"At Ipsos Strategy3 I built a coding framework that turned more than 80 healthcare professional interviews into quantitative data, and built market-sizing models for client reports. My MSc dissertation, which used data from 458,840 UK Biobank participants and ended in an interactive Streamlit tool for non-specialists, gave me further practice in structuring large, imperfect datasets and presenting the result simply. Both taught me to present a finding to an audience who wants the implication rather than the method.",
+
+ r"I would bring Quick Release strong data skills in SQL and Python, experience of working directly with clients and senior stakeholders, a habit of improving processes rather than just reporting on them, and the curiosity to learn a new industry quickly. I have the right to work in the UK until January 2029 without sponsorship. I am based in London and happy to travel to client sites wherever projects need me.",
+
+ r"Thank you for considering my application. I would welcome the opportunity to discuss how my experience in data analysis, client work and process automation could contribute to QR\_ Consulting.",
+ ]
+}

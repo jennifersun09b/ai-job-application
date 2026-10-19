@@ -1,0 +1,1 @@
+{"error":"Trackr API daily quota exhausted (10 tracker requests per day); resets in ~24h. No cached copy exists for https://api.the-trackr.com/programmes?region=UK&industry=Tech&season=2027&type=graduate-programmes","code":"RATE_LIMITED"}

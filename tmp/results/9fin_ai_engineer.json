@@ -1,0 +1,47 @@
+{
+  "name": "9fin_ai_engineer",
+  "company": "9fin",
+  "role": "AI Engineer",
+  "sector": "Financial Services",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/ai-engineer-at-9fin-4461685593",
+  "deadline": "",
+  "fit_rating": 74,
+  "cv_file": "cv/main_9fin_ai_engineer.tex",
+  "cover_letter_file": "cover_letters/cover_9fin_ai_engineer.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 10, "synonym_only": 4, "missing_have_it": 0, "missing_gap": 6},
+  "gaps_acknowledged": [
+    "No credit, debt or capital-markets domain knowledge (stated plainly in the cover letter, with a plan to learn it from 9fin analysts in month one)",
+    "No production engineering at scale, no service run in production",
+    "Re-rankers, learning-to-rank and recommendation/personalisation systems not in profile",
+    "graphRAG and anomaly detection not in profile",
+    "AWS is basic only, not deep knowledge of AWS AI infrastructure",
+    "Model monitoring and deployment in the full lifecycle are untested"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led the whole application on document intelligence: retitled the UCL clinical NLP project as 'Clinical NLP and Document Extraction Pipeline' and put it first under Project Experience, because parsing dense jargon-heavy professional documents into structured fields is 9fin's core problem in a different vertical",
+    "Rebuilt the DS Digital Technology bullets around the posting's own areas of expertise: the regex plus LLM extraction pipeline over 4,800+ consultation threads, the LLM-as-judge eval harness over 2,400+ responses, and the 123-entity knowledge graph with blinded paired A/B tests. Dropped the Apple x Tmall marketing bullet entirely as off-target",
+    "Reused the posting's own headings in the skills block ('Information Retrieval and Extraction', 'GenAI and Model Lifecycle', 'Tabular and Statistical ML') where truthful",
+    "Made evaluation the spine of the cover letter's argument ('the difficult part there is not the model, it is knowing when the extraction is wrong'), which matches the posting's 'we are data centric and love our evals'",
+    "Named both gaps explicitly in one paragraph rather than burying them, and made no claim to finance knowledge"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The mandatory reviewer subagent could NOT be spawned: the Agent tool returned 'Concurrent subagent limit reached' on two attempts (20 agents already running). The grounding audit, AI-tells audit and template-constraint check were performed directly by the drafting agent instead. A second pair of eyes on these two documents has not happened.",
+    "Company research was done by the drafting agent and cached to company_research/9fin.json, verified against 9fin.com/about and tech.eu coverage of the March 2026 Series C. The only company-specific figure used in the letter is '350 or so institutions', which 9fin's own about page states as 350+.",
+    "Three claims were softened during the self-audit because they were not supported by the profile: a fabricated 'fed the errors back into training' bullet was removed, 'entity extraction' for PubMedBERT was changed to 'structured feature extraction', and 'silently invented detail' about the vision-language model was toned down.",
+    "Posting says nothing about visa sponsorship. Candidate will need Skilled Worker sponsorship in about two years, which the letter states."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "diligent_forward_deployed_engineer",
+  "company": "Diligent",
+  "role": "Forward Deployed Engineer",
+  "sector": "Governance, Risk and Compliance SaaS",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-at-diligent-4386916209",
+  "deadline": "",
+  "fit_rating": 56,
+  "cv_file": "cv/main_diligent_forward_deployed_engineer.tex",
+  "cover_letter_file": "cover_letters/cover_diligent_forward_deployed_engineer.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 9, "synonym_only": 2, "missing_have_it": 0, "missing_gap": 9},
+  "gaps_acknowledged": [
+    "No shipped production SaaS agent from prototype through evaluation to live deployment and regression",
+    "No GRC, audit or compliance domain experience",
+    "TypeScript not used at work (Python and JavaScript only)",
+    "No multi-agent orchestration, MCP or agent tool-calling framework experience",
+    "No LLMOps observability, tracing or prompt versioning tooling",
+    "No backend services or production engineering at scale",
+    "Mid-Senior level posting against an early-career profile"
+  ],
+  "sponsorship_note": "Posting states visa sponsorship may be available for select positions based on business needs and specific role requirements, evaluated case-by-case, and that eligibility should not be assumed. Candidate has the right to work in the UK now and would need Skilled Worker sponsorship later; the letter says so.",
+  "key_tailoring_decisions": [
+    "Led the evidence story on the BeiGene engagement, reframing the 246-question benchmark and six-dimension safety rubric with red-line rules as a client-agreed acceptance standard, which maps onto the posting's evaluation infrastructure, golden datasets and guardrails language",
+    "Used the Apple x Tmall engagement to answer the posting's hard requirement on sourcing data from multiple systems and building integrations, rewording the bullet to 'multiple enterprise platforms' and adding Ipsos Strategy3 as a third work entry for the enterprise-client half",
+    "Named all three honest gaps outright in the letter (no production SaaS agent, Python not TypeScript, no GRC background) rather than papering over them, since the posting asks for 'the scars to prove it'",
+    "Retitled the CV skills lines to the posting's own vocabulary where truthful (Software Engineering, LLM Systems and Evaluation, Data Integration, Implementation and Stakeholders) and deliberately left observability, prompt versioning, MCP and multi-agent orchestration off rather than stuffing them",
+    "Anchored the company paragraph to Third-Party Risk Intel, independently verified on diligent.com as agentic third-party screening and risk triage"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "Posting is Mid-Senior level and states enterprise implementation experience as a hard requirement; candidate's client delivery is internship-scale, so this is a reach application",
+    "Cardiovascular project entry carries two bullets rather than three, and the Imperial modules line was removed, to hold the CV to one page per the manifest's cut order",
+    "Reviewer flagged that the draft's original claim that the knowledge graph did not move the safety scores is not supported by the profile, which records only that she designed the A/B tests. The claim was removed and the honest-reporting point re-anchored to the UCL dissertation's null results",
+    "Reviewer reported Glassdoor at 2.9/5 overall with the London site lower on culture and career opportunity. Not verified independently and not used in the documents, but worth a question at interview about whether the London FDE function is London-led"
+  ]
+}

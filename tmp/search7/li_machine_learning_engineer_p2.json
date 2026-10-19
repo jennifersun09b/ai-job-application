@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4469626178",
+      "title": "Machine Learning Engineer",
+      "company": "Xantura Limited",
+      "companyUrl": "https://uk.linkedin.com/company/xantura",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-xantura-limited-4469626178"
+    },
+    {
+      "id": "4470129927",
+      "title": "Machine Learning/AI Engineer",
+      "company": "NearTech Search",
+      "companyUrl": "https://uk.linkedin.com/company/neartech-search-recruitment",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-ai-engineer-at-neartech-search-4470129927"
+    },
+    {
+      "id": "4471499160",
+      "title": "Senior Machine Learning Engineer - Care",
+      "company": "Deliveroo",
+      "companyUrl": "https://uk.linkedin.com/company/deliveroo",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/senior-machine-learning-engineer-care-at-deliveroo-4471499160"
+    },
+    {
+      "id": "4461685593",
+      "title": "AI Engineer",
+      "company": "9fin",
+      "companyUrl": "https://uk.linkedin.com/company/9fin",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-at-9fin-4461685593"
+    },
+    {
+      "id": "4469760493",
+      "title": "Senior Machine Learning Engineer",
+      "company": "ASOS.com",
+      "companyUrl": "https://uk.linkedin.com/company/asos-com",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/senior-machine-learning-engineer-at-asos-com-4469760493"
+    },
+    {
+      "id": "4443919382",
+      "title": "Machine Learning Engineer, Applied AI - Deployed",
+      "company": "Brain Co.",
+      "companyUrl": "https://www.linkedin.com/company/brainco-ai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-applied-ai-deployed-at-brain-co-4443919382"
+    },
+    {
+      "id": "4467680897",
+      "title": "Machine Learning Engineer",
+      "company": "Oho Group",
+      "companyUrl": "https://uk.linkedin.com/company/oho-group-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-oho-group-4467680897"
+    },
+    {
+      "id": "4470181098",
+      "title": "Machine Learning Engineer",
+      "company": "RedTech Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/redtech-recruitment-ltd",
+      "location": "Cambridge, England, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-redtech-recruitment-4470181098"
+    },
+    {
+      "id": "4469627110",
+      "title": "Senior AI Engineer",
+      "company": "9fin",
+      "companyUrl": "https://uk.linkedin.com/company/9fin",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ai-engineer-at-9fin-4469627110"
+    },
+    {
+      "id": "4441358021",
+      "title": "AI Engineer",
+      "company": "JD.COM",
+      "companyUrl": "https://cn.linkedin.com/company/jd.com",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-at-jd-com-4441358021"
+    }
+  ]
+}

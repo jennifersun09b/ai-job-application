@@ -1,0 +1,49 @@
+Dear Hiring Manager,
+I am writing to apply for the Associate Software Developer (AI Focused) position in Central Services at
+SOCOTEC UK. I am completing an MSc in Health Data Science at University College London, where a
+distinction is expected, after a BSc in Biological Sciences at Imperial College London, and I currently work as a
+Data Analyst Intern at TikTok Shop UK. I am applying because the role brings together the two things I have
+spent this year doing: integrating large language models into applications that people use, and sitting with the
+people who will use them to work out what they actually need.
+What attracts me most to SOCOTEC is that the users are colleagues rather than an anonymous market. The
+posting describes meeting teams to understand their processes and pain points, carrying out gap analysis, and
+then supporting testing, rollout and adoption, and that full cycle is the part of this work I find most satisfying.
+I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow
+that can be tested and improved. A small team building bespoke in-house tools is where I would expect to do
+my best work.
+At TikTok Shop UK I built a custom AI agent that automates repetitive steps of the analytics workflow, and it
+has been adopted by my own team and by partner teams. Building it was not mainly a modelling problem. It
+meant sitting with the people who ran the process, deciding which steps the agent should own and which still
+needed a person, and then writing the guidance and supporting colleagues as they began to rely on it. I use
+Claude Code in my development work and review the code it produces rather than accepting it unchecked.
+Before TikTok I worked as a Data Scientist Intern at DS Digital Technology, designing, building and optimising
+an LLM-based assistant for a client. I wrote the Python application that called six LLM APIs with retrieval,
+tool use and multi-step workflows, processing and scoring over 2,400 records. I met the subject-matter experts
+to find where the existing process fell short, proposed a reviewed knowledge graph to close that gap, and ran
+blinded A/B tests to confirm it improved the output before recommending that it be rolled out. Optimising the
+assistant meant measuring it: I built a 246-question benchmark and a six-dimension rubric that the client
+adopted as its acceptance standard.
+I also build these systems in my own time, which I noticed you value. My most recent personal project is
+Jobwinner, a multi-agent AI assistant that reasons over job postings: several agents with differentiated roles,
+each required to back its recommendation with evidence drawn from the posting rather than an opinion, and
+live web search integrated so that what it says about a role or a company is grounded in current information
+rather than the model’s memory. I keep it as a standalone repository and have iterated on the agent prompts
+and the tooling design as I found where it went wrong. Building it is where I learned most about where an
+agent needs a tool, where it needs a constraint, and where it should not be left to decide at all.
+On the software side my Python is object-oriented, and I am comfortable with API development and
+integration, relational databases, Git and Docker. My MSc dissertation is deployed as a Streamlit application
+that colleagues use without touching the code, and at Westlake University I refactored and parallelised an
+analysis pipeline in Python and R, cutting processing time by around 60 per cent and adding version-controlled
+scripts so that others could run, troubleshoot and support it after I left.
+At Ipsos Strategy3 I worked directly with client stakeholders and presented findings to people who wanted the
+recommendation rather than the method, which is the communication the role asks for in writing and in person.
+I should be clear about one gap. My web development has been in Python and Streamlit rather than React or
+Angular. I have written JavaScript and built user-facing applications, so the concepts transfer, but I would be
+learning a front-end framework properly in my first months. Everything else the role centres on, LLM
+integration, agent development and working with business teams, is ground I am already standing on. I have the
+right to work in the UK until January 2029 without sponsorship, and I am willing to relocate to
+Burton-on-Trent.
+Thank you for considering my application. I would welcome the opportunity to discuss how my experience
+building and integrating LLM agents could support the IT team at Central Services.
+Yours sincerely,
+Zhuoyan Sun

@@ -1,0 +1,51 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: statistics and probability, experimental design, causal inference, machine learning, model calibration and
+evaluation.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+• Core areas: mathematics, programming, statistics, bioinformatics and computational biology.
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Explore complex merchant and operations data in SQL and Python to find the drivers of performance across the UK
+marketplace.
+• Build KPI frameworks and dashboards used by e-commerce operations teams to set targets and track strategy
+initiatives.
+• Present findings and the reasoning behind analytical decisions to operations, product and commercial stakeholders.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Built a Python pipeline calling 6 LLM APIs with retrieval and search augmentation, scoring 2,400+ responses through
+an LLM-as-judge evaluation framework.
+• Designed a 246-question benchmark and a six-dimension safety rubric with red-line rules, used as the acceptance
+standard for evaluating a patient-facing AI service.
+• Ran blinded paired A/B tests on a 123-entity knowledge graph and mined 4,800+ consultation threads with a regex
+and LLM extraction pipeline.
+Project Experience
+Cardiovascular Risk Prediction and Causal ML Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression with three tree ensembles on 458,840 participants, reaching AUC 0.714 to 0.718 with
+near-perfect calibration.
+• Estimated lifestyle effects with doubly robust causal forests on 71,428 participants using overlap weighting, E-values
+and external validation.
+• Shipped a Streamlit tool and documented null results, decision curves and sensitivity analyses so every conclusion
+stayed reproducible.
+Clinical NLP and LLM Evaluation Jan 2026 - Jul 2026
+University College London London, UK
+• Led a team building a Hugging Face Transformers pipeline that parsed unstructured radiology reports into structured
+features.
+• Fine-tuned PubMedBERT-style models and evaluated them against TF-IDF and kNN baselines in a reproducible
+framework, with PubMedBERT strongest.
+• Investigated vision-language model failure modes by stress-testing outputs against text-derived signals and patient
+data.
+Skills
+AI and LLMs : LLM evaluation frameworks, LLM-as-judge, prompt engineering, RAG, knowledge graphs, Hugging Face
+Transformers, PyTorch, Claude Code
+T echnical: Python (pandas, NumPy, SciPy), SQL, Git, R, Linux shell, Docker, Streamlit, A WS (basic), Jupyter
+Analytical F oundations: probability, hypothesis testing, permutation tests, A/B testing, causal inference, exploratory
+data analysis, feature engineering
+ML Lifecycle : scikit-learn, XGBoost, LightGBM, random forests, training, validation, inference, calibration, decision
+curves | Languages: English (fluent), Mandarin (native)

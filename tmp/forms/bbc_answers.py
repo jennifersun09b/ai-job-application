@@ -1,0 +1,18 @@
+A1 = """I have an MSc in Health Data Science from UCL and I use SQL and Python every day as a Data Analyst Intern at TikTok Shop UK, where I work with large merchant and transaction tables, agree metric definitions with operations, product and commercial teams, and build the KPI dashboards they use to set targets.
+
+The role asks for statistical inference, experimental design and causal reasoning. My MSc dissertation used 458,840 UK Biobank participants. I compared logistic regression with three tree ensembles and checked calibration as well as accuracy, then used doubly robust causal forests on 71,428 participants to estimate the effect of 24 lifestyle changes, with sensitivity analyses for unmeasured confounding. Some effects were close to zero and I reported that honestly rather than overselling a result.
+
+On experiments, at DS Digital Technology I designed blinded A/B tests to check whether a knowledge-graph feature really improved the answers of a patient-facing AI product, and built a Python pipeline that scored 2,400+ responses from six LLMs against a benchmark the client adopted as its acceptance standard. That is also where I learned to agree the measure with the experts before running anything.
+
+I have also turned a lot of messy data into something usable: 80+ interviews into quantitative data at Ipsos, and 4,800 free-text patient threads into structured data with a regex and LLM pipeline.
+
+For communication, I present findings to non-technical stakeholders at TikTok and I built a Streamlit app so non-specialists could explore my dissertation results. I use Git for version control, and I have used LLMs on real problems, including an AI agent I built with Claude Code that cut a manual task by 40 to 50 percent."""
+
+A2 = "Salary in line with the advertised range (GBP 40,000 - 50,000). Notice period: 1 week, so I am available to start almost immediately."
+
+A3 = """Business problem: for my MSc dissertation at UCL, I wanted to know which lifestyle changes actually lower cardiovascular risk, not just which ones are correlated with it, and to give people a tool to explore this.
+
+Data and methods: I used UK Biobank data. First I built risk prediction models on 458,840 people, comparing logistic regression with three tree ensembles (AUC 0.714 to 0.718) and checking calibration, because a well-calibrated risk is more useful than a slightly higher AUC. Then, because the question was causal, I used doubly robust causal forests on 71,428 people with repeat visits to estimate the effect of 24 lifestyle changes. I chose this method because it handles confounding and lets the effect vary between people. I tested how robust the results were with timing and overlap checks and E-values for unmeasured confounding, and validated externally in NHEFS. I used Python, pandas, scikit-learn and Streamlit.
+
+Outcome: the models were well calibrated, and some lifestyle effects turned out to be close to zero, which I reported honestly. I delivered the results as an interactive Streamlit app so non-specialists could see their estimated risk under different changes."""
+for n,a in (('A1',A1),('A2',A2),('A3',A3)): print(n,len(a))

@@ -1,0 +1,43 @@
+{
+  "name": "arcadis_graduate_data_scientist",
+  "company": "Arcadis",
+  "role": "Graduate Data Scientist",
+  "sector": "Engineering and sustainability consultancy (built environment)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://www.gradcracker.com/hub/409/arcadis/graduate-job/82568/graduate-data-scientist",
+  "deadline": "2026-11-06",
+  "fit_rating": 73,
+  "cv_file": "cv/main_arcadis_graduate_data_scientist.tex",
+  "cover_letter_file": "cover_letters/cover_arcadis_graduate_data_scientist.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 10, "synonym_only": 2, "missing_have_it": 0, "missing_gap": 3},
+  "gaps_acknowledged": [
+    "No built-environment, civil engineering or infrastructure domain experience",
+    "No complex mathematical optimisation experience (named as a role accountability); stated honestly in the letter as something she would be learning",
+    "No experience in the posting's named sectors (Water, Energy, Cities, Transport, Large Buildings Portfolios)"
+  ],
+  "sponsorship_note": "not stated in the posting",
+  "key_tailoring_decisions": [
+    "Led the CV with client-facing delivery by adding a third work entry (Ipsos Strategy3) alongside TikTok Shop UK and DS Digital Technology, because Arcadis is selling consultancy and a graduate who has already presented to paying clients is the differentiator",
+    "Anchored the 'why Arcadis' paragraph in the Enterprise Decision Analytics platform and the Transport for London decision support system (both verified on arcadis.com, TfL release dated 15 Jan 2026) rather than mission-statement language",
+    "Named the built-environment and mathematical-optimisation gaps outright, then bridged with the evidenced record of moving fast across domains (molecular dynamics to pharma market research to e-commerce operations)",
+    "Reused the posting's own vocabulary truthfully in CV skills labels ('Analytical Thinking', 'Predictive Modelling and Machine Learning') and added 'descriptive' analysis to the DS Digital bullet to cover 'descriptive and predictive modelling'",
+    "Handled the three office locations honestly: London-based, open to London, Sheffield or Manchester, and willing to travel and stay away as the posting requires"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "Posting says it reserves the right to close the role early, so the 2026-11-06 deadline may not reflect the real window; apply early",
+    "Reviewer research suggested Arcadis's UK early-careers pages do not state a visa sponsorship policy. The letter proactively states her current right to work and future Skilled Worker need. Confirm sponsorship before investing in a later assessment stage",
+    "The letter says she is available immediately while her CV lists TikTok Shop UK as 'Present'. She should settle on a concrete start date before interview"
+  ]
+}

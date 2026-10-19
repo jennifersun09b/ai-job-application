@@ -1,0 +1,49 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: statistics, experimental design, machine learning, predictive modelling, model calibration and evaluation.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+• Core areas: mathematics, programming, statistics, bioinformatics and computational biology.
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Analyse marketplace and operations data in SQL and Python to identify performance drivers across the UK
+marketplace and surface growth insights.
+• Build KPI frameworks and dashboards used by e-commerce operations teams to set targets and track strategy
+initiatives.
+• Explain analytical findings to non-technical operations, product and commercial stakeholders so they can act on them.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Ran a repeated-measures analysis of 12 Apple x Tmall audience segments across 15 ad touchpoints using Friedman,
+RCBD ANOV A, permutation and Nemenyi tests.
+• Validated segment data across platforms, flagged export defects and rebuilt deprecated tags to reproduce a ∼60M-user
+segment.
+• Built a Python pipeline that produced and scored 2,400+ LLM answers against a six-dimension rubric for pharma
+client sign-off.
+Associate Strategy Analyst May 2025 - Aug 2025
+Ipsos Strategy3 Beijing, China
+• Built market-sizing and forecasting models estimating $20M revenue potential across emerging health-product
+segments.
+• Cleaned and structured healthcare and consumer datasets and 100+ expert interviews into quantitative variables for
+modelling.
+• Delivered executive dashboards and written recommendations with research and strategy teams.
+Project Experience
+Predictive Risk Modelling on UK Biobank Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression with XGBoost, LightGBM and random forests on 458,840 records in scikit-learn, reaching
+AUC 0.714 to 0.718.
+• Engineered and tested features, thresholds and scoring logic, validating models with calibration curves, decision curves
+and an external cohort.
+• Deployed an interactive Streamlit tool and documented assumptions, limitations and sensitivity analyses for
+non-technical readers.
+Skills
+Programming: Python (pandas, NumPy, SciPy, scikit-learn), SQL, R, Linux shell
+Statistics and Modelling : exploratory data analysis, feature engineering, hypothesis testing, permutation and
+non-parametric tests, forecasting, model evaluation
+Machine Learning and AI : XGBoost, LightGBM, random forests, logistic regression, PyTorch, GenAI and LLM
+evaluation, Claude Code
+Data and T ools : Power BI, Excel, Git, Docker, Streamlit, Jupyter, A WS (basic), data cleaning and validation |
+Languages: English (fluent), Mandarin (native)

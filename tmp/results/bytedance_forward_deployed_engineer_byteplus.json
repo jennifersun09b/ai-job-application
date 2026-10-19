@@ -1,0 +1,43 @@
+{
+  "name": "bytedance_forward_deployed_engineer_byteplus",
+  "company": "ByteDance",
+  "role": "Forward Deployed Engineer - BytePlus",
+  "sector": "Technology, Information and Internet",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-byteplus-at-bytedance-4458651988",
+  "deadline": "",
+  "fit_rating": 60,
+  "cv_file": "cv/main_bytedance_forward_deployed_engineer_byteplus.tex",
+  "cover_letter_file": "cover_letters/cover_bytedance_forward_deployed_engineer_byteplus.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 8, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 4},
+  "gaps_acknowledged": [
+    "Posting requires more than 3 years of software development experience; candidate has under 1 year post-MSc",
+    "No production engineering at scale, no highly available service owned in a customer cloud",
+    "No named Agent frameworks (LangGraph, CrewAI) in the profile"
+  ],
+  "sponsorship_note": "not stated in posting",
+  "key_tailoring_decisions": [
+    "Led on the genuine ByteDance-group internal connection (current TikTok Shop UK intern) without overstating it as BytePlus engineering experience",
+    "Mapped the BeiGene engagement onto the posting's own requirement for evaluation pipelines that prove accuracy and safety, which is the posting's most specific technical ask",
+    "Used the posting's vocabulary (prompt engineering, RAG, fine-tuning, agent, evaluation) in the CV skills block where truthful; left LangGraph and CrewAI absent rather than stuffing",
+    "Named Claude Code as the AI-assisted development evidence against the posting's 'Vibe Coding' requirement",
+    "Acknowledged the production-engineering gap explicitly in the letter rather than hiding it"
+  ],
+  "verification": {
+    "factual_accuracy": "pass - every claim traced to 01-candidate-profile.md / CLAUDE.md; removed an unsupported 'sponsorship in about two years' specific that appeared in the first draft",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass - no em-dashes, no banned AI phrasing, Claude Code named",
+    "pdf_layout": "pass - CV 1 page, cover letter 1 page with signature block visible",
+    "ats": "pass - clean text layer, email and phone literal, reading order correct; minor pypdf kerning artefacts ('A WS', 'T ools') are extractor noise, not template faults"
+  },
+  "warnings": [
+    "SENIORITY MISMATCH: posting is labelled Mid-Senior level and asks for more than 3 years of software development experience. This is a stretch application, not a match. Submit only if willing to apply over the bar.",
+    "BytePlus product claims (ModelArk, AgentKit) were independently verified against byteplus.com and docs.byteplus.com before inclusion.",
+    "Applying to another ByteDance entity while interning at TikTok Shop UK may have internal referral or transfer implications worth checking with her manager or the internal mobility policy first."
+  ]
+}

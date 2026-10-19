@@ -1,0 +1,43 @@
+{
+  "name": "icon_plc_associate_epidemiologist",
+  "company": "ICON plc",
+  "role": "Associate Epidemiologist",
+  "sector": "Healthcare and life sciences (clinical research organisation)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/associate-epidemiologist-at-icon-plc-4462420699",
+  "deadline": "",
+  "fit_rating": 84,
+  "cv_file": "cv/main_icon_plc_associate_epidemiologist.tex",
+  "cover_letter_file": "cover_letters/cover_icon_plc_associate_epidemiologist.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 11, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 5},
+  "gaps_acknowledged": [
+    "No formal epidemiology qualification or epidemiologist job title",
+    "No CRO experience",
+    "No EDC build, CRF development or query management experience (named in the letter as something to learn on the job)",
+    "No prospective data collection experience; her observational work is retrospective",
+    "No burden of illness, treatment patterns or medical device study experience"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Reframed the MSc dissertation as an observational cohort study rather than a machine-learning project, naming the epidemiological methods explicitly: retrospective cohort of 458,840 UK Biobank participants, doubly robust causal forests with overlap weighting on 71,428, E-values and quantitative bias analysis for unmeasured confounding, external validation in NHEFS",
+    "Added Ipsos Strategy3 as a third work entry and named BeiGene, IQVIA and pharmaceutical client stakeholders, so the CV and letter show she has already delivered statistical reports and slide decks to a pharma audience, which is what ICON's consultancy model requires",
+    "Rewrote the skills block around the posting's own headings (statistical packages, epidemiology and biostatistics, data management and reporting including Microsoft Excel and Word, health data), and stated the visa position precisely as right to work in the UK until January 2029 without sponsorship",
+    "Named the CRO and formal-epidemiology gaps openly in the letter rather than papering over them, and bridged through data validation and query resolution towards the posting's query management requirement"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The posting URL given in the task message (job id 4462420699) differs from the URL inside the archived posting file (job id 4454998361). The result JSON records the URL from the task message.",
+    "Reviewer agent suggested rewording the ICON real-world-evidence claim; I kept my own wording because I verified it directly against iconplc.com/solutions/real-world-intelligence/rwe-strategy-and-analytics, which names claims and EHR analyses, registries and comparative effectiveness research."
+  ]
+}

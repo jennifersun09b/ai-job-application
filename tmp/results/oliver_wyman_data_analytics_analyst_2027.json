@@ -1,0 +1,43 @@
+{
+  "name": "oliver_wyman_data_analytics_analyst_2027",
+  "company": "Oliver Wyman",
+  "role": "Data & Analytics - Analyst - 2027",
+  "sector": "Management consulting",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://www.gradcracker.com/hub/1115/oliver-wyman/graduate-job/82577/data-analytics-analyst-2027",
+  "deadline": "2026-10-30",
+  "fit_rating": 86,
+  "cv_file": "cv/main_oliver_wyman_data_analytics_analyst_2027.tex",
+  "cover_letter_file": "cover_letters/cover_oliver_wyman_data_analytics_analyst_2027.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 12, "synonym_only": 1, "missing_have_it": 0, "missing_gap": 3},
+  "gaps_acknowledged": [
+    "No experience in private equity or private markets, which the posting lists as a plus",
+    "No financial services domain experience, the DNA division's largest industry",
+    "No full-time post-graduation experience, and achievements are project-scale rather than team-leadership-scale"
+  ],
+  "sponsorship_note": "not stated - the posting is silent on visa sponsorship and carries only the Marsh equal-opportunities statement; the letter states the right to work in the UK until January 2029 without sponsorship",
+  "key_tailoring_decisions": [
+    "Framed the CV as a consulting record: promoted Ipsos Strategy3 into a third Work Experience entry alongside TikTok Shop UK and DS Digital Technology, leading with market sizing, forecasting and executive dashboards rather than research methods",
+    "Matched the posting's own named projects: the GenAI chatbot validation maps to her patient-facing AI evaluation standard at DS Digital Technology, the NLP toolkit to the clinical NLP project, and the Asian health and beauty promotions programme to her consumer analytics work and native Mandarin",
+    "Replaced the draft's posting-sourced 'DNA since 2017' claim with independently verified facts from oliverwyman.com, that the Newcastle-based Data and Analytics partners work on pricing, promotions optimisation, demand forecasting and consumer intelligence",
+    "Stated relocation to Newcastle and immediate availability positively in one sentence, and stated the visa position as a selling point in the exact confirmed wording",
+    "Named private equity and the project-scale record as honest gaps without apology, bridged by the UCL clinical NLP team lead"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The posting is silent on visa sponsorship. Large consultancies often gate eligibility on their own careers site rather than the ad, so confirm Oliver Wyman's UK graduate eligibility page before submitting.",
+    "The posting says the firm reserves the right to close the opportunity early, so apply well before the 30 October 2026 deadline.",
+    "Base location is Newcastle upon Tyne with a Marsh-wide expectation of at least three days per week in the office or on client site."
+  ]
+}

@@ -60,9 +60,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Python, SQL, statistics and experimental design, A/B testing, causal inference, predictive modelling (logistic regression, gradient boosting, calibration), LLM evaluation and benchmark design, clinical/healthcare data, stakeholder-facing analysis and reporting
+**Moderate match areas:** PyTorch and transformer fine-tuning, NLP, RAG and knowledge graphs, R, Docker/Git, cloud basics (AWS), Streamlit apps, Playwright automation, bioinformatics
+**Weak match areas:** production software engineering at scale (microservices, CI/CD ownership), distributed systems and big-data platforms (Spark, Kafka), MLOps tooling in production, deep-learning research (training large models), front-end engineering, 3+ years of industry experience
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -74,9 +74,9 @@ Does work history align with what they're looking for? Match on the function and
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** graduate/junior data scientist roles (product analytics, experimentation, healthcare), health data science and clinical AI, LLM evaluation and applied-AI roles, data analyst and strategy analyst roles
+**Moderate:** forward deployed engineer and AI solutions roles (client-facing delivery is proven, production engineering is not), applied scientist roles, consulting analyst roles, bioinformatics
+**Entry-level:** machine learning engineer, software engineer, research scientist (no publications)
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -93,7 +93,8 @@ Does the role and company culture match the behavioral profile?
 ### 4. Location & Logistics (Pass/Fail + Notes)
 - Within commute range: PASS
 - Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
+- Requires relocation within the UK or to an EU country: PASS with note (candidate is open to relocating)
+- Requires relocation to the USA: FLAG (lowest-priority market)
 - Frequent international travel: FLAG (discuss with user)
 
 ### 5. Career Alignment & Motivation (0-100)
@@ -107,19 +108,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Become a data scientist who owns problems end to end, from ambiguous question to decision, in technology, e-commerce or healthcare
+- Build depth in applied AI and LLM systems (evaluation, grounding, deployment) as a route to forward-deployed or applied-AI-engineer roles
+- Keep a foot in health data science so clinical AI remains an open path; secure UK sponsorship within two years
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: framing an unclear problem, designing the measurement, working with real stakeholders, seeing a recommendation adopted, evaluating whether an AI system is actually good
+- Tasks that drain: maintenance of legacy reports, ticket-queue work with no contact with the problem owner, roles that are only dashboards with no modelling or judgement
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: needs a role that can sponsor a Skilled Worker visa within about two years; salary is secondary to sponsorship and growth for a first graduate role
+- **Flexibility**: London based, open to hybrid or remote anywhere in the UK or EU; no commute limit; USA only for exceptional roles
+- **Professional development**: mentorship from senior data scientists or engineers, exposure to production systems, and a graduate or structured early-career programme are all strong positives
 
 ### 6. Salary Benchmark (Optional)
 
@@ -267,3 +268,12 @@ Before writing the application, consider whether the candidate should call the c
 - The call's purpose is **gathering information**, not delivering a pitch
 - Take notes - use what you learn to tailor the application
 - Reference the conversation naturally in the cover letter ("After speaking with [name], I was especially drawn to...")
+
+## Calibration from Past Applications
+
+<!-- Added by /setup 2026-09-08 from documents/applications. Update as outcomes are recorded via /outcome. -->
+
+- **Confirmed strong-fit signal:** TikTok Shop UK, Data Analyst Intern (Business Planning & Operations) - hired, Sep 2026. Role type: e-commerce analytics / strategy; sector: consumer technology.
+- **Reached interview:** Curenetics, Data Scientist (clinical AI, oncology) - interview stage reached; final outcome to be recorded.
+- **Applied, outcome not yet recorded (fill in outcome.md):** Pangaea Data (AI Engineer), Bending Spoons (Data Scientist), Quantium (Data Scientist), BNP Paribas Personal Finance (Data Scientist), Allianz (Lead Data Scientist - a stretch on seniority), The Telegraph (Data Scientist), ABS (Junior Data Scientist), Sinch (ML Engineer), University of Edinburgh (Data Analyst), Oxford Population Health (Data Scientist, Health Outcomes), Prova Health (Associate), Prostate Cancer UK (Data Analyst), Apple (Annotation Analyst).
+- **Pattern to test once outcomes are in:** the healthcare-flavoured applications (Oxford, Edinburgh, Curenetics, Pangaea) are where the profile is most differentiated; generic data scientist postings at finance firms are where competition is heaviest.

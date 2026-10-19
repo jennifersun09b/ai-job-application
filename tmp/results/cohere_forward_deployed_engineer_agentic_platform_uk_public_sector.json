@@ -1,0 +1,43 @@
+{
+  "name": "cohere_forward_deployed_engineer_agentic_platform_uk_public_sector",
+  "company": "Cohere",
+  "role": "Forward Deployed Engineer, Agentic Platform (UK Public Sector)",
+  "sector": "AI-native / enterprise AI platform",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-uk-public-sector-at-cohere-4456846503",
+  "deadline": "",
+  "fit_rating": 74,
+  "cv_file": "cv/main_cohere_forward_deployed_engineer_agentic_platform_uk_public_sector.tex",
+  "cover_letter_file": "cover_letters/cover_cohere_forward_deployed_engineer_agentic_platform_uk_public_sector.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 8, "synonym_only": 4, "missing_have_it": 0, "missing_gap": 6},
+  "gaps_acknowledged": [
+    "No production multi-step agent shipped using ReAct or Plan-and-Execute patterns (stated plainly in the cover letter)",
+    "No active DV security clearance, which the posting says is highly preferred",
+    "No named experience with vector databases or agent orchestration frameworks",
+    "Production software engineering at scale (observable, scalable services) is not yet proven; profile records this as a growth area"
+  ],
+  "sponsorship_note": "not stated - the posting says nothing about visa sponsorship either way. Candidate currently has the right to work in the UK without sponsorship and would need Skilled Worker sponsorship later; this is stated in the cover letter.",
+  "key_tailoring_decisions": [
+    "Led the DS Digital Technology entry with the BeiGene medical-AI work reframed as forward-deployed delivery into a regulated customer: a 246-question benchmark and safety rubric with red-line rules adopted as the client's acceptance standard, a Python pipeline over six LLM APIs with retrieval and search augmentation scoring 2,400+ responses, and a medically reviewed knowledge graph tested with blinded paired A/B tests. This maps directly onto the posting's demand for RAG plus evaluation frameworks measuring agent accuracy and safety.",
+    "Rewrote the CV skills block around the posting's own headings (LLM Stack, Evaluation Frameworks) and used the UK Biobank dissertation as the credential for large, sensitive, controlled-access data, which is the public-sector angle.",
+    "Anchored the 'why Cohere' paragraph only on facts independently verified from cohere.com and cohere.com/north (North as an agentic platform deployed on-prem or in an isolated VPC, grounded in customer data), and declined to claim agent-building experience she does not have, gapping ReAct/Plan-and-Execute and DV clearance openly instead."
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "CLEARANCE: the posting states 'Active DV clearance is highly preferred'. It is preferred, not required, and it is not framed as a nationality gate, so this does not trip the profile's 'security clearance gated on citizenship' deal-breaker outright. However, Developed Vetting in the UK does in practice carry nationality and residency requirements, so a UK public-sector delivery role may become gated in later stages. The cover letter states plainly that she does not hold DV clearance. User should decide whether to submit.",
+    "SPONSORSHIP: the posting is silent on visa sponsorship. Cohere's own careers material was not confirmed to address sponsorship for this role, so this remains unverified rather than a stated positive.",
+    "TRAVEL: the posting requires 20-40% travel to work on-site with customers and partners. Per the evaluation framework, frequent travel is a FLAG to discuss, not a fail. The letter says she is comfortable with it.",
+    "PROCESS DEVIATION: the mandatory reviewer subagent could NOT be run. Three attempts were refused with 'Concurrent subagent limit reached' (20 sibling application agents running), and the tool instructed not to retry. I ran the Factual Grounding Audit, the AI-tells audit, the requirement-coverage check and the company research myself instead, and verified all Cohere claims directly against cohere.com and cohere.com/north. Self-audit caught and fixed four grounding drifts: 'Worked inside UK Biobank governance controls' (implied she navigated the access-approval process) softened to 'a controlled-access dataset'; 'ran blinded paired A/B tests' corrected to 'designed', matching the profile; 'Lead working sessions' softened to 'Present findings and recommendations'; and 'latency measurement' removed from the skills line as unevidenced, despite the posting naming latency. A second-opinion review is the one step the user may wish to repeat."
+  ]
+}

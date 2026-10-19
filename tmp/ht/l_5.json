@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4456351400",
+      "title": "Senior Software Engineer - Applied AI",
+      "company": "CoMind",
+      "companyUrl": "https://uk.linkedin.com/company/comindtechnologies",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-02",
+      "url": "https://uk.linkedin.com/jobs/view/senior-software-engineer-applied-ai-at-comind-4456351400"
+    },
+    {
+      "id": "4455739231",
+      "title": "Clinical Specialist",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/clinical-specialist-at-microsoft-4455739231"
+    },
+    {
+      "id": "4455982701",
+      "title": "Clinical Specialist",
+      "company": "Microsoft AI",
+      "companyUrl": "https://www.linkedin.com/company/microsoft-ai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/clinical-specialist-at-microsoft-ai-4455982701"
+    },
+    {
+      "id": "4460599948",
+      "title": "Member of Technical Staff - Applied AI Software Engineer, Health",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-19",
+      "url": "https://uk.linkedin.com/jobs/view/member-of-technical-staff-applied-ai-software-engineer-health-at-microsoft-4460599948"
+    },
+    {
+      "id": "4460395270",
+      "title": "Member of Technical Staff - Applied AI Software Engineer, Health",
+      "company": "Microsoft AI",
+      "companyUrl": "https://www.linkedin.com/company/microsoft-ai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-19",
+      "url": "https://uk.linkedin.com/jobs/view/member-of-technical-staff-applied-ai-software-engineer-health-at-microsoft-ai-4460395270"
+    },
+    {
+      "id": "4473422039",
+      "title": "Machine Learning Engineer",
+      "company": "Scarlet",
+      "companyUrl": "https://uk.linkedin.com/company/scarlet-comply",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-scarlet-4473422039"
+    },
+    {
+      "id": "4444039177",
+      "title": "ML Research Engineer",
+      "company": "Circadia Health",
+      "companyUrl": "https://www.linkedin.com/company/circadia",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-11",
+      "url": "https://uk.linkedin.com/jobs/view/ml-research-engineer-at-circadia-health-4444039177"
+    },
+    {
+      "id": "4471494348",
+      "title": "Senior Research Scientist",
+      "company": "DeepHealth",
+      "companyUrl": "https://www.linkedin.com/company/deephealthai",
+      "location": "United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/senior-research-scientist-at-deephealth-4471494348"
+    },
+    {
+      "id": "4470478360",
+      "title": "ML Engineer",
+      "company": "Boehringer Ingelheim",
+      "companyUrl": "https://de.linkedin.com/company/boehringer-ingelheim",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/ml-engineer-at-boehringer-ingelheim-4470478360"
+    },
+    {
+      "id": "4464122481",
+      "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+      "company": "Anthropic",
+      "companyUrl": "https://www.linkedin.com/company/anthropicresearch",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/applied-ai-engineer-beneficial-deployments-life-sciences-at-anthropic-4464122481"
+    }
+  ]
+}

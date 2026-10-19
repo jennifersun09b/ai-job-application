@@ -1,0 +1,28 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "/Users/jennifersun/portfolio/node_modules/.bin/vite",
+      "runtimeArgs": [
+        "/Users/jennifersun/portfolio",
+        "--port",
+        "5180",
+        "--strictPort"
+      ],
+      "port": 5180
+    },
+    {
+      "name": "portfolio-build",
+      "runtimeExecutable": "/Users/jennifersun/portfolio/node_modules/.bin/vite",
+      "runtimeArgs": [
+        "preview",
+        "/Users/jennifersun/portfolio",
+        "--port",
+        "5181",
+        "--strictPort"
+      ],
+      "port": 5181
+    }
+  ]
+}

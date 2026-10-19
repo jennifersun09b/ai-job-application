@@ -1,0 +1,53 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: machine learning, statistics, experimental design, causal inference, validation, leakage and model
+calibration.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Analyse merchant growth and operations data in Python and SQL, framing performance questions from the metrics
+the business already runs on.
+• Build repeatable KPI and reporting pipelines used by e-commerce operations teams to set targets and track strategy
+initiatives.
+• Turn ambiguous commercial questions into defined metrics and recommendations for operations and product
+stakeholders.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Built a Python pipeline calling six LLM APIs with retrieval and search augmentation, producing and scoring 2,400+
+responses through an LLM-as-judge evaluation framework.
+• Designed a 246-question benchmark and a six-dimension safety rubric with red-line rules, adopted by the client as the
+acceptance standard for patient-facing AI answers.
+• Co-built a retrieval knowledge graph of 123 entities and 161 relations, then measured its effect with blinded paired
+A/B tests rather than assuming the gain.
+Research Data Analyst Sep 2024 - Dec 2024
+Westlake University Hangzhou, China
+• Refactored and parallelised a multi-omics analysis pipeline in Python and R, cutting processing time by around 60%.
+• Added version-controlled, rerunnable scripts so downstream results could be reproduced by other researchers.
+• Analysed epigenetic change in ageing skin stem cells across multi-omics layers, owning the analysis end to end.
+Project Experience
+Clinical NLP and LLM Evaluation Jan 2026 - Jul 2026
+University College London London, UK
+• Led a team building a Hugging Face Transformers pipeline that parsed free-text reports into structured features for
+downstream models.
+• Fine-tuned PubMedBERT-style models and beat TF-IDF and kNN baselines under a reproducible evaluation harness.
+• Surfaced vision-language failure modes by comparing model output against text-derived signals and patient data.
+Cardiovascular Risk Prediction and Causal ML Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression with three tree ensembles on 458,840 participants, reaching AUC 0.714 to 0.718 with
+near-perfect calibration.
+• Estimated lifestyle effects using doubly robust causal forests on 71,428 participants and tested overlap and unmeasured
+confounding.
+• Shipped an interactive Streamlit tool so non-technical users could query results, and reported null findings honestly.
+Skills
+Programming: Python (NumPy, pandas, SciPy), SQL, R, JavaScript, Linux shell, Git
+LLM and Agentic Systems : RAG, function calling, knowledge graphs, LLM-as-judge evaluation, repeatable evaluation
+sets, Claude Code, Anthropic and OpenAI APIs
+ML F undamentals: scikit-learn, XGBoost, LightGBM, PyTorch, Hugging Face Transformers, validation, leakage checks,
+calibration, A/B testing, causal inference
+Data and Deployment : Docker, A WS (basic), Streamlit, Jupyter, Power BI, Playwright automation | Languages:
+English (fluent), Mandarin (native)

@@ -1,0 +1,51 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London, Institute of Health Informatics Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: health informatics, clinical data analysis, statistics, causal inference, machine learning, model calibration.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+• Core areas: mathematics, programming, statistics, bioinformatics and computational biology.
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Query and wrangle relational data in SQL and Python to identify operational performance drivers across the UK
+marketplace, reporting to operations leads.
+• Build KPI frameworks and dashboards used by operations teams to set targets and track strategy initiatives.
+• Present findings and recommendations to cross-functional operations, product and commercial leads, turning analysis
+into decisions.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Designed a 246-question patient benchmark and six-dimension safety rubric adopted as the acceptance standard for a
+pharmaceutical client.
+• Mined 4,800+ patient consultation threads with a Python regex and LLM extraction pipeline, structuring free-text
+clinical records.
+• Presented evaluation reports and recommendations to pharmaceutical and consumer-tech client stakeholders.
+Research Data Analyst Sep 2024 - Dec 2024
+Westlake University Hangzhou, China
+• Analysed multi-omics data on epigenetic change in ageing skin stem cells within a university research group.
+• Led a process improvement on the analysis pipeline, refactoring and parallelising it in Python and R to cut processing
+time by roughly 60%.
+• Added version-controlled, documented scripts so colleagues could rerun and validate the analysis without rebuilding it.
+Project Experience
+Cardiovascular Risk Prediction and Causal ML Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression and three tree ensembles on 458,840 UK Biobank participants, reaching AUC 0.714-0.718
+with near-perfect calibration.
+• Estimated lifestyle effects with doubly robust causal forests on 71,428 participants, testing overlap and unmeasured
+confounding.
+• Built and deployed an interactive Streamlit web application so non-technical reviewers could explore results and
+sensitivity analyses.
+Clinical NLP and LLM Evaluation Jan 2026 - Jul 2026
+University College London London, UK
+• Led a team building a Hugging Face pipeline that parsed radiology reports into structured clinical features.
+• Fine-tuned PubMedBERT-style models that outperformed TF-IDF and kNN baselines under a reproducible evaluation
+framework.
+• Surfaced model failure modes by comparing outputs against text-derived signals and patient data.
+Skills
+Programming: Python, R (tidyverse, ggplot2), SQL, Linux shell, Git, Docker, Claude Code
+Clinical Data : UK Biobank, radiology reports, patient consultation text, multi-omics, relational query and wrangling
+W eb Applications and Dashboards : Streamlit, Power BI, Excel, matplotlib, ggplot2, pandas, NumPy
+Analysis and Modelling : statistics, hypothesis testing, causal inference, scikit-learn, XGBoost, calibration | Languages:
+English (fluent), Mandarin (native)

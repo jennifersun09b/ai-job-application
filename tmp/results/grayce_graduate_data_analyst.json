@@ -1,0 +1,44 @@
+{
+  "name": "grayce_graduate_data_analyst",
+  "company": "GRAYCE",
+  "role": "Graduate Data Analyst",
+  "sector": "Consulting",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/graduate-data-analyst-at-grayce-4459900306",
+  "deadline": "",
+  "fit_rating": 88,
+  "cv_file": "cv/main_grayce_graduate_data_analyst.tex",
+  "cover_letter_file": "cover_letters/cover_grayce_graduate_data_analyst.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 12, "synonym_only": 2, "missing_have_it": 0, "missing_gap": 3},
+  "gaps_acknowledged": [
+    "No full-time post-graduation experience",
+    "No experience of a formal consultancy deployment model",
+    "Tableau and Azure not used (has Power BI and basic AWS)",
+    "No formal data governance experience"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led on client-readiness rather than academic depth: added Ipsos Strategy3 as a full CV entry and opened the letter's evidence paragraphs with client-facing delivery at Ipsos and DS Digital, since Grayce deploys graduates on site with one client at a time",
+    "Made demonstrated learning speed the central pitch, tracing molecular dynamics to multi-omics to pharma market research to e-commerce operations in just over two years, matching Grayce's redeployment model",
+    "Reused the posting's own pathway headings as CV skills-line labels (Data Analysis and Insight, Advanced Analytics and Data Science, Data Engineering and Platforms) and added the Westlake pipeline refactor to cover 'supporting data pipelines and transformations'",
+    "Verified two company specifics independently on grayce.co.uk before use: AstraZeneca as a named client and the option to move across to the client after two years within a programme running up to three years",
+    "Named the Tableau and Azure gaps honestly in the letter rather than keyword-stuffing, framing them as what the accreditations are for"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "Grayce allocates consultants to clients and states it is expanding into UK public sector work; the candidate's profile excludes government and public-sector-facing roles, so she should ask at interview how clients are matched and whether a sector preference can be expressed",
+    "Data governance, Tableau and Azure remain genuine gaps and were left uncovered deliberately",
+    "Posting file header URL (job id 4459194517) differs from the assigned posting URL (4459900306); the assigned URL was recorded as the source"
+  ]
+}

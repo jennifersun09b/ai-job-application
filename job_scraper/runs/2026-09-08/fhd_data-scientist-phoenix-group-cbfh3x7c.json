@@ -1,0 +1,42 @@
+{
+  "id": "data-scientist-phoenix-group-cbfh3x7c",
+  "title": "Data Scientist",
+  "company": "Phoenix Group",
+  "company_slug": "phoenix-group",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "date": "2026-09-07T00:00:00Z",
+  "url": "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20827?utm_source=freehire.me",
+  "work_mode": "hybrid",
+  "regions": [
+    "uk"
+  ],
+  "countries": [
+    "gb"
+  ],
+  "skills": [
+    "ai",
+    "analytics",
+    "aws",
+    "azure",
+    "ci-cd",
+    "cloud",
+    "data-lake",
+    "data-science",
+    "data-warehousing",
+    "git",
+    "machine-learning",
+    "powerbi",
+    "python",
+    "spark",
+    "sql",
+    "tableau"
+  ],
+  "description": "If you're someone who enjoys solving complex problems, who brings analytical thinking, attention to detail and a passion for problem solving, you’ll thrive as our next data scientist in our Data Science team.\nJob Type: Permanent\nLocation: This role could be based in either our Edinburgh, Birmingham, Telford or London offices with time spent working in the office and at home.\nFlexible working: All roles are open to part-time, job-share and other types of flexibility. We will discuss what is important to you and balancing this with business requirements during the recruitment process. You can read more about flexible working here.\nClosing Date: 23/09/2026\nSalary and benefits : £45,000 - £50,000 plus an indicative bonus range of 16 – 32%, private medical cover, 38 days annual leave, excellent pension, 12x salary life assurance, career breaks, income protection, 3x volunteering days and much more.\nWho are we?\nWe’re Standard Life, a retirement specialist focused entirely on retirement savings and income. We champion the belief that everyone’s journey to and through retirement can be better, and for more than 200 years, we’ve been helping our customers plan and prepare for their financial futures.\nLife today is increasingly complicated, uncertain and unpredictable. People move through different careers, face unexpected moments and navigate important choices. We offer our colleagues flexibility, trust and benefits that work for whatever life brings. In return we expect curiosity, connection, accountability and high standards. We make room for what matters - so you can bring your best, every day.\nThe role\nThe data scientist is responsible for developing advanced analytics, machine learning & AI solutions to solve business problems in a customer obsessed environment. At Standard Life, we realised that to deliver our growth ambition that this needs to be underpinned by a culture of learning, adapting and experimentation. We see these as core elements that underpin Data Science.\nIn this role, you will play a pivotal role in design, develop, and deploy data science solutions for a variety of problems. We are building to establish best and modern data science practices in our data science team to ensure we innovate at scale and speed.\n\nKey Responsibilities:\nAct as data domain subject matter expert to ensure specialist input is provided and influences business decision making.\nBuild, develop and deploy data science solutions and is compliant with internal team best practices and procedures. Help to establish best practices, understanding and compliance\nCommunicate effectively with business stakeholders, shape the narrative, providing clarity and comprehension of the solution\nDeliver appropriate data science solutions to stakeholders and work with stakeholders to establish with next steps\nEnsure compliance with relevant procedures and processes and maintain evidence/audit trail as required.\nSource and determine data availability e.g. internal, external, novel data sources\nWork with business units to gather requirements, propose and experiment with data science methodologies to solve the problem\nWrangle, manipulate and clean data from multiple data sources\n\nWhat we're looking for:\nEssential\nHas the natural curiosity for data as well as the passion to research and resolve real life problem with data and modern technologies.\nAbility to work collaboratively and communicate effectively.\nSound knowledge and experience of developing and deploying statistical and machine learning models (supervised and unsupervised)\nEssential – Python Expertise, SQL, Big Data (Spark), BI tool (e.g. Tableau, PowerBI)\nModern software development experience and toolkit e.g. Git, code reviews, Feature Stores, CI/CD\n\nDesirable\nDesign of experiments e.g. A/B/N, multi-variate, sample size calculation, (part/fractional) factorial designs\nDatabase, data warehouse or data lake experience to build SQL packages, processes, queries and tune data model for performance\nCloud architecture e.g. AWS, MS Azure\n\nWe want to hire the whole version of you.\nWe are committed to ensuring that everyone feels accepted and welcome applicants from all backgrounds. If your experience looks different from what we’ve advertised and you believe that you can bring value to the role, we’d love to hear from you.\nIf you require any adjustments to the recruitment process, please let us know so we can help you to be at your best.\nWe’re reviewing applications as they come in and may close this role before the closing date, so apply early to avoid missing out.\nFind out more about working at Standard Life #LI-GJ1\nGuide for Candidates:\nFind or get answers from our colleagues:",
+  "cities": [
+    "Edinburgh"
+  ],
+  "seniority": null,
+  "category": "data_science",
+  "employment_type": "part_time",
+  "salary": "GBP 45000–50000"
+}

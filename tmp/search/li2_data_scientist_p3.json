@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 3
+  },
+  "results": [
+    {
+      "id": "4456951018",
+      "title": "Data Scientist",
+      "company": "BigHand",
+      "companyUrl": "https://uk.linkedin.com/company/bighand",
+      "location": "London, England, United Kingdom",
+      "date": "2026-08-25",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-bighand-4456951018"
+    },
+    {
+      "id": "4459967799",
+      "title": "Senior Data Scientist",
+      "company": "Haven",
+      "companyUrl": "https://uk.linkedin.com/company/haven-",
+      "location": "Hemel Hempstead, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-haven-4459967799"
+    },
+    {
+      "id": "4458406477",
+      "title": "Data Scientist",
+      "company": "London Borough of Barking and Dagenham",
+      "companyUrl": "https://uk.linkedin.com/company/lbbdcouncil",
+      "location": "Barking, England, United Kingdom",
+      "date": "2026-08-28",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-london-borough-of-barking-and-dagenham-4458406477"
+    },
+    {
+      "id": "4464360089",
+      "title": "Principal Data Scientist - National Security (TIRE)",
+      "company": "The Alan Turing Institute",
+      "companyUrl": "https://uk.linkedin.com/school/the-alan-turing-institute/",
+      "location": "Cheltenham, England, United Kingdom",
+      "date": "2026-09-08",
+      "url": "https://uk.linkedin.com/jobs/view/principal-data-scientist-national-security-tire-at-the-alan-turing-institute-4464360089"
+    },
+    {
+      "id": "4457350482",
+      "title": "Data Scientist (Pricing)",
+      "company": "Arthur Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/arthurfinancial",
+      "location": "London Area, United Kingdom",
+      "date": "2026-08-21",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-pricing-at-arthur-recruitment-4457350482"
+    },
+    {
+      "id": "4460971015",
+      "title": "Senior Pricing Data Scientist",
+      "company": "North Co Recruitment",
+      "companyUrl": "https://www.linkedin.com/company/northcorecruitment",
+      "location": "Manchester Area, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/senior-pricing-data-scientist-at-north-co-recruitment-4460971015"
+    },
+    {
+      "id": "4453102200",
+      "title": "Senior Data Scientist",
+      "company": "Immersum",
+      "companyUrl": "https://uk.linkedin.com/company/immersumltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-08-21",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-immersum-4453102200"
+    },
+    {
+      "id": "4464353569",
+      "title": "Principal Data Scientist",
+      "company": "Digital Futures",
+      "companyUrl": "https://uk.linkedin.com/company/digital-futures2021",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/principal-data-scientist-at-digital-futures-4464353569"
+    },
+    {
+      "id": "4432016958",
+      "title": "Senior Data Scientist",
+      "company": "Coalition, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/coalitioninc",
+      "location": "London, England, United Kingdom",
+      "date": "2026-08-26",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-coalition-inc-4432016958"
+    },
+    {
+      "id": "4451513631",
+      "title": "Data Scientist - Maidenhead (£40-45k",
+      "company": "Solas IT Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/solas-consulting-group",
+      "location": "Maidenhead, England, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-maidenhead-%C2%A340-45k-at-solas-it-recruitment-4451513631"
+    }
+  ]
+}

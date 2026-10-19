@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4467701895",
+      "title": "Junior Roles - Data & AI",
+      "company": "Rewire",
+      "companyUrl": "https://nl.linkedin.com/company/rewirenow",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-15",
+      "url": "https://nl.linkedin.com/jobs/view/junior-roles-data-ai-at-rewire-4467701895"
+    },
+    {
+      "id": "4450738416",
+      "title": "Data Scientist",
+      "company": "Kramp",
+      "companyUrl": "https://nl.linkedin.com/company/kramp",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-09-20",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-at-kramp-4450738416"
+    },
+    {
+      "id": "4450747199",
+      "title": "Data Scientist",
+      "company": "Kramp",
+      "companyUrl": "https://nl.linkedin.com/company/kramp",
+      "location": "Varsseveld, Gelderland, Netherlands",
+      "date": "2026-09-20",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-at-kramp-4450747199"
+    },
+    {
+      "id": "4470480466",
+      "title": "Data Science Consultant",
+      "company": "Sia",
+      "companyUrl": "https://fr.linkedin.com/company/sia-partners",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/data-science-consultant-at-sia-4470480466"
+    },
+    {
+      "id": "4470478586",
+      "title": "Data Science Consultant",
+      "company": "Sia",
+      "companyUrl": "https://fr.linkedin.com/company/sia-partners",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/data-science-consultant-at-sia-4470478586"
+    },
+    {
+      "id": "4469077949",
+      "title": "Data Science Consultant",
+      "company": "PPT Consulting",
+      "companyUrl": "https://www.linkedin.com/company/ppt-consultants",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/data-science-consultant-at-ppt-consulting-4469077949"
+    },
+    {
+      "id": "4469082877",
+      "title": "Data Science Consultant",
+      "company": "PPT Consulting",
+      "companyUrl": "https://www.linkedin.com/company/ppt-consultants",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/data-science-consultant-at-ppt-consulting-4469082877"
+    },
+    {
+      "id": "4469423669",
+      "title": "Future Tech Leaders Program (Dutch speaking)",
+      "company": "Bit Traineeship",
+      "companyUrl": "https://nl.linkedin.com/company/bit-traineeship",
+      "location": "Amsterdam Area",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/future-tech-leaders-program-dutch-speaking-at-bit-traineeship-4469423669"
+    },
+    {
+      "id": "4469117852",
+      "title": "Psychometrisch Data Scientist",
+      "company": "Cito",
+      "companyUrl": "https://nl.linkedin.com/company/cito",
+      "location": "Arnhem, Gelderland, Netherlands",
+      "date": "2026-09-18",
+      "url": "https://nl.linkedin.com/jobs/view/psychometrisch-data-scientist-at-cito-4469117852"
+    },
+    {
+      "id": "4469454444",
+      "title": "Young Professionals Program (Dutch speaking)",
+      "company": "Bit Traineeship",
+      "companyUrl": "https://nl.linkedin.com/company/bit-traineeship",
+      "location": "Amsterdam Area",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/young-professionals-program-dutch-speaking-at-bit-traineeship-4469454444"
+    }
+  ]
+}

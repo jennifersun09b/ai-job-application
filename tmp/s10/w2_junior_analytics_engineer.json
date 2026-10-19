@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4468040930",
+      "title": "Analytics Engineer",
+      "company": "Zego",
+      "companyUrl": "https://uk.linkedin.com/company/zegocover",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/analytics-engineer-at-zego-4468040930"
+    },
+    {
+      "id": "4471525239",
+      "title": "Data Analyst",
+      "company": "HiredBuddy",
+      "companyUrl": "https://www.linkedin.com/company/hired-buddy",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-28",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-hiredbuddy-4471525239"
+    },
+    {
+      "id": "4469059520",
+      "title": "Data Analyst",
+      "company": "Harnham",
+      "companyUrl": "https://uk.linkedin.com/company/harnham",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-harnham-4469059520"
+    },
+    {
+      "id": "4468278830",
+      "title": "Graduate Data Engineer",
+      "company": "Blenheim Chalcot",
+      "companyUrl": "https://uk.linkedin.com/company/blenheim-chalcot",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-16",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-engineer-at-blenheim-chalcot-4468278830"
+    },
+    {
+      "id": "4472704546",
+      "title": "Data Engineer",
+      "company": "Undisclosed",
+      "companyUrl": "https://www.linkedin.com/company/undisclosed_7",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-28",
+      "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-undisclosed-4472704546"
+    },
+    {
+      "id": "4466885832",
+      "title": "Graduate Data Engineer",
+      "company": "Fospha",
+      "companyUrl": "https://www.linkedin.com/company/fospha",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-16",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-engineer-at-fospha-4466885832"
+    },
+    {
+      "id": "4470912191",
+      "title": "Data & AI Engineer",
+      "company": "ESP Utilities Group Ltd",
+      "companyUrl": "https://www.linkedin.com/company/esp-utilities-group",
+      "location": "Leatherhead, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/data-ai-engineer-at-esp-utilities-group-ltd-4470912191"
+    },
+    {
+      "id": "4468266874",
+      "title": "Junior Software Engineer",
+      "company": "Blenheim Chalcot",
+      "companyUrl": "https://uk.linkedin.com/company/blenheim-chalcot",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-16",
+      "url": "https://uk.linkedin.com/jobs/view/junior-software-engineer-at-blenheim-chalcot-4468266874"
+    },
+    {
+      "id": "4466583008",
+      "title": "Junior Data Engineer",
+      "company": "Harnham",
+      "companyUrl": "https://uk.linkedin.com/company/harnham",
+      "location": "West Midlands, England, United Kingdom",
+      "date": "2026-09-15",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-engineer-at-harnham-4466583008"
+    },
+    {
+      "id": "4469334828",
+      "title": "Graduate Data Consultant",
+      "company": "Sub One Group Limited",
+      "companyUrl": "https://uk.linkedin.com/company/sub-one",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-consultant-at-sub-one-group-limited-4469334828"
+    }
+  ]
+}

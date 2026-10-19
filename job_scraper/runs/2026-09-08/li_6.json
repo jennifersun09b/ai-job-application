@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4463700258",
+      "title": "Software Engineer III - AI Engineering",
+      "company": "JPMorganChase",
+      "companyUrl": "https://www.linkedin.com/company/jpmorganchase",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-05",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-iii-ai-engineering-at-jpmorganchase-4463700258"
+    },
+    {
+      "id": "4453586713",
+      "title": "AI Engineer (UK)",
+      "company": "Meltwater",
+      "companyUrl": "https://www.linkedin.com/company/meltwater",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-05",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-uk-at-meltwater-4453586713"
+    },
+    {
+      "id": "4462423441",
+      "title": "Principal Engineer - AI",
+      "company": "Anaplan",
+      "companyUrl": "https://www.linkedin.com/company/anaplan",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/principal-engineer-ai-at-anaplan-4462423441"
+    },
+    {
+      "id": "4462435109",
+      "title": "Principal AI Engineer",
+      "company": "Anaplan",
+      "companyUrl": "https://www.linkedin.com/company/anaplan",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/principal-ai-engineer-at-anaplan-4462435109"
+    },
+    {
+      "id": "4416724485",
+      "title": "Applied AI Engineer, Codex Core Agent",
+      "company": "OpenAI",
+      "companyUrl": "https://www.linkedin.com/company/openai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-06",
+      "url": "https://uk.linkedin.com/jobs/view/applied-ai-engineer-codex-core-agent-at-openai-4416724485"
+    },
+    {
+      "id": "4461155169",
+      "title": "Machine Learning Engineer | Competitive Compensation | LLMs",
+      "company": "Understanding Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/understanding-recruitment",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-04",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-competitive-compensation-llms-at-understanding-recruitment-4461155169"
+    },
+    {
+      "id": "4443919382",
+      "title": "Machine Learning Engineer, Applied AI - Deployed",
+      "company": "Brain Co.",
+      "companyUrl": "https://www.linkedin.com/company/brainco-ai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-applied-ai-deployed-at-brain-co-4443919382"
+    },
+    {
+      "id": "4406816404",
+      "title": "Applied AI ML - Senior Associate - Machine Learning Engineer",
+      "company": "JPMorganChase",
+      "companyUrl": "https://www.linkedin.com/company/jpmorganchase",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/applied-ai-ml-senior-associate-machine-learning-engineer-at-jpmorganchase-4406816404"
+    },
+    {
+      "id": "4464328831",
+      "title": "AI Developer",
+      "company": "Universal Music Group",
+      "companyUrl": "https://www.linkedin.com/company/universalmusicgroup",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/ai-developer-at-universal-music-group-4464328831"
+    },
+    {
+      "id": "4462829291",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Omnis Partners",
+      "companyUrl": "https://uk.linkedin.com/company/omnis-partners",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/artificial-intelligence-engineer-at-omnis-partners-4462829291"
+    }
+  ]
+}

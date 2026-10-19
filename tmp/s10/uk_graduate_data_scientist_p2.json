@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4471394324",
+      "title": "Data Scientist",
+      "company": "Sweet Analytics",
+      "companyUrl": "https://uk.linkedin.com/company/sweetanalytics",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-28",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-sweet-analytics-4471394324"
+    },
+    {
+      "id": "4470973653",
+      "title": "Junior Machine Learning Engineer",
+      "company": "Trainline",
+      "companyUrl": "https://uk.linkedin.com/company/trainline",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/junior-machine-learning-engineer-at-trainline-4470973653"
+    },
+    {
+      "id": "4462042055",
+      "title": "2027 Graduate Analyst",
+      "company": "Zopa Bank",
+      "companyUrl": "https://uk.linkedin.com/company/zopabank",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/2027-graduate-analyst-at-zopa-bank-4462042055"
+    },
+    {
+      "id": "4435546628",
+      "title": "Quantitative Analyst (Math, Physics & Engineering degrees)",
+      "company": "Prima",
+      "companyUrl": "https://it.linkedin.com/company/prima-assicurazioni",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/quantitative-analyst-math-physics-engineering-degrees-at-prima-4435546628"
+    },
+    {
+      "id": "4458291826",
+      "title": "Quantitative Researcher",
+      "company": "Fuse Energy",
+      "companyUrl": "https://uk.linkedin.com/company/fuseenergyhq",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/quantitative-researcher-at-fuse-energy-4458291826"
+    },
+    {
+      "id": "4471080895",
+      "title": "Junior ML Engineer",
+      "company": "Haystack",
+      "companyUrl": "https://uk.linkedin.com/company/wearehaystack",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-27",
+      "url": "https://uk.linkedin.com/jobs/view/junior-ml-engineer-at-haystack-4471080895"
+    },
+    {
+      "id": "4471615373",
+      "title": "Graduate Data Consultant",
+      "company": "Arup",
+      "companyUrl": "https://uk.linkedin.com/company/arup",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-consultant-at-arup-4471615373"
+    },
+    {
+      "id": "4468564665",
+      "title": "Junior Quantitative Risk Analyst",
+      "company": "Campion Pickworth",
+      "companyUrl": "https://www.linkedin.com/company/campionpickworth",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/junior-quantitative-risk-analyst-at-campion-pickworth-4468564665"
+    },
+    {
+      "id": "4462063395",
+      "title": "Quantitative Trader/Researcher Graduate Programme 2027",
+      "company": "Tower Research Capital",
+      "companyUrl": "https://www.linkedin.com/company/tower-research-capital",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/quantitative-trader-researcher-graduate-programme-2027-at-tower-research-capital-4462063395"
+    },
+    {
+      "id": "4469475434",
+      "title": "Software Engineer - AI",
+      "company": "Siemens Digital Industries Software",
+      "companyUrl": "https://www.linkedin.com/company/siemenssoftware",
+      "location": "Cambridge, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-ai-at-siemens-digital-industries-software-4469475434"
+    }
+  ]
+}

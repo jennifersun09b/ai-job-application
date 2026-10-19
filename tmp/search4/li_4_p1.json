@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4465061073",
+      "title": "AI Engineer",
+      "company": "Aceve",
+      "companyUrl": "https://se.linkedin.com/company/aceve",
+      "location": "Rotterdam and The Hague",
+      "date": "2026-09-10",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-aceve-4465061073"
+    },
+    {
+      "id": "4411414795",
+      "title": "Senior GenAI Engineer",
+      "company": "Curamando",
+      "companyUrl": "https://se.linkedin.com/company/curamando",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-13",
+      "url": "https://nl.linkedin.com/jobs/view/senior-genai-engineer-at-curamando-4411414795"
+    },
+    {
+      "id": "4465209806",
+      "title": "AI Engineer",
+      "company": "Sogeti",
+      "companyUrl": "https://fr.linkedin.com/company/sogeti",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-14",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-sogeti-4465209806"
+    },
+    {
+      "id": "4470914272",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Datacation",
+      "companyUrl": "https://nl.linkedin.com/company/datacation",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-engineer-at-datacation-4470914272"
+    },
+    {
+      "id": "4470400250",
+      "title": "Senior Machine Learning Engineer – LLMs",
+      "company": "Prosus",
+      "companyUrl": "https://nl.linkedin.com/company/prosus",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/senior-machine-learning-engineer-%E2%80%93-llms-at-prosus-4470400250"
+    },
+    {
+      "id": "4466828978",
+      "title": "AI Engineer",
+      "company": "Jobgether",
+      "companyUrl": "https://be.linkedin.com/company/jobgether",
+      "location": "Netherlands",
+      "date": "2026-09-16",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-jobgether-4466828978"
+    },
+    {
+      "id": "4469888128",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Blackbirds",
+      "companyUrl": "https://nl.linkedin.com/company/blackbirds-ai",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-21",
+      "url": "https://nl.linkedin.com/jobs/view/artificial-intelligence-engineer-at-blackbirds-4469888128"
+    },
+    {
+      "id": "4467845918",
+      "title": "AI Engineer",
+      "company": "MarvelX AI",
+      "companyUrl": "https://nl.linkedin.com/company/marvelxai",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-18",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineer-at-marvelx-ai-4467845918"
+    },
+    {
+      "id": "4464575316",
+      "title": "AI Engineers - building and scaling AI solutions",
+      "company": "PA Consulting",
+      "companyUrl": "https://uk.linkedin.com/company/pa-consulting",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-09-10",
+      "url": "https://nl.linkedin.com/jobs/view/ai-engineers-building-and-scaling-ai-solutions-at-pa-consulting-4464575316"
+    },
+    {
+      "id": "4454702624",
+      "title": "Python Software Engineer - AI team",
+      "company": "Channable",
+      "companyUrl": "https://nl.linkedin.com/company/channable",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/python-software-engineer-ai-team-at-channable-4454702624"
+    }
+  ]
+}

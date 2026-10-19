@@ -1,0 +1,46 @@
+{
+  "name": "oritain_statistical_data_scientist",
+  "company": "Oritain",
+  "role": "Statistical Data Scientist",
+  "sector": "Supply chain forensics / scientific technology",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/statistical-data-scientist-at-oritain-4457946589",
+  "deadline": "",
+  "fit_rating": 70,
+  "cv_file": "cv/main_oritain_statistical_data_scientist.tex",
+  "cover_letter_file": "cover_letters/cover_oritain_statistical_data_scientist.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 12, "synonym_only": 2, "missing_have_it": 0, "missing_gap": 6},
+  "gaps_acknowledged": [
+    "No isotope, geochemistry or supply-chain provenance experience (bridged via CLR compositional analysis and high-dimensional laboratory measurement work)",
+    "Under the stated minimum of 2 years commercial statistical modelling experience (internships plus MSc)",
+    "No Azure or commercial cloud model deployment; AWS at basic level only",
+    "No MLOps or ML lifecycle tooling experience",
+    "No Databricks experience",
+    "VS Code and Conda not evidenced in the profile, so not claimed"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led the letter and CV skills block with compositional-data analysis (centred log-ratio, PCA, Ward clustering) as the direct bridge to isotope-ratio and trace-element data, which is the non-obvious match no generic data scientist can claim",
+    "Front-loaded statistical rigour from the UK Biobank dissertation (logistic regression vs three tree ensembles, AUC 0.714 to 0.718, near-perfect calibration, doubly robust causal forests, E-values, quantitative bias analysis, NHEFS external validation) rather than product analytics",
+    "Promoted the Westlake University multi-omics role into Work Experience to evidence high-dimensional laboratory-generated scientific data, and listed R (tidyverse, ggplot2) alongside Python for a science-led team",
+    "Named UFLPA and EUDR after verifying them on oritain.com/platform/platform-overview, and described the Origin Fingerprint using the company's own verified wording",
+    "Stated the isotope and commercial-experience gaps outright rather than papering over them"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "Posting states a minimum of 2 years commercial experience applying statistical modelling and machine learning; the candidate is below that bar and the letter says so.",
+    "The Molecular Dynamics project entry had to be cut from the CV to hold one page; molecular dynamics remains in the skills line and in the cover letter.",
+    "The UCL education 'Core areas' line maps module content onto the posting's vocabulary (probability, uncertainty, calibration, dimension reduction) rather than quoting module titles. Defensible in interview, but worth knowing."
+  ]
+}

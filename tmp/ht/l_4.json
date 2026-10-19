@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4470478360",
+      "title": "ML Engineer",
+      "company": "Boehringer Ingelheim",
+      "companyUrl": "https://de.linkedin.com/company/boehringer-ingelheim",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/ml-engineer-at-boehringer-ingelheim-4470478360"
+    },
+    {
+      "id": "4405436858",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Accurx",
+      "companyUrl": "https://uk.linkedin.com/company/accurx",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-19",
+      "url": "https://uk.linkedin.com/jobs/view/senior-machine-learning-engineer-at-accurx-4405436858"
+    },
+    {
+      "id": "4414655161",
+      "title": "Senior ML Engineer",
+      "company": "Boehringer Ingelheim",
+      "companyUrl": "https://de.linkedin.com/company/boehringer-ingelheim",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ml-engineer-at-boehringer-ingelheim-4414655161"
+    },
+    {
+      "id": "4473099992",
+      "title": "Generative AI Engineer",
+      "company": "Opus Recruitment Solutions",
+      "companyUrl": "https://uk.linkedin.com/company/opus-recruitment-solutions",
+      "location": "United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/generative-ai-engineer-at-opus-recruitment-solutions-4473099992"
+    },
+    {
+      "id": "4456351400",
+      "title": "Senior Software Engineer - Applied AI",
+      "company": "CoMind",
+      "companyUrl": "https://uk.linkedin.com/company/comindtechnologies",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-02",
+      "url": "https://uk.linkedin.com/jobs/view/senior-software-engineer-applied-ai-at-comind-4456351400"
+    },
+    {
+      "id": "4440469012",
+      "title": "Senior AI Engineer",
+      "company": "Causaly",
+      "companyUrl": "https://uk.linkedin.com/company/causaly",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ai-engineer-at-causaly-4440469012"
+    },
+    {
+      "id": "4464122481",
+      "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+      "company": "Anthropic",
+      "companyUrl": "https://www.linkedin.com/company/anthropicresearch",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/applied-ai-engineer-beneficial-deployments-life-sciences-at-anthropic-4464122481"
+    },
+    {
+      "id": "4450803275",
+      "title": "Senior Software Engineer / Senior AI Engineer",
+      "company": "Elsevier",
+      "companyUrl": "https://nl.linkedin.com/company/elsevier",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-08",
+      "url": "https://uk.linkedin.com/jobs/view/senior-software-engineer-senior-ai-engineer-at-elsevier-4450803275"
+    },
+    {
+      "id": "4405433930",
+      "title": "Staff Machine Learning Engineer",
+      "company": "Accurx",
+      "companyUrl": "https://uk.linkedin.com/company/accurx",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-18",
+      "url": "https://uk.linkedin.com/jobs/view/staff-machine-learning-engineer-at-accurx-4405433930"
+    },
+    {
+      "id": "4474539232",
+      "title": "Senior Machine Learning Engineer - AI Enablement",
+      "company": "Roche",
+      "companyUrl": "https://ch.linkedin.com/company/roche",
+      "location": "Welwyn, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/senior-machine-learning-engineer-ai-enablement-at-roche-4474539232"
+    }
+  ]
+}

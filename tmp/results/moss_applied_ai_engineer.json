@@ -1,0 +1,45 @@
+{
+  "name": "moss_applied_ai_engineer",
+  "company": "Moss",
+  "role": "Applied AI Engineer",
+  "sector": "Fintech / spend management",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/applied-ai-engineer-at-moss-4460115226",
+  "deadline": "",
+  "fit_rating": 65,
+  "cv_file": "cv/main_moss_applied_ai_engineer.tex",
+  "cover_letter_file": "cover_letters/cover_moss_applied_ai_engineer.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 16, "synonym_only": 5, "missing_have_it": 0, "missing_gap": 11},
+  "gaps_acknowledged": [
+    "No fintech or accounting domain experience (stated plainly in the cover letter)",
+    "Production engineering is project-scale, not a service operated at Moss volume",
+    "No named agent-orchestration framework (Google ADK, LangGraph, LangChain, LlamaIndex)",
+    "No Java, Kafka, microservices or distributed-systems experience",
+    "No GCP or Vertex AI, no BigQuery or PostgreSQL specifically (AWS basic only)",
+    "No MCP experience recorded in the profile, so it was left out rather than stuffed"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led the DS Digital entry with the end-to-end LLM pipeline (6 LLM APIs, retrieval and search augmentation) to answer the posting's 'shipped at least one LLM-powered capability end to end' requirement directly",
+    "Promoted the evaluation work (246-question test dataset, six-dimension rubric with red-line rules, LLM-as-judge over 2,400+ responses, blinded paired A/B) as the headline skill, since the posting devotes a whole section to evaluating non-deterministic AI systems",
+    "Reframed the radiology-report NLP project as 'Clinical NLP and LLM Document Extraction' and placed it first in Project Experience, then linked it in the letter to invoice extraction, which is Moss's actual accuracy problem",
+    "Renamed the CV skills-block labels to the posting's own headings (Backend and Data Systems, AI Application Architecture, AI Evaluation)",
+    "Anchored the 'why Moss' paragraph on two independently verified facts from getmoss.com (the AI-powered Pre-Accounting Agent, and cards/invoices/reimbursements on one platform for 7,000+ companies), not on the posting text"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The mandatory reviewer subagent could NOT be run: the Agent tool returned 'Concurrent subagent limit reached' on two separate attempts because 20 sibling application agents are already running. The grounding audit, AI-tells audit, keyword table and company research were performed by the drafting agent itself instead. A second pair of eyes on these two documents would be worth having.",
+    "Cover letter body is 378 words, inside the 330-380 budget but close to the ceiling; any addition needs an offsetting cut."
+  ]
+}

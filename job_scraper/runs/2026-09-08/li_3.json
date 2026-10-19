@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4462930052",
+      "title": "Graduate AI Engineer",
+      "company": "Oho Group",
+      "companyUrl": "https://uk.linkedin.com/company/oho-group-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-ai-engineer-at-oho-group-4462930052"
+    },
+    {
+      "id": "4464098844",
+      "title": "Junior AI Developer",
+      "company": "Build Halt",
+      "companyUrl": "https://uk.linkedin.com/company/build-halt",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/junior-ai-developer-at-build-halt-4464098844"
+    },
+    {
+      "id": "4456907191",
+      "title": "Graduate AI and Machine Learning Engineer",
+      "company": "Reply",
+      "companyUrl": "https://it.linkedin.com/company/reply",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-ai-and-machine-learning-engineer-at-reply-4456907191"
+    },
+    {
+      "id": "4440469242",
+      "title": "Graduate AI Software Developer",
+      "company": "Reply",
+      "companyUrl": "https://it.linkedin.com/company/reply",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-ai-software-developer-at-reply-4440469242"
+    },
+    {
+      "id": "4462192481",
+      "title": "Software Engineer (AI & Automation)",
+      "company": "Harvey Nash",
+      "companyUrl": "https://uk.linkedin.com/company/harvey-nash",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-ai-automation-at-harvey-nash-4462192481"
+    },
+    {
+      "id": "4461373598",
+      "title": "AI Engineer-Anthropic-University/Graduate Level",
+      "company": "targetjobs UK",
+      "companyUrl": "https://uk.linkedin.com/company/targetjobsuk",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-anthropic-university-graduate-level-at-targetjobs-uk-4461373598"
+    },
+    {
+      "id": "4453586713",
+      "title": "AI Engineer (UK)",
+      "company": "Meltwater",
+      "companyUrl": "https://www.linkedin.com/company/meltwater",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-05",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-uk-at-meltwater-4453586713"
+    },
+    {
+      "id": "4464451756",
+      "title": "AI / ML / Software Engineer",
+      "company": "MPower Plus",
+      "companyUrl": "https://uk.linkedin.com/company/mpowerplus",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-08",
+      "url": "https://uk.linkedin.com/jobs/view/ai-ml-software-engineer-at-mpower-plus-4464451756"
+    },
+    {
+      "id": "4462985833",
+      "title": "Member of Technical Staff, Machine Learning",
+      "company": "ActAI",
+      "companyUrl": "https://my.linkedin.com/company/actai",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-08",
+      "url": "https://uk.linkedin.com/jobs/view/member-of-technical-staff-machine-learning-at-actai-4462985833"
+    },
+    {
+      "id": "4462994042",
+      "title": "Machine Learning Engineer",
+      "company": "Oho Group",
+      "companyUrl": "https://uk.linkedin.com/company/oho-group-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-oho-group-4462994042"
+    }
+  ]
+}

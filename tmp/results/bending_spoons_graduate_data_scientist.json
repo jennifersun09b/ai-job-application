@@ -1,0 +1,40 @@
+{
+  "name": "bending_spoons_graduate_data_scientist",
+  "company": "Bending Spoons",
+  "role": "Graduate data scientist",
+  "sector": "Technology",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4462110692",
+  "deadline": "",
+  "fit_rating": 79,
+  "cv_file": "cv/main_bending_spoons_graduate_data_scientist.tex",
+  "cover_letter_file": "cover_letters/cover_bending_spoons_graduate_data_scientist.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 8, "synonym_only": 4, "missing_have_it": 0, "missing_gap": 1},
+  "gaps_acknowledged": [
+    "No full-time post-graduation experience",
+    "No production data systems run at Bending Spoons' scale (the posting's scalability requirement)"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led on analytical rigour rather than a tool list, because the posting screens on reasoning ability: the dissertation paragraph reports the honest null-ish result (logistic regression matched three tree ensembles on 458,840 participants) and names E-values, quantitative bias analysis and external validation in NHEFS",
+    "Used the Apple x Tmall repeated-measures work as the consumer-product proof point and the six-LLM-API scoring pipeline as the data-pipeline and AI-tooling proof point, matching the posting's 'design and improve data pipelines' and 'leverage AI' responsibilities",
+    "Renamed CV skills groups to the posting's own headings (Data pipelines and systems, Statistics and modelling, Machine learning and AI) and stated the visa and Milan relocation positively in one sentence, with no hedging on start date"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The calibration profile records a prior application to Bending Spoons (Data Scientist), outcome not recorded. The posting says to wait at least a year before reapplying if a previous application did not lead to an offer. The user should check the date and outcome of that earlier application before submitting.",
+    "Posting body lists Milan, London, Madrid, Warsaw or remote from eligible countries, not Oxford as the LinkedIn header implies; the letter is addressed to Milan and London. It also states all applications must go through the Bending Spoons careers page, so LinkedIn Easy Apply will not be considered.",
+    "Posting file URL (job id 4463287763) differs from the URL in the assignment (4462110692); the posting text is identical in substance, but confirm the live listing before applying."
+  ]
+}

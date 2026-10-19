@@ -1,0 +1,50 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: statistics, experimental design, causal inference, machine learning, model calibration and uncertainty.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+• Core areas: mathematics, programming, statistics, bioinformatics and computational biology.
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Query merchant growth and operations data in SQL and Python, tracing e-commerce marketplace performance
+changes back to the drivers behind them.
+• Build KPI frameworks and dashboards that operations teams use to set targets, checking definitions and counts before
+any number is published.
+• Explain methodology and findings directly to operations, product and commercial stakeholders, turning analysis into
+targets and growth recommendations they act on.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Measured 12 Apple x Tmall audience segments across 15 advertising touchpoints with Friedman, RCBD ANOV A and
+permutation tests, producing per-segment media playbooks.
+• Rebuilt deprecated audience tags inside unfamiliar Tmall data platforms to reproduce a ∼60M-user segment,
+debugging source definitions until counts reconciled.
+• Built a Python pipeline over 6 LLM APIs that scored 2,400+ responses against a 6-dimension safety rubric with
+red-line rules, under an LLM-as-judge evaluation framework.
+Project Experience
+Causal Machine Learning for Cardiovascular Risk Dec 2025 - Sep 2026
+University College London London, UK
+• Estimated lifestyle treatment effects with doubly robust causal forests on 71,428 participants, using overlap weighting
+to keep the comparison defensible.
+• Compared logistic regression against three tree ensembles on 458,840 participants, reaching AUC 0.714 to 0.718 with
+near-perfect calibration.
+• Tested sensitivity to unmeasured confounding with E-values and quantitative bias analysis, then shipped the results as
+an interactive Streamlit tool.
+Clinical NLP and LLM Evaluation Jan 2026 - Jul 2026
+University College London London, UK
+• Led a team building a Hugging Face pipeline that parsed radiology reports into structured features for downstream
+modelling.
+• Fine-tuned PubMedBERT-style models that beat TF-IDF and kNN baselines under a single evaluation framework
+applied across every model variant.
+• Traced vision-language failure modes by checking model outputs against text-derived signals and patient data.
+Skills
+Programming: Python (pandas, NumPy, SciPy, scikit-learn), SQL, R, Git, Linux shell
+Machine Learning and Modelling : causal forests, doubly robust estimation, XGBoost, LightGBM, calibration, PCA
+and clustering
+Statistics and Experimental Design : A/B testing (blinded paired designs), benchmark design, permutation and
+non-parametric tests, repeated measures, bias analysis
+Engineering and AI T ooling : A WS (basic), Docker, Streamlit, Playwright, Claude Code for debugging and code review |
+Languages: English (fluent), Mandarin (native)

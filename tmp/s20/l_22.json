@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4474758870",
+      "title": "Machine Learning Engineer (Junior)",
+      "company": "SFA (Oxford)",
+      "companyUrl": "https://uk.linkedin.com/company/sfa-oxford-ltd",
+      "location": "England, United Kingdom",
+      "date": "2026-10-02",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-junior-at-sfa-oxford-4474758870"
+    },
+    {
+      "id": "4471925538",
+      "title": "Research Engineer - Digital & Simulation",
+      "company": "GKN Aerospace",
+      "companyUrl": "https://uk.linkedin.com/company/gkn-aerospace",
+      "location": "Bristol, England, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/research-engineer-digital-simulation-at-gkn-aerospace-4471925538"
+    },
+    {
+      "id": "4472334102",
+      "title": "AI Engineer",
+      "company": "Medpace",
+      "companyUrl": "https://www.linkedin.com/company/medpace",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-at-medpace-4472334102"
+    },
+    {
+      "id": "4470334297",
+      "title": "AI Engineering",
+      "company": "Fortray Global Service Limited",
+      "companyUrl": "https://uk.linkedin.com/company/fortray-global-services",
+      "location": "England, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineering-at-fortray-global-service-limited-4470334297"
+    },
+    {
+      "id": "4470887157",
+      "title": "Junior AI Engineer / Forward Deployed Engineer",
+      "company": "Verian Group",
+      "companyUrl": "https://uk.linkedin.com/company/veriangroup",
+      "location": "United Kingdom",
+      "date": "2026-09-28",
+      "url": "https://uk.linkedin.com/jobs/view/junior-ai-engineer-forward-deployed-engineer-at-verian-group-4470887157"
+    },
+    {
+      "id": "4470798717",
+      "title": "Computer Vision & AI Engineer",
+      "company": "KONGSBERG",
+      "companyUrl": "https://no.linkedin.com/company/kongsberg",
+      "location": "Moss, England, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/computer-vision-ai-engineer-at-kongsberg-4470798717"
+    },
+    {
+      "id": "4449868298",
+      "title": "Graduate R&D Software Engineer",
+      "company": "Quell",
+      "companyUrl": "https://www.linkedin.com/company/quell-scot",
+      "location": "Cambridge, England, United Kingdom",
+      "date": "2026-10-04",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-r-d-software-engineer-at-quell-4449868298"
+    },
+    {
+      "id": "4473608998",
+      "title": "Graduate AI Engineer Consultant",
+      "company": "Reply",
+      "companyUrl": "https://it.linkedin.com/company/reply",
+      "location": "Manchester Area, United Kingdom",
+      "date": "2026-10-05",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-ai-engineer-consultant-at-reply-4473608998"
+    },
+    {
+      "id": "4475522807",
+      "title": "2027 AI Engineer Apprentice - AI and Data Science Graduate Level Apprenticeship",
+      "company": "Thales",
+      "companyUrl": "https://fr.linkedin.com/company/thales",
+      "location": "Glasgow, Scotland, United Kingdom",
+      "date": "2026-10-05",
+      "url": "https://uk.linkedin.com/jobs/view/2027-ai-engineer-apprentice-ai-and-data-science-graduate-level-apprenticeship-at-thales-4475522807"
+    },
+    {
+      "id": "4471129181",
+      "title": "2027 Graduate Talent Program - Artificial Intelligence Engineer",
+      "company": "UBS",
+      "companyUrl": "https://ch.linkedin.com/company/ubs",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/2027-graduate-talent-program-artificial-intelligence-engineer-at-ubs-4471129181"
+    }
+  ]
+}

@@ -4,6 +4,21 @@ framework_version: 1.4.3
 
 # CV Templates and Tailoring Guide
 
+<!-- BEGIN ACTIVE-TEMPLATE (managed by /add-template - do not edit by hand) -->
+> **Active template override: `jake-onepage`**
+>
+> A custom template is active. Where this block conflicts with the stock guidance below, this block wins. Structural advice below (tailoring, page-budget, cutting rules) still applies.
+>
+> - **Template skeleton:** `templates/cv/jake-onepage/template.tex` — use this as the structural reference instead of the stock template
+> - **Manifest:** `templates/cv/jake-onepage/TEMPLATE.md` — read this for style rules and known pitfalls before drafting
+> - **Source extension:** `.tex`
+> - **Compile command:** `cd cv && tectonic --chatter minimal <file>.tex` (not the command named in the stock guidance below — `/apply`'s compile step must use this instead)
+> - **Fonts:** Computer Modern (system, shipped with TeX)
+> - **Page limit:** exactly 1 page(s)
+> - **Output file:** `cv/main_<company>_<role>.tex`; no class or font files need copying (standard TeX packages only)
+<!-- END ACTIVE-TEMPLATE -->
+
+
 <!-- SETUP: Profile statements and section ordering are personalized by running /setup -->
 
 ## Template: LaTeX moderncv (Banking Style)
@@ -52,7 +67,7 @@ Expected output: `Output written on main_<company>_<role>.pdf (2 pages, ...)`. A
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Zhuoyan Sun - CV},
     % Keep pdfpagemode=UseNone: this block runs after moderncv's own
     % \AtEndPreamble (moderncv.cls sets pdfpagemode there), so a FullScreen
     % value here would win and open every CV in fullscreen presentation mode.
@@ -62,13 +77,13 @@ Expected output: `Output written on main_<company>_<role>.pdf (2 pages, ...)`. A
 \usepackage{import}
 
 % Personal data
-\name{[FIRST_NAME]}{[LAST_NAME]}
+\name{Zhuoyan}{Sun}
 % If you have no address to list, DELETE this whole line. \address{}{}{} fails
 % with "There's no line here to end" on every moderncv version.
-\address{[YOUR_ADDRESS]}{}{}
-\phone[mobile]{[YOUR_PHONE]}
-\email{[YOUR_EMAIL]}
-\extrainfo{\href{[YOUR_LINKEDIN_URL]}{LinkedIn}, \href{[YOUR_GITHUB_URL]}{GitHub}}
+\address{London, UK}{}{}
+\phone[mobile]{+44 7422 426924}
+\email{zhuoyansun41@gmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/zhuoyan-jennifer-sun-8b6558297}{LinkedIn}, \href{https://github.com/jennifersun09b}{GitHub}, \href{https://jennifersun09b.github.io/portfolio/}{Portfolio}}
 
 \begin{document}
 \makecvtitle
@@ -130,11 +145,14 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Data Scientist / product analytics roles:**
+> MSc Health Data Science candidate (UCL, expected Sep 2026) who designs rigorous analyses under real constraints: repeated-measures and permutation tests on Apple's audience data, blinded A/B evaluation of LLM systems, causal forests on 71,000 UK Biobank participants. Currently analysing merchant growth at TikTok Shop UK. Comfortable owning a problem from raw export to stakeholder recommendation in Python and SQL.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Applied AI Engineer / Forward Deployed Engineer roles:**
+> Applied AI engineer with a client-facing track record: turned a pharmaceutical client's open brief into a 246-question benchmark, an LLM-as-judge safety rubric and a 123-entity knowledge graph, shipped the Python pipelines and automation behind them, and presented results to stakeholders. UCL MSc Health Data Science (expected Sep 2026); Python, LLM APIs, RAG, Playwright, Docker; fluent English and Mandarin.
+
+**For Health Data Scientist / clinical AI roles:**
+> Health data scientist (UCL MSc, Imperial BSc) with end-to-end experience on UK Biobank: baseline CVD risk models in 458,840 participants, doubly robust causal forests for lifestyle change in 71,428, sensitivity analyses for confounding and timing, external validation, and an interactive risk tool. Also built clinical NLP pipelines on radiology reports and a medically reviewed knowledge graph for patient-facing AI.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 

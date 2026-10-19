@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_granola_ai_engineer",
+ "label":"Granola AI Engineer",
+ "paras":[
+"I am writing to apply for the AI Engineer position at Granola in London. I am completing an MSc in Health Data Science at University College London, after a BSc at Imperial College London, and I currently work as a data analyst at TikTok Shop UK. Over the past year I have shipped multi-provider LLM systems, built the evaluation frameworks that told us whether they were any good, and worked directly with the people who had to rely on the output. The first two responsibilities in your posting are the two things I have spent this year doing.",
+
+"What attracts me most to Granola is that the product's whole premise is a quality bar. A notepad that captures audio without a bot in the call and hands someone organised notes and action items afterwards only works if the output is right the first time, because nobody re-reads a transcript to check. There is no graceful degradation: a subtly wrong action item is worse than none. That is a demanding evaluation problem disguised as a simple product, and evaluation is the part I am best at.",
+
+"In my previous role at DS Digital Technology, a pharmaceutical client needed to know whether an AI system could be trusted to answer patients' questions and had no way to judge it. I designed a 246-question benchmark and a six-dimension rubric with red-line rules, then built a Python pipeline across six model APIs with retrieval and search augmentation, handling concurrency, retries, structured validation, checkpointing and resumable runs so it would actually finish. It produced and scored more than 2,400 responses through an LLM-as-judge framework, with human review on a sample to check whether the judge itself could be trusted, because an unvalidated judge just moves the problem. The client adopted the rubric as their acceptance standard. I also built a large-context retrieval setup around a knowledge graph of 123 entities and 161 relations and A/B tested whether grounding genuinely improved answers rather than assuming it would. It did not always.",
+
+"I find out what makes these models tick by breaking them. My UCL project fine-tuned ClinicalBERT-style models on radiology text and built an evaluation framework specifically to surface the failure modes of vision-language models by benchmarking them against text-derived signals. On my own time I built Jobwinner, a seven-agent system that returns investor and job-seeker scorecards from one cited evidence base, using a disambiguation agent, five parallel specialists on domain-filtered evidence and two synthesizers, on Gemini Flash and Pro with a FastAPI backend and ClickHouse. Restricting each agent's context turned out to be the single most effective control on hallucination, which I would not have predicted. github.com/jennifersun09b/Jobwinner",
+
+"At TikTok Shop UK I build AI agents that automate recurring analytical and reporting workflows, used daily by operations teams. Shipping to people who notice immediately when something is wrong has made me careful about the distance between a demo and a dependency. I also sit with those teams to work out what they actually need before building anything.",
+
+"I should be straightforward about the gap. I build in Python, not TypeScript, React or Node, so I could not today ship a full-stack feature in your stack, and I would be learning that from a standing start. What I would not be learning is how to design an evaluation framework that catches drift before users do, how to make a multi-provider LLM pipeline run reliably at scale, or how to tell whether a retrieval change actually helped. You say you are interested in people whether or not they look like a fit on paper, so I am taking you at your word.",
+
+"Thank you for considering my application. I am London-based and happy to work from Old Street five days a week. I hold the right to work in the UK without sponsorship until January 2029.",
+ ],
+}

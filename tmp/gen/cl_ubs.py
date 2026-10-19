@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_ubs_graduate_ai_engineer_2027",
+ "label":"UBS 2027 Graduate Talent Program - AI Engineer",
+ "paras":[
+"I am writing to apply for the 2027 Graduate Talent Program as an Artificial Intelligence Engineer at UBS. I am completing an MSc in Health Data Science at University College London, after graduating from Imperial College London, and I currently work as a data analyst at TikTok Shop UK. Across my academic and professional experience, I have built AI agents that run unattended, shipped a retrieval-augmented pipeline across six large language model APIs for a client, and designed the evaluation framework that decided whether its output could be trusted. I am particularly interested in this programme because it describes the work I have already started doing.",
+
+"What attracts me most to UBS is that the programme is explicitly about designing AI agents that automate and augment real business processes, and about translating business challenges into scalable AI solutions rather than building demonstrations. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved. Working on that inside a bank, where an automated process has to be reliable and explainable before anyone will let it near a real workflow, is the constraint that makes the problem interesting.",
+
+"In my previous role at DS Digital Technology, a pharmaceutical client wanted a patient-facing AI agent but had no specification for what it should do or how anyone would know it was working. I built the Python system behind it across six model APIs with retrieval-augmented generation, implementing concurrency, retries, structured validation and checkpointing so that long runs completed reliably. I co-built the knowledge graph it retrieves against, 123 entities and 161 relations, medically reviewed. I designed the evaluation framework the client adopted as their own acceptance standard: a 246-question benchmark and a six-dimension rubric with red-line rules, scored under an LLM-as-judge design with human review validating the judge, because an unvalidated judge only moves the problem. I also ran blinded paired A/B tests of whether grounding genuinely improved answers rather than assuming it would. It did not always, and I reported that as clearly as the parts that worked.",
+
+"In my current role at TikTok Shop UK, I design and build AI agents that automate recurring analytical and reporting workflows. The useful part has been identifying which processes are worth automating before building anything, and measuring the time actually saved afterwards. I use Claude Code and prompt engineering in my day-to-day development and treat generated output as a draft to be reviewed. I also query and model large merchant and transaction datasets in SQL and Python and present findings, and their limitations, to product and commercial stakeholders.",
+
+"My MSc has given me the statistical grounding underneath that. My dissertation compared logistic regression against three tree ensembles to predict cardiovascular events across 458,840 participants, where calibration rather than headline accuracy was the result that mattered, and used doubly robust causal forests to separate effect from correlation. I also led a UCL team fine-tuning PubMedBERT-style transformer models to extract structured information from radiology reports, under a single evaluation framework applied across every model variant.",
+
+"My earlier experience as a Strategy Analyst Intern at Ipsos Strategy3 prepared me to work with stakeholders in a commercial setting. I built market-sizing and forecasting models identifying approximately \\$20M in revenue potential and presented the assumptions behind them alongside the results, so that clients could challenge the reasoning rather than simply accept a number.",
+
+"I would bring UBS hands-on experience with LLM APIs, RAG, embeddings and agentic workflows, a habit of evaluating AI output rather than trusting it, and comfort explaining technical work to non-technical audiences. I hold the right to work in the UK without sponsorship until January 2029 and I am based in London.",
+
+"Thank you for considering my application. I would welcome the opportunity to discuss how my experience aligns with the Artificial Intelligence Engineer track of the 2027 Graduate Talent Program.",
+ ],
+}

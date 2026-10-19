@@ -1,0 +1,50 @@
+Zhuoyan Sun
++44(0)7422426924 | zhuoyansun41@gmail.com | Linkedin | GitHub | Portfolio
+Education
+University College London Sep 2025 - Present
+MSc Health Data Science (Distinction Expected) London | UK
+• Core Modules: Data Science and Statistics, Artificial Intelligence in Healthcare, Advanced Machine Learning for
+Healthcare, Advanced Data Science and Statistics
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second Class Honor) London | UK
+• Core Modules: Mathematics, Bioinformatics, Programming and Statistics, Computational Omics, Integrative
+System Biology
+Work Experience
+Data Analyst Intern Sep 2026 - Present
+TikTok UK London | UK
+• Analyse large, complex datasets in Python and SQL, applying statistical modelling and regression to explain
+drivers of performance and test hypotheses
+• Built an AI agent using Claude Code that automates repetitive steps of the analytics workflow, adopted by the
+wider team and partner teams to improve efficiency across teams
+• Communicate findings and methodology to internal and external stakeholders from non-technical backgrounds, so
+that analytical decisions are reproducible and traceable
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou | CN
+• Designed a 246-question benchmark and 6-dimension safety rubric with clinical subject-matter experts, adopted as
+a pharmaceutical client’s acceptance standard for patient-facing AI answers
+• Developed a Python pipeline calling 6 LLM APIs with retrieval and search augmentation, producing and scoring
+2,400+ responses with an LLM-as-judge framework
+• Co-built a medically reviewed knowledge graph and ran blinded A/B tests of its effect on answer quality, mining
+4,800+ patient consultation threads with a regex and LLM extraction pipeline
+Data Analyst Intern May 2025 - Aug 2025
+Ipsos Strategy3 Beijing | CN
+• Structured and analysed data from 80+ healthcare expert interviews to identify clinical and market patterns
+• Built market-sizing and forecasting models across emerging health-product segments
+• Translated analytical findings into visualisations and evidence-based recommendations for client stakeholders
+Project Experience
+Causal ML Model for Cardiovascular Risk Simulation Dec 2025 - Sep 2026
+University College London London | UK
+• Built an end-to-end machine learning pipeline on longitudinal biobank data, engineering multi-timepoint features
+to predict cardiovascular risk
+• Developed and validated predictive and causal models that estimate individual-level counterfactual risk under
+lifestyle interventions
+• Deployed a Streamlit simulation app that translates model outputs into actionable, user-facing insights for
+preventive healthcare
+Skills
+Programming: Python, R, SQL, Git and GitHub, Linux shell
+Statistics and Causal Inference : regression and statistical modelling, hypothesis testing, experimental design, causal
+inference (causal forests, doubly robust estimation, overlap weighting), sensitivity analysis (E-values), model calibration
+Genomics and Biomedical Data : multi-omics analysis, spatial transcriptomics, bioinformatics pipelines,
+Seurat/Scanpy/DESeq2, UK Biobank cohort data, clinical NLP (ClinicalBERT/PubMedBERT)
+Data and T ools : pandas, NumPy, SciPy, scikit-learn, XGBoost, PyTorch, Docker, Streamlit, AWS, Claude Code
+Languages: English (fluent), Mandarin (native)

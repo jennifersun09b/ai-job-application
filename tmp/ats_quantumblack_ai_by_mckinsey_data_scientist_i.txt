@@ -1,0 +1,49 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: applied statistics, experimental design, causal inference, machine learning and data mining in Python
+and R.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Analyse merchant growth data in SQL and Python to identify performance drivers across the UK marketplace.
+• Build KPI frameworks and dashboards used by e-commerce teams to set targets and track strategy initiatives.
+• Translate open-ended commercial questions into analytical problems and explain results to operations, product and
+commercial teams.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Built a Python pipeline across 6 LLM APIs that scored 2,400+ patient-facing answers on a 246-question benchmark.
+• Designed blinded paired A/B tests of a medically reviewed knowledge graph, plus a 6-dimension safety rubric adopted
+as the acceptance standard.
+• Presented findings to BeiGene and Apple x Tmall stakeholders, turning statistical results into per-segment playbooks.
+Associate Strategy Analyst May 2025 - Aug 2025
+Ipsos Strategy3 Beijing, China
+• Built market-sizing and forecasting models estimating $20M revenue potential across emerging health-product
+segments.
+• Designed a coding framework turning 100+ expert interviews into quantitative variables for client analysis.
+• Delivered executive dashboards framing ambiguous client questions as analyses a non-technical audience could act on.
+Project Experience
+Cardiovascular Risk Prediction and Causal ML Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression with three tree ensembles on 458,840 UK Biobank participants, reaching AUC 0.714 to
+0.718.
+• Estimated 24 lifestyle transitions with doubly robust causal forests on 71,428 participants, with E-value and NHEFS
+validation checks.
+• Delivered results in an interactive Streamlit tool for exploring lifestyle-change risk scenarios.
+Clinical NLP and LLM Evaluation Jan 2026 - Jul 2026
+University College London London, UK
+• Led a team building a Hugging Face pipeline that parsed radiology reports into structured features.
+• Fine-tuned PubMedBERT-style models that beat TF-IDF and kNN baselines in a reproducible evaluation framework.
+• Surfaced vision-language model failure modes by comparing outputs against text-derived signals and patient data.
+Skills
+Programming: Python, SQL, R, JavaScript, Linux shell
+Machine Learning and Data Mining : scikit-learn, XGBoost, LightGBM, random forests, PyTorch, Hugging Face, RAG
+and knowledge graphs, GenAI evaluation (LLM-as-judge, benchmark design), Claude Code
+Statistics and Modelling : hypothesis testing, A/B and permutation tests, causal inference, forecasting, market sizing,
+calibration
+Data and T ools : pandas, NumPy, SciPy, PyData stack, Git, Docker, Streamlit, A WS (basic), Power BI, Excel |
+Languages: English (fluent), Mandarin (native)

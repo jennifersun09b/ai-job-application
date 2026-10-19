@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "count": 0,
+    "page": 1,
+    "tracker": "uk-tech",
+    "region": "UK",
+    "industry": "Tech",
+    "season": "2027",
+    "type": "graduate-programmes",
+    "source": "cache",
+    "fetchedAt": "2026-10-05T08:48:41.616Z",
+    "ratelimit": {
+      "remaining": 9,
+      "limit": 10,
+      "resetSeconds": 5
+    },
+    "url": "https://api.the-trackr.com/programmes?region=UK&industry=Tech&season=2027&type=graduate-programmes"
+  },
+  "results": []
+}

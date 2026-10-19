@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_accenture_ai_data_graduate",
+ "label":"Accenture London AI & Data Graduate Programme",
+ "paras":[
+ r"I am writing to apply for the London AI and Data Graduate Programme, 2027 intake. I am completing an MSc in Health Data Science at University College London, where a distinction is expected, after a BSc in Biological Sciences at Imperial College London, and I currently work as a Data Analyst Intern at TikTok Shop UK. Across my academic and professional experience I have built AI systems, measured whether they actually worked, and explained the results to people who had to act on them. I am particularly interested in this role because the programme is built around designing data products, AI solutions and agentic workflows for clients, which is the work I have been doing for the last two years.",
+
+ r"What attracts me most to Accenture is the combination of scale and variety: working across industries on client problems rather than inside a single company, and doing it in teams that pair data people with the people who own the business process. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved. The emphasis in the programme on responsible AI also matters to me, because the most useful work I have done was deciding what an AI system should not be allowed to say.",
+
+ r"At TikTok Shop UK I mine merchant and transaction data in SQL and Python to identify the growth and operations drivers behind the UK marketplace, and I build KPI frameworks and dashboards that operations, product and commercial teams use to set targets. I also built an AI agent using Claude Code that automates repetitive steps of the analytics workflow, and it has been adopted by my own team and by partner teams. The difficult part was not the model. It was understanding the existing process, deciding which steps the agent should own and which still needed a person, and then supporting colleagues as they changed how they worked.",
+
+ r"My closest match to this programme is DS Digital Technology, where I worked as a Data Scientist Intern on a generative AI engagement for a pharmaceutical client. I built a Python application calling six LLM APIs with retrieval and multi-step agentic workflows, producing and scoring more than 2,400 responses, and I designed a 246-question benchmark and a six-dimension safety rubric with red-line rules which the client adopted as their acceptance standard for patient-facing answers. I then ran blinded paired A/B tests on a medically reviewed knowledge graph and presented the findings to client stakeholders, including where the technology was not yet ready to deploy. That engagement is the clearest example I have of responsible AI being a practical constraint rather than a principle.",
+
+ r"On the analytics side, my MSc dissertation applies predictive and causal machine learning to 458,840 UK Biobank participants, with sensitivity analyses for unmeasured confounding and external validation on a second cohort, and it is delivered as a deployed application so that others can run scenarios without touching the code. I also led a group project building a clinical NLP pipeline with fine-tuned transformer models, and I keep building in my own time, most recently a multi-agent assistant that reasons over job postings with live web search grounding its recommendations.",
+
+ r"At Ipsos Strategy3 I worked on healthcare and consumer engagements, structuring data from 80 or more expert interviews into quantitative variables, building market-sizing and forecasting models, and presenting the analysis to client stakeholders through dashboards and recommendations. That is where I learned how a client project actually runs: a short timeline, an ambiguous brief, and an audience who wants the implication rather than the method.",
+
+ r"I would bring Accenture hands-on experience building and evaluating generative AI and agentic systems, strong Python and SQL, client-facing experience from two consulting engagements, and the habit of checking whether what I built actually worked before recommending it. I have the right to work in the UK until January 2029 without sponsorship. I am based in London.",
+
+ r"Thank you for considering my application. I would welcome the opportunity to discuss how my experience in AI, data and client delivery could contribute to Accenture's AI and Data practice.",
+ ]
+}

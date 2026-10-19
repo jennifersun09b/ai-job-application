@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4462042055",
+      "title": "2027 Graduate Analyst",
+      "company": "Zopa Bank",
+      "companyUrl": "https://uk.linkedin.com/company/zopabank",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-01",
+      "url": "https://uk.linkedin.com/jobs/view/2027-graduate-analyst-at-zopa-bank-4462042055"
+    },
+    {
+      "id": "4464356532",
+      "title": "IT Graduate",
+      "company": "RES",
+      "companyUrl": "https://uk.linkedin.com/company/res-group",
+      "location": "Kings Langley, England, United Kingdom",
+      "date": "2026-09-07",
+      "url": "https://uk.linkedin.com/jobs/view/it-graduate-at-res-4464356532"
+    },
+    {
+      "id": "4461397403",
+      "title": "Junior Data Scientist",
+      "company": "The Pensions Regulator",
+      "companyUrl": "https://uk.linkedin.com/company/the-pensions-regulator",
+      "location": "Brighton, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-scientist-at-the-pensions-regulator-4461397403"
+    },
+    {
+      "id": "4462151561",
+      "title": "Digital Analyst",
+      "company": "Virgin Atlantic",
+      "companyUrl": "https://uk.linkedin.com/company/virgin-atlantic-airways",
+      "location": "Crawley, England, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/digital-analyst-at-virgin-atlantic-4462151561"
+    },
+    {
+      "id": "4461763593",
+      "title": "2027 Data & AI - Full Time Analyst - London, Glasgow",
+      "company": "JPMorganChase",
+      "companyUrl": "https://www.linkedin.com/company/jpmorganchase",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-01",
+      "url": "https://uk.linkedin.com/jobs/view/2027-data-ai-full-time-analyst-london-glasgow-at-jpmorganchase-4461763593"
+    },
+    {
+      "id": "4461656140",
+      "title": "Graduate data scientist",
+      "company": "Bending Spoons",
+      "companyUrl": "https://it.linkedin.com/company/bendingspoons",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4461656140"
+    },
+    {
+      "id": "4461659003",
+      "title": "Graduate data scientist",
+      "company": "Bending Spoons",
+      "companyUrl": "https://it.linkedin.com/company/bendingspoons",
+      "location": "Cambridge, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4461659003"
+    },
+    {
+      "id": "4462355407",
+      "title": "Data Analyst - Safety, Health and Environment",
+      "company": "Unilever",
+      "companyUrl": "https://uk.linkedin.com/company/unilever",
+      "location": "Leeds, England, United Kingdom",
+      "date": "2026-09-05",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-safety-health-and-environment-at-unilever-4462355407"
+    },
+    {
+      "id": "4460676515",
+      "title": "Digital Analyst",
+      "company": "SussexDigital",
+      "companyUrl": "https://uk.linkedin.com/company/sussex-digital",
+      "location": "Crawley, England, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/digital-analyst-at-sussexdigital-4460676515"
+    },
+    {
+      "id": "4417432842",
+      "title": "Data Scientist (London)",
+      "company": "The Voleon Group",
+      "companyUrl": "https://www.linkedin.com/company/voleon-capital-management",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-06",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-london-at-the-voleon-group-4417432842"
+    }
+  ]
+}

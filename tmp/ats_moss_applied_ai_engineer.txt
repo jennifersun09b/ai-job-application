@@ -1,0 +1,49 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: machine learning, artificial intelligence in healthcare, statistics, experimental design, causal inference.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+• Core areas: mathematics, programming, statistics, bioinformatics and computational biology.
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Analyse merchant growth and operations data in SQL and Python to identify performance drivers across the UK
+marketplace.
+• Build KPI frameworks and dashboards used by e-commerce operations teams to set targets and track growth
+initiatives.
+• Present findings to operations, product and commercial stakeholders, translating analysis into decisions they act on.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Built an end-to-end Python pipeline calling 6 LLM APIs with retrieval and search augmentation, generating and
+scoring 2,400+ patient-facing answers.
+• Designed the acceptance evaluation for that feature, a 246-question test dataset, a six-dimension rubric with red-line
+rules and blinded paired A/B tests.
+• Extracted structured fields from 4,800+ consultation threads using a regex and LLM pipeline, and co-built a 123-entity
+knowledge graph for grounding.
+Project Experience
+Clinical NLP and LLM Document Extraction Jan 2026 - Jul 2026
+University College London London, UK
+• Led a student team building a Hugging Face Transformers pipeline that parsed free-text reports into structured,
+machine-readable fields.
+• Fine-tuned PubMedBERT-style models that beat TF-IDF and kNN baselines, measured inside a reproducible
+evaluation framework with a held-out test split.
+• Surfaced vision-language failure modes by comparing model output against text-derived signals, feeding a human
+review loop.
+Predictive and Causal ML for Risk Simulation Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression against three tree ensembles on 458,840 records, reaching AUC 0.714 to 0.718 with
+near-perfect calibration.
+• Estimated lifestyle-change effects with doubly robust causal forests on 71,428 records and tested overlap, timing and
+unmeasured confounding.
+• Shipped an interactive Streamlit tool so non-technical users could explore results, and reported null findings honestly.
+Skills
+Backend and Data Systems : Python, SQL, R, JavaScript, REST API integration, Git, Docker, Linux shell, A WS (basic)
+AI Application Architecture : LLM APIs (Anthropic, OpenAI-compatible), prompt and context engineering, RAG,
+embeddings and retrieval, knowledge graphs, Hugging Face Transformers, PyTorch, Claude Code
+AI Evaluation : benchmark and test-dataset design, LLM-as-judge rubrics, blinded A/B testing, human review loops,
+hypothesis testing, causal inference
+Data and T ools : pandas, NumPy, SciPy, scikit-learn, Streamlit, Playwright, Power BI, Excel | Languages: English
+(fluent), Mandarin (native)

@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_artificiallabs_forward_deployed_engineer",
+ "label":"Artificial Labs Forward Deployed Engineer",
+ "paras":[
+"I am writing to apply for the Forward Deployed Engineer position at Artificial. I am currently completing an MSc in Health Data Science at University College London, after graduating from Imperial College London, and I work as a data analyst at TikTok Shop UK. Across my academic and professional experience, I have taken unclear client requirements and turned them into working technical solutions in Python, and then explained those solutions to the people paying for them. I am particularly interested in this role because it sits between engineering and the client rather than behind a ticket queue.",
+
+"What attracts me most to Artificial is that the role is explicitly about translating a client's business requirements into something that actually runs, using your own domain-specific language, and owning the pilot projects that decide whether a partnership goes ahead. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved. I also noted that you are recruiting across a range of levels and welcome engineers of all experience levels, which is why I am applying: I am early in my career, and the parts of this role I can already evidence are the client-facing translation work and the engineering underneath it.",
+
+"The closest precedent in my work is my previous role at DS Digital Technology. A pharmaceutical client wanted a patient-facing medical agent but had no clear specification for what it should do or how anyone would know it was working. I turned that into a delivered solution: I co-built the knowledge base it runs on, a medically reviewed knowledge graph of 123 entities and 161 relations, and built the Python system underneath it across six model APIs with retrieval augmentation, concurrency, retries, structured validation and checkpointing so it held up outside a demo. I also defined the acceptance criteria, a 246-question benchmark and six-dimension rubric which the client adopted as their own standard, and designed blinded paired A/B tests to check whether grounding genuinely improved the output rather than assuming it did. I presented the findings, including where the results did not support what had been hoped for, directly to client stakeholders.",
+
+"In my current role at TikTok Shop UK, I work with operations, product and commercial teams to understand what they actually need before building anything, then query and model large merchant and transaction datasets in SQL and Python and present the results back to them. I build AI agents that automate recurring analytical and reporting workflows, using Claude Code as part of my day-to-day development. A lot of that work is the unglamorous half of a forward deployed role: agreeing definitions between teams, documenting assumptions, and being willing to say when a number does not support the conclusion someone wants.",
+
+"My earlier experience as a Strategy Analyst Intern at Ipsos Strategy3 was client-facing from the start. I gathered requirements on healthcare engagements, built market-sizing and forecasting models identifying approximately \\$20M in revenue potential, structured evidence from more than 80 expert interviews into comparable variables, and presented the assumptions behind the analysis alongside the results so clients could challenge the reasoning rather than simply accept a figure.",
+
+"I should be straightforward that I have no insurance or insurtech background, and Brossa would be new to me. Learning an unfamiliar platform quickly is the thing I have had most practice at, having moved from biology to consumer-technology analytics to health data science in three years, and at DS Digital Technology I had to become productive inside client data platforms I had never seen before in order to deliver on a deadline.",
+
+"I would bring Artificial a solid programming foundation, genuine experience turning vague requirements into delivered solutions, and comfort explaining technical work to non-technical stakeholders. I hold the right to work in the UK without sponsorship until January 2029, I am based in London, and I am happy with two to three days a week in the City or at client sites.",
+
+"Thank you for considering my application. I would welcome the opportunity to discuss how my experience aligns with the Forward Deployed Engineer role.",
+ ],
+}

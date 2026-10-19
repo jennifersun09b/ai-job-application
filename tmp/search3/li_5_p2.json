@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4466676104",
+      "title": "AI Engineer",
+      "company": "develop",
+      "companyUrl": "https://uk.linkedin.com/company/developrec",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-18",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-at-develop-4466676104"
+    },
+    {
+      "id": "4278525494",
+      "title": "Machine Learning Engineer",
+      "company": "Prima",
+      "companyUrl": "https://it.linkedin.com/company/prima-assicurazioni",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-18",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-prima-4278525494"
+    },
+    {
+      "id": "4467844787",
+      "title": "Senior AI Engineer",
+      "company": "9fin",
+      "companyUrl": "https://uk.linkedin.com/company/9fin",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-18",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ai-engineer-at-9fin-4467844787"
+    },
+    {
+      "id": "4455291253",
+      "title": "Senior AI Engineer",
+      "company": "Haystack",
+      "companyUrl": "https://uk.linkedin.com/company/wearehaystack",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ai-engineer-at-haystack-4455291253"
+    },
+    {
+      "id": "4468572068",
+      "title": "Senior AI Engineer - Enterprise Organisation : £80k : London",
+      "company": "Hunter Bond",
+      "companyUrl": "https://uk.linkedin.com/company/hunter-bond",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ai-engineer-enterprise-organisation-%C2%A380k-london-at-hunter-bond-4468572068"
+    },
+    {
+      "id": "4466695839",
+      "title": "Senior AI Engineer",
+      "company": "James Adams",
+      "companyUrl": "https://uk.linkedin.com/company/james-adams",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ai-engineer-at-james-adams-4466695839"
+    },
+    {
+      "id": "4469187096",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Deliveroo",
+      "companyUrl": "https://uk.linkedin.com/company/deliveroo",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-18",
+      "url": "https://uk.linkedin.com/jobs/view/senior-machine-learning-engineer-at-deliveroo-4469187096"
+    },
+    {
+      "id": "4452571341",
+      "title": "Staff AI Engineer - London - Up to £200k",
+      "company": "Oliver Bernard",
+      "companyUrl": "https://uk.linkedin.com/company/oliverbernard",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-17",
+      "url": "https://uk.linkedin.com/jobs/view/staff-ai-engineer-london-up-to-%C2%A3200k-at-oliver-bernard-4452571341"
+    },
+    {
+      "id": "4458356829",
+      "title": "ML Engineer (£100k-£180k + Equity) at Artificial Societies Ltd",
+      "company": "Jack & Jill",
+      "companyUrl": "https://www.linkedin.com/company/jackandjillai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-17",
+      "url": "https://uk.linkedin.com/jobs/view/ml-engineer-%C2%A3100k-%C2%A3180k-%2B-equity-at-artificial-societies-ltd-at-jack-jill-4458356829"
+    },
+    {
+      "id": "4468403205",
+      "title": "Senior Machine Learning Engineer",
+      "company": "G10X",
+      "companyUrl": "https://www.linkedin.com/company/g10xtech",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-19",
+      "url": "https://uk.linkedin.com/jobs/view/senior-machine-learning-engineer-at-g10x-4468403205"
+    }
+  ]
+}

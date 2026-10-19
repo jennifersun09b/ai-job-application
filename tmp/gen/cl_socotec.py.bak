@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_socotec_associate_software_developer",
+ "label":"SOCOTEC Associate Software Developer",
+ "paras":[
+ r"I am writing to apply for the Associate Software Developer (AI Focused) position in Central Services at SOCOTEC UK. I am completing an MSc in Health Data Science at University College London, where a distinction is expected, after a BSc in Biological Sciences at Imperial College London, and I currently work as a Data Analyst Intern at TikTok Shop UK. I am applying because the role describes what I already do: integrating large language models into working applications and building custom agents that people inside a business actually use.",
+
+ r"What attracts me most to SOCOTEC is that the users are colleagues rather than an anonymous market. The posting talks about meeting teams to understand their processes and pain points, carrying out gap analysis and then supporting rollout and adoption, and that cycle is the part of this work I find most satisfying. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved. A small team working on bespoke in-house tools is where I would expect to do my best work.",
+
+ r"At TikTok Shop UK I built an AI agent that automates repetitive steps of the analytics workflow, which has been adopted by my own team and by partner teams. Building it was not mainly a modelling problem. It meant sitting with the people who ran the process, working out which steps an agent should own and which needed a person, and then supporting colleagues as they began to rely on it. I use Claude Code in my development work and review the code it produces rather than accepting it unchecked.",
+
+ r"Before TikTok I worked as a Data Scientist Intern at DS Digital Technology, where I designed and built LLM-based agents in Python: an application calling six LLM APIs with retrieval, tool use and multi-step workflows that processed and scored over 2,400 records. I built the evaluation layer around it, a 246-question benchmark and a six-dimension rubric that the client adopted as its acceptance standard, and I ran blinded A/B tests on a retrieval knowledge graph to confirm it improved the output before recommending it. I also worked directly with subject-matter experts to identify where the existing process fell short and what would close the gap.",
+
+ r"On the software side, my Python is object-oriented and I am comfortable with REST API development and integration, databases, Git and Docker. My MSc dissertation is delivered as a deployed Streamlit application that other people use without touching the code, and at Westlake University I refactored and parallelised an analysis pipeline in Python and R, cutting processing time by around 60 per cent and adding version-controlled scripts so the work could be reproduced and supported by others.",
+
+ r"I should be clear about one gap. My web development has been in Python and Streamlit rather than React or Angular, so a JavaScript front-end framework would be new to me. I have written JavaScript, I pick up frameworks quickly, and the LLM integration and agent-building side of the role is already familiar ground, but I would be learning the front-end framework from the start rather than arriving with it.",
+
+ r"I have the right to work in the UK until January 2029 without sponsorship. I am currently based in London and am willing to relocate to Burton-on-Trent for the role.",
+
+ r"Thank you for considering my application. I would welcome the opportunity to discuss how my experience building and integrating LLM agents could support the IT team at Central Services.",
+ ]
+}

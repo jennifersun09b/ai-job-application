@@ -4,6 +4,21 @@ framework_version: 1.0.2
 
 # Cover Letter Templates and Tailoring Guide
 
+<!-- BEGIN ACTIVE-TEMPLATE (managed by /add-template - do not edit by hand) -->
+> **Active template override: `jake-letter`**
+>
+> A custom template is active. Where this block conflicts with the stock guidance below, this block wins. Structural advice below (tailoring, page-budget, cutting rules) still applies.
+>
+> - **Template skeleton:** `templates/cover_letters/jake-letter/template.tex` — use this as the structural reference instead of the stock template
+> - **Manifest:** `templates/cover_letters/jake-letter/TEMPLATE.md` — read this for style rules and known pitfalls before drafting
+> - **Source extension:** `.tex`
+> - **Compile command:** `cd cover_letters && tectonic --chatter minimal <file>.tex` (not the command named in the stock guidance below — `/apply`'s compile step must use this instead)
+> - **Fonts:** Computer Modern (system, shipped with TeX)
+> - **Page limit:** exactly 1 page(s)
+> - **Output file:** `cover_letters/cover_<company>_<role>.tex`; no class or font files need copying (standard TeX packages only)
+<!-- END ACTIVE-TEMPLATE -->
+
+
 ## Template: Custom cover.cls (XeLaTeX)
 
 Cover letters use a custom LaTeX document class (`cover.cls`) with Lato/Raleway fonts.
@@ -76,7 +91,7 @@ The font wrapper is mandatory — if you just move `\begin{itemize}` outside `\l
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TITLE NAME
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{}{\Huge{[YOUR_NAME]}}{  \href{mailto:[YOUR_EMAIL]}{[YOUR_EMAIL]} | [YOUR_PHONE] |  \urlstyle{same}\href{[YOUR_LINKEDIN_URL]}{LinkedIn}
+\namesection{}{\Huge{Zhuoyan Sun}}{  \href{mailto:zhuoyansun41@gmail.com}{zhuoyansun41@gmail.com} | +44 7422 426924 |  \urlstyle{same}\href{https://www.linkedin.com/in/zhuoyan-jennifer-sun-8b6558297}{LinkedIn}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -108,7 +123,7 @@ The font wrapper is mandatory — if you just move `\begin{itemize}` outside `\l
 % doubled break triggers "! LaTeX Error: There's no line here to end."
 \closing{Kind regards,}
 
-\signature{[YOUR_NAME]}
+\signature{Zhuoyan Sun}
 \end{flushright}
 \end{document}
 ```
@@ -178,3 +193,15 @@ Escape these wherever they appear in body text:
 - Export as PDF to preserve formatting
 - Name files clearly: "[Your Name] CV" and "[Your Name] Cover Letter"
 - Follow all employer instructions regarding anonymity or specific materials
+
+## Patterns Observed in Past Applications
+
+<!-- Extracted by /setup 2026-09-08 from 13 cover letters in documents/applications (Pangaea Data, Bending Spoons, Quantium, BNP Paribas, Allianz, Telegraph, ABS, Sinch, Edinburgh, Oxford, Prova Health, Prostate Cancer UK, Apple). Phrasing references only; facts come from 01-candidate-profile.md. -->
+
+- **Opening formula (all 13):** "I am writing to apply for the [role] at [company]. I am currently completing an MSc in Health Data Science at University College London, expected September 2026, after graduating from Imperial College London with a BSc in Biological Sciences." followed by one sentence naming the two or three capabilities most relevant to the posting and one sentence on why the role appeals.
+- **Second paragraph = why this company (all 13):** starts "What attracts me most to [company] is..." and names a specific product, team or mission (PALLUX at Pangaea, acquire-and-operate model at Bending Spoons, Customer Analytics team at Allianz, the Centre at Edinburgh). Quantium letter references a real conversation with an employee met at UCL. Keep this; it is the user's natural structure.
+- **Body = two or three experience paragraphs**, each opening with the role or project ("In my current role at a digital technology company...", "For my dissertation project...", "In a separate Clinical NLP project at UCL...") and closing with a "This strengthened my ability to..." sentence. Prose, no bullets. The stock template's bullet block is optional for this user; prose paragraphs match her voice better.
+- **Closing (all 13):** one paragraph of "I would bring [company] X, Y and Z" plus a collaborative-approach sentence, then "Thank you for considering my application. I would welcome the opportunity to discuss..." and "Yours sincerely, Zhuoyan Sun". Never "Kind regards".
+- **Length:** 460-690 words, which is over the framework's 250-300 word budget for the stock template. When drafting, keep her structure but cut to about 350 words of body text so the letter fits one page in either template.
+- **Recurring self-description worth keeping:** "I enjoy taking an unclear clinical or business problem, identifying what users actually need, and turning it into a technical workflow that can be tested and improved."
+- **Tics to avoid repeating:** the same three projects appear in nearly identical wording in every letter; vary which project leads and tie it to the posting. Occasional duplicated sentence (Pangaea letter repeats the "comfortable working across..." clause). Watch UK spelling consistency (analysed vs analyzed).

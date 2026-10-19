@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4467701895",
+      "title": "Junior Roles - Data & AI",
+      "company": "Rewire",
+      "companyUrl": "https://nl.linkedin.com/company/rewirenow",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-15",
+      "url": "https://nl.linkedin.com/jobs/view/junior-roles-data-ai-at-rewire-4467701895"
+    },
+    {
+      "id": "4450738416",
+      "title": "Data Scientist",
+      "company": "Kramp",
+      "companyUrl": "https://nl.linkedin.com/company/kramp",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-09-20",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-at-kramp-4450738416"
+    },
+    {
+      "id": "4450747199",
+      "title": "Data Scientist",
+      "company": "Kramp",
+      "companyUrl": "https://nl.linkedin.com/company/kramp",
+      "location": "Varsseveld, Gelderland, Netherlands",
+      "date": "2026-09-20",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-at-kramp-4450747199"
+    },
+    {
+      "id": "4472043744",
+      "title": "Data Scientist",
+      "company": "HORAIZON",
+      "companyUrl": "https://nl.linkedin.com/company/horaizon-technology",
+      "location": "Delft, South Holland, Netherlands",
+      "date": "2026-09-25",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-at-horaizon-4472043744"
+    },
+    {
+      "id": "4454029563",
+      "title": "Young Professional Program Data & Analytics",
+      "company": "Emixa",
+      "companyUrl": "https://www.linkedin.com/company/emixa",
+      "location": "Naarden, North Holland, Netherlands",
+      "date": "2026-09-24",
+      "url": "https://nl.linkedin.com/jobs/view/young-professional-program-data-analytics-at-emixa-4454029563"
+    },
+    {
+      "id": "4472010587",
+      "title": "Data Analytics Consultant",
+      "company": "Sia",
+      "companyUrl": "https://fr.linkedin.com/company/sia-partners",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-25",
+      "url": "https://nl.linkedin.com/jobs/view/data-analytics-consultant-at-sia-4472010587"
+    },
+    {
+      "id": "4404311739",
+      "title": "Analytics - Future Leaders Graduate Program",
+      "company": "Picnic Technologies",
+      "companyUrl": "https://nl.linkedin.com/company/picnictechnologies",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-18",
+      "url": "https://nl.linkedin.com/jobs/view/analytics-future-leaders-graduate-program-at-picnic-technologies-4404311739"
+    },
+    {
+      "id": "4472723691",
+      "title": "Technical Analyst - Choice Modeling",
+      "company": "SKIM",
+      "companyUrl": "https://nl.linkedin.com/company/skim",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-09-28",
+      "url": "https://nl.linkedin.com/jobs/view/technical-analyst-choice-modeling-at-skim-4472723691"
+    },
+    {
+      "id": "4469135517",
+      "title": "Traineeship Data & AI",
+      "company": "Brightminds",
+      "companyUrl": "https://nl.linkedin.com/company/brightminds-b-v",
+      "location": "The Randstad, Netherlands",
+      "date": "2026-09-18",
+      "url": "https://nl.linkedin.com/jobs/view/traineeship-data-ai-at-brightminds-4469135517"
+    },
+    {
+      "id": "4469423669",
+      "title": "Future Tech Leaders Program (Dutch speaking)",
+      "company": "Bit Traineeship",
+      "companyUrl": "https://nl.linkedin.com/company/bit-traineeship",
+      "location": "Amsterdam Area",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/future-tech-leaders-program-dutch-speaking-at-bit-traineeship-4469423669"
+    }
+  ]
+}

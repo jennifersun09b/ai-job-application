@@ -1,0 +1,45 @@
+{
+  "name": "planday_machine_learning_engineer_agentic_ai",
+  "company": "Planday",
+  "role": "Machine Learning Engineer (Agentic AI)",
+  "sector": "Technology (workforce-management SaaS)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-agentic-ai-at-planday-4442843430",
+  "deadline": "",
+  "fit_rating": 67,
+  "cv_file": "cv/main_planday_machine_learning_engineer_agentic_ai.tex",
+  "cover_letter_file": "cover_letters/cover_planday_machine_learning_engineer_agentic_ai.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 13, "synonym_only": 4, "missing_have_it": 0, "missing_gap": 8},
+  "gaps_acknowledged": [
+    "No workforce-management or shift-scheduling domain experience",
+    "Below the stated 3-5 years of production ML experience (internship and project scale)",
+    "No production model serving; caching, batching and quantisation not shipped",
+    "No multi-agent orchestration or planning-workflow experience",
+    "No dbt, Snowflake or Databricks exposure",
+    "No ownership of observability for cloud-deployed services"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led on evaluation and guardrails rather than production engineering: the BeiGene six-dimension safety rubric with red-line rules (client acceptance standard), 246-question benchmark, LLM-as-judge scoring of 2,400+ responses and blinded paired A/B tests of the retrieval knowledge graph, framed as exactly what an agent that takes actions inside a scheduling product needs",
+    "Reframed the CV skills block around the posting's own vocabulary (LLM and Agentic Systems: RAG, function calling, knowledge graphs, LLM-as-judge evaluation, repeatable evaluation sets; ML Fundamentals: validation, leakage checks, calibration) and named Claude Code",
+    "Added the Westlake University entry as the closest honest engineering signal (pipeline refactor and parallelisation cutting runtime by around 60%, version-controlled rerunnable scripts) to bridge the 'tested, maintainable code' requirement",
+    "Bridged both honest gaps explicitly in one letter sentence rather than hiding them, and anchored motivation in Planday's own verified mission wording ('make shift work simple, reliable and fair', since 2004) plus the Xero 2021 acquisition and the London Devonshire Square office"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The posting's '400,000 users' figure was deliberately NOT used: it could not be confirmed on planday.com, and the independently fetched Xero acquisition release gives 350,000+ as of 2021. The letter uses only independently verified facts (founded 2004, mission wording, Xero since 2021, London office at 7 Devonshire Square).",
+    "To keep the CV to one page the Imperial College modules line was removed per the template's stated cut order.",
+    "Posting is silent on visa sponsorship. She currently has the right to work in the UK without sponsorship but would need Skilled Worker sponsorship later, which the letter states plainly. Worth confirming with the recruiter before interview."
+  ]
+}

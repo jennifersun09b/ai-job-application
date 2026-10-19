@@ -1,0 +1,48 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: statistics, experimental design, causal inference, machine learning, model calibration and uncertainty.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+• Core areas: mathematics, programming and statistics, bioinformatics, computational omics, integrative systems
+biology.
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Analyse merchant growth and operations data in SQL and Python to identify performance drivers across the UK
+marketplace.
+• Build KPI frameworks and dashboards used by operations teams to set targets and track strategic initiatives.
+• Present findings and recommendations to cross-functional operations, product and commercial stakeholders.
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Ran descriptive and inferential analysis of 12 Apple x Tmall audience segments across 15 advertising touchpoints using
+repeated-measures ANOV A, permutation tests and PCA clustering in Python.
+• Designed a 246-question benchmark and a six-dimension rubric scoring 2,400+ patient-facing AI responses for a
+pharmaceutical client.
+• Presented evaluation reports and delivery recommendations directly to pharma and consumer-tech client stakeholders.
+Associate Strategy Analyst May 2025 - Aug 2025
+Ipsos Strategy3 Beijing, China
+• Built market-sizing and forecasting models estimating $20M revenue potential across emerging health-product
+segments.
+• Analysed client datasets and 100+ expert interviews, coding transcripts into quantitative variables for statistical
+analysis.
+• Turned findings into executive dashboards and recommendations with client-facing research and strategy teams.
+Project Experience
+Predictive and Causal Modelling in UK Biobank Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression against three tree ensembles on 458,840 participants, reaching AUC 0.714 to 0.718 with
+near-perfect calibration.
+• Estimated intervention effects with doubly robust causal forests on 71,428 participants and tested overlap and
+unmeasured confounding.
+• Deployed an interactive Streamlit tool so non-technical users could explore scenarios, and reported null results and
+uncertainty honestly.
+Skills
+Programming: Python, SQL, R, Linux shell, Git
+Analytical Thinking and Statistics : experimental design, hypothesis testing, A/B tests, permutation and
+non-parametric tests, causal inference
+Predictive Modelling and Machine Learning : scikit-learn, XGBoost, LightGBM, random forests, logistic regression,
+calibration, decision curves
+Data, Visualisation and Consulting T ools : pandas, NumPy, SciPy, Power BI, Streamlit, Excel, Docker, A WS (basic),
+Claude Code | Languages: English (fluent), Mandarin (native)

@@ -1,0 +1,29 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"main_lendable_graduate_analyst",
+ "msc":"Data Science and Statistics, Advanced Data Science and Statistics, Advanced Machine Learning for Healthcare, Artificial Intelligence in Healthcare",
+ "bsc":"Mathematics, Programming and Statistics, Bioinformatics, Computational Omics, Integrative System Biology",
+ "tiktok":[
+  "Analyse large, messy merchant and transaction datasets in SQL and Python to find the drivers behind commercial performance, not just to report that it moved",
+  "Build AI agents that automate recurring analytical and reporting workflows, cutting manual effort and improving turnaround for e-commerce operations teams",
+  "Present findings and the reasoning behind them to operations, product and commercial leaders, then work with those teams to get the recommendations implemented"],
+ "dsd":[
+  "Designed and ran blinded paired A/B tests end to end, from hypothesis through to the recommendation the client acted on",
+  "Tested 12 audience segments across 15 touchpoints with Friedman, RCBD ANOVA and permutation methods, choosing non-parametric tests because the data would not support the defaults",
+  "Built a Python pipeline over 6 LLM APIs that scored 2,400+ responses automatically, replacing a manual review process that could not scale"],
+ "ipsos":[
+  "Built market-sizing and forecasting models estimating \\$20M of revenue potential, grounding the assumptions in evidence rather than judgement",
+  "Structured data from 80+ expert interviews into quantitative variables to make unstructured material comparable and analysable",
+  "Turned findings into executive dashboards and recommendations for client stakeholders"],
+ "projtitle":"Risk Prediction and Counterfactual Modelling (UCL)",
+ "proj":[
+  "Predicted individual risk across 458,840 people, comparing logistic regression against three tree ensembles and reaching AUC 0.714-0.718 with near-perfect calibration",
+  "Prioritised calibration over discrimination because the decision depended on the predicted probability being trustworthy, not merely on ranking cases correctly",
+  "Estimated counterfactual outcomes under intervention with doubly robust causal forests, reporting null results plainly where the evidence did not support an effect"],
+ "prog":"Python, SQL, R, Linux shell",
+ "h2":"Statistics and Modelling",
+ "s2":"probability and risk modelling, calibration, hypothesis testing, A/B testing, forecasting, causal inference, experimental design, permutation and non-parametric methods",
+ "h3":"Machine Learning and AI",
+ "s3":"scikit-learn, XGBoost, LightGBM, tree ensembles, PyTorch, AI agents and automation, LLM evaluation, RAG",
+ "tools":"pandas, NumPy, SciPy, Matplotlib, Power BI, Excel, Git, Docker, Streamlit, A\\kern0pt WS, Claude Code",
+}

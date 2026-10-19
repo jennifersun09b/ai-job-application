@@ -1,0 +1,48 @@
+{
+  "name": "trainline_machine_learning_engineer",
+  "company": "Trainline",
+  "role": "Machine Learning Engineer",
+  "sector": "Technology / travel e-commerce",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-trainline-4438260762",
+  "deadline": "",
+  "fit_rating": 58,
+  "cv_file": "cv/main_trainline_machine_learning_engineer.tex",
+  "cover_letter_file": "cover_letters/cover_trainline_machine_learning_engineer.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 15, "synonym_only": 1, "missing_have_it": 0, "missing_gap": 9},
+  "gaps_acknowledged": [
+    "No experience productionising ML models or owning deployment and maintenance at scale",
+    "No Spark",
+    "No Terraform, MLflow or MLOps platform experience",
+    "No CI/CD ownership or stated agile delivery experience",
+    "No recommendation systems or optimisation algorithms experience",
+    "No transport industry or GIS experience",
+    "No LLM agent-building experience (has LLM evaluation, fine-tuning and RAG)"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led the CV with TikTok Shop UK consumer marketplace analytics as the closest honest analogue to Trainline's consumer-product ML, and reframed the KPI bullet around whether an initiative moved its target metric",
+    "Made experimentation and evaluation rigour the spine of the letter (A/B testing, offline and online evaluation, calibration over headline AUC, causal forests with null results reported) rather than claiming MLOps depth",
+    "Renamed the skills lines to the posting's own headings (Machine Learning, Statistical Methodologies, data extraction / data manipulation / feature engineering) and surfaced the nice-to-haves she genuinely has: LLM fine-tuning, RAG and knowledge graphs",
+    "Named the production gap explicitly in the letter (no model owned in production, no Spark, Terraform or MLflow) instead of hiding it, and removed a 'CI-aware workflows' skills phrase that her profile does not support",
+    "Used one independently verified Trainline fact (over 270 rail and coach carriers, from thetrainline.com/about-us) as the 'why this company' hook"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "MANDATORY REVIEWER SUBAGENT NOT RUN: the Agent tool refused with 'Concurrent subagent limit reached (20)' because all 20 sibling application agents were running. Per the brief's do-not-retry instruction I did not retry. I performed the grounding audit, AI-tells audit, requirement-coverage check and independent company verification myself instead. This application has had no second-pair-of-eyes review.",
+    "This posting is pitched at an experienced production ML engineer, not a graduate. It asks for experience productionising ML models, Spark, Docker and Terraform, MLflow, and CI/CD, and expects ownership of the full lifecycle through deployment and maintenance. She has none of the production or big-data stack. She is credible on the modelling, statistics and evaluation half of the job and on the consumer-marketplace domain, but a hiring manager screening on 'has shipped a model to production' will filter her out. Worth submitting as a stretch given Trainline's stated learning-and-development emphasis, but expect a low response rate.",
+    "The posting says nothing about visa sponsorship. The letter states her position plainly (right to work now, Skilled Worker sponsorship needed in about two years) so it is not a hidden surprise.",
+    "Hybrid requirement is a minimum 60% office attendance over a 12-week period in London. She is London based, so this passes, but it is firmer than most postings."
+  ]
+}

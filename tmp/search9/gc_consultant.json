@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "count": 2,
+    "page": 1,
+    "discipline": "all",
+    "location": null,
+    "order": "dateAdded",
+    "titleFilter": "consultant",
+    "source": "https://www.gradcracker.com/search/all-disciplines/engineering-graduate-jobs?order=dateAdded"
+  },
+  "results": [
+    {
+      "id": "84112",
+      "title": "2027 UK Graduate Asset Management Consultant Career Path",
+      "company": "Mott MacDonald",
+      "companyUrl": "https://www.gradcracker.com/hub/3/mott-macdonald",
+      "location": "Leeds, London, Manchester and Reading",
+      "date": null,
+      "url": "https://www.gradcracker.com/hub/3/mott-macdonald/graduate-job/84112/2027-uk-graduate-asset-management-consultant-career-path",
+      "deadline": "Ongoing",
+      "deadlineIso": null,
+      "salary": "Competitive",
+      "degreeRequired": "Bachelor's",
+      "disciplines": "Economics, Sustainability, Water, Environment.",
+      "isNew": true
+    },
+    {
+      "id": "84111",
+      "title": "2027 UK Graduate Digital Consultant Career Path",
+      "company": "Mott MacDonald",
+      "companyUrl": "https://www.gradcracker.com/hub/3/mott-macdonald",
+      "location": "Brighton, Cambridge and Southampton",
+      "date": null,
+      "url": "https://www.gradcracker.com/hub/3/mott-macdonald/graduate-job/84111/2027-uk-graduate-digital-consultant-career-path",
+      "deadline": "Ongoing",
+      "deadlineIso": null,
+      "salary": "Competitive",
+      "degreeRequired": "Bachelor's",
+      "disciplines": "Maths, Physics, Computer Science.",
+      "isNew": true
+    }
+  ]
+}

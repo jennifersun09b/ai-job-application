@@ -1,0 +1,45 @@
+{
+  "name": "xantura_limited_machine_learning_engineer",
+  "company": "Xantura Limited",
+  "role": "Machine Learning Engineer",
+  "sector": "GovTech / public-sector predictive analytics",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-xantura-limited-4456766388",
+  "deadline": "",
+  "fit_rating": 65,
+  "cv_file": "cv/main_xantura_limited_machine_learning_engineer.tex",
+  "cover_letter_file": "cover_letters/cover_xantura_limited_machine_learning_engineer.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 11, "synonym_only": 6, "missing_have_it": 0, "missing_gap": 9},
+  "gaps_acknowledged": [
+    "No local-government or social-care domain experience",
+    "No production ML engineering at scale (3+ years as an ML Engineer not met)",
+    "No Dagster, Airflow or Prefect orchestration experience",
+    "No FastAPI service work or Kubernetes production deployment (Docker and a deployed Streamlit app only)",
+    "No Azure ecosystem experience (AWS basic only)",
+    "No vector databases, agentic frameworks (LangChain/AutoGen/PydanticAI) or CI/CD ownership",
+    "No PhD or publication record",
+    "No temporal survival modelling experience"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Reframed the UCL dissertation as population risk prediction on governed, linked person-level data, leading with gradient boosting, AUC 0.714 to 0.718 and near-perfect calibration, which is the closest analogue to Xantura's vulnerability-prediction models",
+    "Used the cover letter to address UK information governance head on, naming DPIA and the UCL Institute of Health Informatics, since the posting makes responsible AI and regulatory considerations a core responsibility",
+    "Bridged the two honest gaps explicitly in one paragraph (no production scale, no local-government background) rather than hiding them, and named the specific missing tools (Dagster, Azure Kubernetes Service) so the claim reads as informed",
+    "Reordered CV skills lines to reuse the posting's own headings (ML Libraries and Frameworks, Data and ML Pipelines) and surfaced PubMedBERT encoder fine-tuning and the LLM-as-judge evaluation harness against the embedding and evaluation-pipeline requirements"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "MANDATORY REVIEWER SUBAGENT NOT RUN: three attempts to spawn the general-purpose reviewer were refused with 'Concurrent subagent limit reached (20)'. All 20 concurrent apply agents are competing for the same pool, so this is a structural deadlock, not a transient error. The drafter performed the grounding audit, AI-tells audit and requirement-coverage check itself as a fallback, and independently verified every company claim (Xantura founded 2008, OneView product, children's social care and homelessness prevention domains) via xantura.com and the Newton acquisition press release. A second pair of eyes on these two documents is still recommended."
+  ]
+}

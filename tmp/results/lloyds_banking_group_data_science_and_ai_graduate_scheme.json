@@ -1,0 +1,48 @@
+{
+  "name": "lloyds_banking_group_data_science_and_ai_graduate_scheme",
+  "company": "Lloyds Banking Group",
+  "role": "Data Science and AI Graduate Scheme",
+  "sector": "Banking and financial services",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://www.gradcracker.com/hub/275/lloyds-banking-group/graduate-job/82965/data-science-and-ai-graduate-scheme",
+  "deadline": "2026-11-29",
+  "fit_rating": 69,
+  "cv_file": "cv/main_lloyds_banking_group_data_science_and_ai_graduate_scheme.tex",
+  "cover_letter_file": "cover_letters/cover_lloyds_banking_group_data_science_and_ai_graduate_scheme.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 17, "synonym_only": 5, "missing_have_it": 0, "missing_gap": 9},
+  "gaps_acknowledged": [
+    "No financial services or banking domain experience (no credit risk, fraud or conduct risk work)",
+    "Cloud experience is AWS at a basic level, not GCP as the scheme specifies",
+    "No CI/CD, DevOps or MLOps ownership, and no Spark or big-data platform experience",
+    "No agentic AI or LangChain/Google ADK build experience (LLM evaluation and RAG only)"
+  ],
+  "sponsorship_note": "Posting states verbatim: 'We encourage all students to apply, from newly graduated through to MSc/PhD. Note: we cannot sponsor visas.' This is a hard eligibility gate under 04-job-evaluation.md and the profile's deal-breaker list. The candidate can work in the UK without sponsorship today but her permission would not cover the full two-year programme.",
+  "key_tailoring_decisions": [
+    "Led the letter with the dissertation as a risk model and foregrounded calibration, decision-curve analysis and external validation rather than AUC, because calibration and validation are what a regulated lender cares about; explicitly labelled it as the closest thing she has to credit risk work rather than implying banking experience",
+    "Used the BeiGene safety rubric, blinded evaluation and paired A/B as the bridge into the scheme's AI assurance, evaluation science and model governance rotations, tying it to customer-facing agentic AI",
+    "Anchored the 'why Lloyds' paragraph on the independently verified appointment of Sameer Gupta as Chief Data and AI Officer in June 2026 and his responsible-deployment remit, taken from the Group's own press release",
+    "Reused the posting's own headings as CV skills-line labels (Python & SQL, Data Analysis and Statistical Modelling, Machine Learning and Generative AI, AI Solution Design and Evaluation) for ATS and recruiter scanning",
+    "Added Ipsos Strategy3 as a third work entry for the commercial lens the posting asks for, then tightened every bullet to a single line to keep the CV on one page",
+    "Raised the sponsorship position and Leeds relocation directly in the letter rather than leaving either to be discovered at offer stage",
+    "Dropped 'Agentic AI' from the CV skills label because she has LLM evaluation and RAG work but no agentic build experience"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "HARD ELIGIBILITY GATE: the posting states 'Note: we cannot sponsor visas.' Per 04-job-evaluation.md and the candidate profile deal-breakers, a posting that refuses sponsorship is a hard fail. She could start the two-year scheme on her current permission but Lloyds would not be able to sponsor her to complete it. The documents were produced as instructed, but this role should not be submitted without a deliberate decision from the candidate.",
+    "Location: the posting header says Leeds (Hybrid), but the body's Locations line reads 'Bristol, Edinburgh, Halifax, Leeds, London, Manchester' with a minimum of two days a week in the allocated office. London may be available, so the Leeds assumption in the letter is worth confirming before submitting; change 'happy to be based in Leeds' if she applies to a different office.",
+    "The scheme may close early: 'Our graduate schemes may close early if we receive a high number of applications.' Stated deadline is 29 November 2026.",
+    "Salary is stated as GBP 48,500 plus benefits.",
+    "GCP, Spark, CI/CD, MLOps, agentic AI frameworks, fraud and credit risk remain genuine gaps and were deliberately not keyword-stuffed into the CV."
+  ]
+}

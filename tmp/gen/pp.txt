@@ -1,0 +1,50 @@
+Zhuoyan Sun
++44(0)7422426924 | zhuoyansun41@gmail.com | Linkedin | GitHub | Portfolio
+Education
+University College London Sep 2025 - Present
+MSc Health Data Science (Distinction Expected) London | UK
+• Core Modules: Data Science and Statistics, Artificial Intelligence in Healthcare, Advanced Machine Learning for
+Healthcare, Advanced Data Science and Statistics
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second Class Honor) London | UK
+• Core Modules: Mathematics, Bioinformatics, Programming and Statistics, Computational Omics, Integrative
+System Biology
+Work Experience
+Data Analyst Intern Sep 2026 - Present
+TikTok UK London | UK
+• Built an AI agent that automates repetitive steps of the analytics workflow, adopted by the wider team and
+partner teams to improve efficiency across teams
+• Mine large-scale merchant and transaction data in SQL and Python to identify growth and operations drivers that
+shape TikTok Shop’s UK market-entry and expansion strategy
+• Build KPI frameworks and dashboards used by e-commerce teams to set targets and track initiatives, turning
+findings into recommendations for operations, product and commercial stakeholders
+Data Scientist Intern Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou | CN
+• Built agentic LLM applications in Python, calling 6 LLM APIs with retrieval, tool use and multi-step agent
+workflows, generating and scoring 2,400+ responses
+• Built the eval suite that gated release: a 246-question benchmark and 6-dimension rubric with red-line safety rules,
+scored by an LLM-as-judge framework and adopted as the client’s acceptance standard
+• Analysed failure modes across six models and ran blinded A/B tests on a retrieval knowledge graph, reporting
+where non-deterministic systems broke down and why
+Data Analyst Intern May 2025 - Aug 2025
+Ipsos Strategy3 Beijing | CN
+• Analysed large datasets to identify patterns and test hypotheses for client engagements
+• Built forecasting models assessing market trends and competitive dynamics
+• Coordinated with research and strategy colleagues and communicated technical findings clearly
+Project Experience
+Causal ML Model for Cardiovascular Risk Simulation Dec 2025 - Sep 2026
+University College London London | UK
+• Built an end-to-end machine learning pipeline on longitudinal biobank data, engineering multi-timepoint features
+to predict cardiovascular risk
+• Developed and validated predictive and causal models that estimate individual-level counterfactual risk under
+lifestyle interventions
+• Deployed a Streamlit simulation app that translates model outputs into actionable, user-facing insights for
+preventive healthcare
+Skills
+Programming: Python, SQL, JavaScript, R, Linux shell
+AI Agents and LLM Systems : LLM SDKs and APIs (OpenAI-compatible, Anthropic), tool-calling and multi-step
+agent workflows, retrieval and RAG, prompt engineering, eval suite and benchmark design, LLM-as-judge, safety rubrics
+Software Engineering : REST APIs, Docker and containers, Git version control, testing, debugging from logs,
+reproducible pipelines, AWS, Claude Code and AI-assisted development
+Data and T ools : pandas, NumPy, SciPy, PyTorch, Hugging Face Transformers, scikit-learn, Streamlit, Power BI
+Languages: English (fluent), Mandarin (native)

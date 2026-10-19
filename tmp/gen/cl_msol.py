@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_management_solutions_data_science_consultant",
+ "label":"Management Solutions Data Science Consultant",
+ "paras":[
+"I am writing to apply for the Data Science Consultant position in the UK. I am completing an MSc in Health Data Science at University College London, after a BSc in Biological Sciences at Imperial College London, with A-level Mathematics at A*, Chemistry at A* and Biology at A. Across my academic and professional experience I have developed and validated predictive models, built generative AI systems and evaluated them properly, and delivered findings to clients who had to act on them. I am particularly interested in this role because it combines quantitative modelling with consulting rather than separating them.",
+
+"What attracts me most to Management Solutions is that model validation and audit sit alongside model development in the same role. In my experience the second is far harder than the first, and most places treat it as an afterthought. I enjoy taking an unclear business problem, establishing what the underlying question actually is, and turning it into something that can be tested, challenged and improved. The opportunity to do that across risk, financial and business models for large clients strongly matches the kind of work I want to pursue.",
+
+"My MSc dissertation is essentially a model development and validation exercise. I built predictive models on 458,840 records, comparing logistic regression and generalised linear models against random forests and gradient-boosted ensembles including XGBoost and LightGBM. The more useful half was the validation: I assessed calibration rather than accepting the headline discrimination metric, used decision-curve analysis to ask whether the model was worth using at all, tested robustness to unmeasured confounding with E-values and quantitative bias analysis, and validated externally on an independent dataset. Several effects I expected were not supported and I reported them as null results.",
+
+"In my most recent role at DS Digital Technology, I built and validated a generative AI evaluation framework for a pharmaceutical client. There was no standard for whether their medical AI agent could be trusted, so I designed a 246-question benchmark and a six-dimension safety rubric with red-line rules, then a Python pipeline connecting six large language models with retrieval augmentation that scored more than 2,400 responses under an LLM-as-judge framework, with human review validating the judge itself. The client adopted the rubric as their acceptance standard. I also ran a repeated-measures statistical analysis across 12 audience segments and 15 touchpoints using Friedman tests, randomised complete block ANOVA and permutation methods, and delivered per-segment playbooks.",
+
+"My experience as a Strategy Analyst Intern at Ipsos Strategy3 prepared me for client-facing consulting. I built market-sizing and forecasting models estimating \\$20M of revenue potential, structured data from more than 80 expert interviews into quantitative variables, and delivered executive dashboards and recommendations alongside research and strategy colleagues. I currently work as a data analyst at TikTok Shop UK, where I also build AI agents that automate recurring analytical workflows.",
+
+"I would bring Management Solutions strong Python, R and SQL, genuine depth in model validation as well as development, hands-on experience with generative AI rather than familiarity from reading, and a solid academic record. I should be clear about where I would be learning: I have not worked with SAS or Matlab, nor with Hadoop or Hive, and my time-series work has been forecasting rather than formal ARIMA or panel modelling. Those are learnable, and I would rather name them than imply otherwise.",
+
+"Thank you for considering my application. I hold the right to work in the UK without sponsorship until January 2029. I would welcome the opportunity to discuss how my experience fits the Data Science Consultant role.",
+ ],
+}

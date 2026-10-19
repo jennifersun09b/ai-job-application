@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 3
+  },
+  "results": [
+    {
+      "id": "4461396394",
+      "title": "Machine Learning Scientist III",
+      "company": "Expedia Group",
+      "companyUrl": "https://www.linkedin.com/company/expediagroup",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-scientist-iii-at-expedia-group-4461396394"
+    },
+    {
+      "id": "4470986982",
+      "title": "Principal ML Engineer | Sports AI & Computer Vision",
+      "company": "Sky",
+      "companyUrl": "https://uk.linkedin.com/company/sky",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/principal-ml-engineer-sports-ai-computer-vision-at-sky-4470986982"
+    },
+    {
+      "id": "4469334299",
+      "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
+      "company": "Nebius",
+      "companyUrl": "https://nl.linkedin.com/company/nebius",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-machine-learning-engineer-llm-inference-optimization-at-nebius-4469334299"
+    },
+    {
+      "id": "4469433602",
+      "title": "Machine Learning Engineer",
+      "company": "VIQU IT Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/viquitrecruitment",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-at-viqu-it-recruitment-4469433602"
+    },
+    {
+      "id": "4406816401",
+      "title": "Applied AI ML Lead - DocAI",
+      "company": "JPMorganChase",
+      "companyUrl": "https://www.linkedin.com/company/jpmorganchase",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/applied-ai-ml-lead-docai-at-jpmorganchase-4406816401"
+    },
+    {
+      "id": "4469709371",
+      "title": "Machine Learning Engineer | Computer Vision",
+      "company": "Oho Group",
+      "companyUrl": "https://uk.linkedin.com/company/oho-group-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-computer-vision-at-oho-group-4469709371"
+    },
+    {
+      "id": "4469304565",
+      "title": "Senior AI Engineer",
+      "company": "Platform Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/platform-recruitment",
+      "location": "Manchester Area, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ai-engineer-at-platform-recruitment-4469304565"
+    },
+    {
+      "id": "4469608419",
+      "title": "Machine Learning Engineer, New Grad",
+      "company": "Jobright.ai",
+      "companyUrl": "https://www.linkedin.com/company/jobright-ai",
+      "location": "United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/machine-learning-engineer-new-grad-at-jobright-ai-4469608419"
+    },
+    {
+      "id": "4469612957",
+      "title": "AI Engineer",
+      "company": "Fundment",
+      "companyUrl": "https://uk.linkedin.com/company/fundment",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/ai-engineer-at-fundment-4469612957"
+    },
+    {
+      "id": "4469350748",
+      "title": "Senior Data Science Engineer",
+      "company": "NetSPI",
+      "companyUrl": "https://www.linkedin.com/company/netspi",
+      "location": "United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-science-engineer-at-netspi-4469350748"
+    }
+  ]
+}

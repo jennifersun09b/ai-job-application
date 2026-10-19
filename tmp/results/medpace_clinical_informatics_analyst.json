@@ -1,0 +1,44 @@
+{
+  "name": "medpace_clinical_informatics_analyst",
+  "company": "Medpace",
+  "role": "Clinical Informatics Analyst",
+  "sector": "Healthcare and life sciences (contract research organisation)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/clinical-informatics-analyst-at-medpace-4460372743",
+  "deadline": "",
+  "fit_rating": 88,
+  "cv_file": "cv/main_medpace_clinical_informatics_analyst.tex",
+  "cover_letter_file": "cover_letters/cover_medpace_clinical_informatics_analyst.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 12, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 2},
+  "gaps_acknowledged": [
+    "No experience inside a contract research organisation",
+    "No clinical trial data management standards (CDISC, SDTM) and no EDC system experience",
+    "No experience evaluating study protocols or working with Clinical Trial Managers (the posting states analysts are trained in this)",
+    "Dashboards are Power BI only, no Tableau or Spotfire"
+  ],
+  "sponsorship_note": "not stated - the posting body says nothing about visa sponsorship either way. It states the role is office based in London with occasional WFH after training, and that a programming assessment is run before/at the interview stage. The letter states she holds the right to work in the UK until January 2029 without sponsorship.",
+  "key_tailoring_decisions": [
+    "Led on the posting's three named preferred tools that she genuinely has: Streamlit (dissertation web app, deployed), Power BI and R. The CV skills block is relabelled to the posting's own headings, including a dedicated 'Web Applications and Dashboards' line and a 'Clinical Data' line.",
+    "Added Westlake University as a third CV work entry so 'clinical research experience' and R are evidenced inside Work Experience rather than only in projects, and reframed its pipeline refactor as a process improvement to match the posting's 'departmental process improvement initiatives' responsibility.",
+    "Built the company paragraph on independently verified Medpace facts (ClinTrak, the in-house clinical technology suite unifying operations, laboratory, imaging, ePRO and IRT data, plus central labs, core imaging labs and the Phase I unit, all confirmed at medpace.com/cro/technology), and turned it forward-looking with a concrete Clinical Trial Manager question rather than admiration.",
+    "Named the CRO, CDISC/SDTM and EDC gap explicitly in the letter and bridged it to the posting's own stated training programme, rather than claiming trial-data standards she has not used.",
+    "Brought Ipsos Strategy3 and IQVIA into the letter (not the CV, which is at its one-page limit) because pharma and healthcare-dataset exposure is the most legible credential for a CRO reader."
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "The posting text contains no sponsorship statement, contrary to the assumption in the task brief. Recorded as 'not stated'.",
+    "The posting file's own URL field (linkedin job id 4355001040) differs from the URL supplied in the task (4460372743). The task URL was used as the source. The posting text was not followed as instructions and no URL inside it was fetched.",
+    "The posting says a programming assessment is conducted at the interview stage in R or Python. Worth practising R specifically, since her day-to-day is Python-first."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4474770480",
+      "title": "Data Scientist",
+      "company": "Burberry",
+      "companyUrl": "https://uk.linkedin.com/company/burberry",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-02",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-burberry-4474770480"
+    },
+    {
+      "id": "4471739837",
+      "title": "Data Scientist Associate - London (M,F,D) - Hybrid",
+      "company": "L.E.K. Consulting",
+      "companyUrl": "https://www.linkedin.com/company/lekconsulting",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-associate-london-m-f-d-hybrid-at-l-e-k-consulting-4471739837"
+    },
+    {
+      "id": "4470283374",
+      "title": "Junior Data Scientist",
+      "company": "Harnham",
+      "companyUrl": "https://uk.linkedin.com/company/harnham",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/junior-data-scientist-at-harnham-4470283374"
+    },
+    {
+      "id": "4473846668",
+      "title": "Burberry Data Scientist",
+      "company": "BoF Careers",
+      "companyUrl": "https://www.linkedin.com/company/bof-careers",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/burberry-data-scientist-at-bof-careers-4473846668"
+    },
+    {
+      "id": "4436120078",
+      "title": "Data Scientist",
+      "company": "Optima Partners",
+      "companyUrl": "https://uk.linkedin.com/company/optima-partners",
+      "location": "Edinburgh, Scotland, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-optima-partners-4436120078"
+    },
+    {
+      "id": "4469334087",
+      "title": "Data Scientist",
+      "company": "InterEx Group",
+      "companyUrl": "https://uk.linkedin.com/company/interex-group",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-interex-group-4469334087"
+    },
+    {
+      "id": "4461763593",
+      "title": "2027 Data & AI - Full Time Analyst - London, Glasgow",
+      "company": "JPMorganChase",
+      "companyUrl": "https://www.linkedin.com/company/jpmorganchase",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/2027-data-ai-full-time-analyst-london-glasgow-at-jpmorganchase-4461763593"
+    },
+    {
+      "id": "4469930155",
+      "title": "Data Scientist - Legal Technology",
+      "company": "Harnham",
+      "companyUrl": "https://uk.linkedin.com/company/harnham",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-legal-technology-at-harnham-4469930155"
+    },
+    {
+      "id": "4473873437",
+      "title": "Graduate data scientist",
+      "company": "Bending Spoons",
+      "companyUrl": "https://it.linkedin.com/company/bendingspoons",
+      "location": "Oxford, England, United Kingdom",
+      "date": "2026-10-03",
+      "url": "https://uk.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4473873437"
+    },
+    {
+      "id": "4472747513",
+      "title": "Associate Data Scientist",
+      "company": "CFC",
+      "companyUrl": "https://uk.linkedin.com/company/cfc-underwriting-ltd",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-28",
+      "url": "https://uk.linkedin.com/jobs/view/associate-data-scientist-at-cfc-4472747513"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_cvs_clinical_data_scientist",
+ "label":"CVS Group Clinical Data Scientist",
+ "paras":[
+ r"I am writing to apply for the Clinical Data Scientist position at CVS Group (reference 6131). I completed an MSc in Health Data Science at University College London in September 2026, where a distinction is expected, after a BSc in Biological Sciences at Imperial College London, and I currently work as a Data Analyst Intern at TikTok Shop UK. Across my academic and professional experience I have worked with large health datasets, applied machine learning and natural language processing to clinical text, and turned the results into evidence that clinicians and managers can act on. I am particularly interested in this role because it combines exactly those things: structured health records, unstructured clinical notes, and a clear purpose of improving patient outcomes.",
+
+ r"What attracts me most to CVS is the opportunity to help build a clinical data capability rather than inherit a finished one, and to do it close to the clinical leadership and research teams. I enjoy taking an unclear business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved. The plan to begin exploring free-text clinical notes is the part of the role I would find most rewarding, because that is where most of the clinical detail usually sits.",
+
+ r"At TikTok Shop UK I analyse merchant and transaction data in SQL and Python and build KPI frameworks and dashboards that operations, product and commercial teams use to set targets and track initiatives. I also built an AI agent using Claude Code that automates repetitive steps of the analytics workflow, now used by my own team and by partner teams. This has taught me how to build reporting that people actually rely on, and how much of the work is understanding what the stakeholder needs before writing any code.",
+
+ r"At DS Digital Technology I worked as a Data Scientist Intern on a medical AI engagement for a pharmaceutical client. I mined more than 4,800 unstructured patient consultation threads with a regex and LLM extraction pipeline to turn free-text conversations into structured themes, designed a 246-question clinical benchmark and six-dimension safety rubric with medical experts, which the client adopted as their evaluation standard, and co-built a medically reviewed knowledge graph whose effect we tested with blinded A/B comparisons. Working alongside clinicians to decide what a correct and safe answer looks like was the most useful part of that work, and it is close to how I would expect to work with your clinical leadership.",
+
+ r"My MSc dissertation used 458,840 UK Biobank participants to build cardiovascular risk models and estimate the effect of lifestyle changes with doubly robust causal forests, including sensitivity analyses for unmeasured confounding and external validation on a second cohort, and it is delivered as a deployed application so that others can explore the results. I also led a group project building a clinical NLP pipeline that parsed radiology reports into structured features, fine-tuning ClinicalBERT and PubMedBERT-style models that outperformed TF-IDF baselines. Together these are the closest experience I have to analysing electronic health records and clinical notes at scale.",
+
+ r"At Ipsos Strategy3 I structured data from 80 or more healthcare professional interviews into quantitative variables and turned the analysis into dashboards and recommendations for clinical and commercial stakeholders, which is where I learned to present a finding to an audience that wants the implication rather than the method.",
+
+ r"I should be clear about some gaps. I do not have a veterinary or clinical degree, I have not worked with Microsoft Fabric, PySpark or SQL Server, and my experience of MLOps is limited to deploying my own analyses rather than running models in production. This would also be my first role leading clinical analytics on my own. My health data science, statistics and NLP foundations are strong, and I would expect to learn the veterinary domain and your data platform quickly with the support of the Director of Research and Data Science.",
+
+ r"I would bring CVS genuine experience with large health research data, clinical text and language models, strong SQL, Python and Power BI, and the habit of checking that a result is reproducible before recommending it. I have the right to work in the UK until January 2029 without sponsorship. I am based in London and am happy to travel for meetings.",
+
+ r"Thank you for considering my application. I would welcome the opportunity to discuss how my experience in health data science and clinical NLP could contribute to CVS's clinical data strategy.",
+ ]
+}

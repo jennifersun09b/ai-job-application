@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4465304475",
+      "title": "Senior Data Scientist",
+      "company": "Signatur Biosciences",
+      "companyUrl": "https://uk.linkedin.com/company/signatur-bio",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-09",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-signatur-biosciences-4465304475"
+    },
+    {
+      "id": "4460164221",
+      "title": "Senior Principal Data Scientist",
+      "company": "Novartis UK",
+      "companyUrl": "https://uk.linkedin.com/company/novartis-uk-limited",
+      "location": "London, England, United Kingdom",
+      "date": "2026-08-28",
+      "url": "https://uk.linkedin.com/jobs/view/senior-principal-data-scientist-at-novartis-uk-4460164221"
+    },
+    {
+      "id": "4445974761",
+      "title": "Research Data Scientist - Macrophage",
+      "company": "UCB",
+      "companyUrl": "https://be.linkedin.com/company/ucb-pharma",
+      "location": "Slough, England, United Kingdom",
+      "date": "2026-09-09",
+      "url": "https://uk.linkedin.com/jobs/view/research-data-scientist-macrophage-at-ucb-4445974761"
+    },
+    {
+      "id": "4456666307",
+      "title": "Senior Associate Biomarker Data Scientist",
+      "company": "Parexel",
+      "companyUrl": "https://www.linkedin.com/company/parexel",
+      "location": "Uxbridge, England, United Kingdom",
+      "date": "2026-08-22",
+      "url": "https://uk.linkedin.com/jobs/view/senior-associate-biomarker-data-scientist-at-parexel-4456666307"
+    },
+    {
+      "id": "4449010614",
+      "title": "Scientist Computational Biology",
+      "company": "Syngenta",
+      "companyUrl": "https://ch.linkedin.com/company/syngenta",
+      "location": "Bracknell, England, United Kingdom",
+      "date": "2026-08-13",
+      "url": "https://uk.linkedin.com/jobs/view/scientist-computational-biology-at-syngenta-4449010614"
+    },
+    {
+      "id": "4454056485",
+      "title": "Senior Data Scientist (Single Cell)",
+      "company": "Relation",
+      "companyUrl": "https://uk.linkedin.com/company/relation-therapeutics",
+      "location": "London Area, United Kingdom",
+      "date": "2026-08-13",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-single-cell-at-relation-4454056485"
+    },
+    {
+      "id": "4452828224",
+      "title": "Scientist",
+      "company": "Genomics",
+      "companyUrl": "https://uk.linkedin.com/company/genomics-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-08-18",
+      "url": "https://uk.linkedin.com/jobs/view/scientist-at-genomics-4452828224"
+    },
+    {
+      "id": "4456753943",
+      "title": "Staff AI Scientist",
+      "company": "Boehringer Ingelheim",
+      "companyUrl": "https://de.linkedin.com/company/boehringer-ingelheim",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-11",
+      "url": "https://uk.linkedin.com/jobs/view/staff-ai-scientist-at-boehringer-ingelheim-4456753943"
+    },
+    {
+      "id": "4422835232",
+      "title": "Senior Data Scientist (Biostatistics)",
+      "company": "Acuity Analytics",
+      "companyUrl": "https://uk.linkedin.com/company/acuityanalytics",
+      "location": "Greater Bristol Area, United Kingdom",
+      "date": "2026-09-10",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-biostatistics-at-acuity-analytics-4422835232"
+    },
+    {
+      "id": "4422820332",
+      "title": "Senior Data Scientist (Biostatistics)",
+      "company": "Acuity Analytics",
+      "companyUrl": "https://uk.linkedin.com/company/acuityanalytics",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-10",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-biostatistics-at-acuity-analytics-4422820332"
+    }
+  ]
+}

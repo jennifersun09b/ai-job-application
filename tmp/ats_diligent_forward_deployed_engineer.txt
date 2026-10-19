@@ -1,0 +1,52 @@
+Zhuoyan Sun
++44 7422 426924 | zhuoyansun41@gmail.com | LinkedIn | GitHub | Portfolio
+Education
+University College London Sep 2025 - Sep 2026
+MSc Health Data Science (Distinction expected, in progress) London, UK
+• Core areas: statistics, experimental design, causal inference, machine learning, evaluation and model calibration.
+Imperial College London Sep 2021 - Jun 2024
+BSc Biological Sciences (Upper Second-Class Honours, 2:1) London, UK
+Work Experience
+Data Analyst Intern, Business Planning & Operations Sep 2026 - Present
+TikTok Shop UK London, UK
+• Analyse merchant growth and operations data in SQL and Python, turning open workflow questions from operations
+teams into tested metrics for the UK marketplace.
+• Build KPI frameworks and dashboards used by e-commerce operations teams to set targets and track strategy
+initiatives.
+• Present findings and recommendations to operations, product and commercial stakeholders, turning analysis into
+decisions.
+Data Scientist Intern, Applied AI Jul 2026 - Sep 2026
+DS Digital Technology Hangzhou, China
+• Designed a 246-question benchmark and six-dimension safety rubric with red-line rules, agreed with a pharma client as
+the acceptance standard for patient-facing AI answers.
+• Built a Python pipeline calling six LLM APIs with retrieval augmentation, scoring 2,400+ responses through an
+LLM-as-judge framework and blinded paired A/B tests.
+• Sourced and integrated data across multiple enterprise platforms for an Apple audience programme on Tmall,
+rebuilding deprecated tags with a Playwright API collector to reproduce a ∼60M-user segment.
+Associate Strategy Analyst May 2025 - Aug 2025
+Ipsos Strategy3 Beijing, China
+• Ran and analysed 100+ expert interviews and built a coding framework turning transcripts into quantitative variables
+for healthcare and consumer datasets.
+• Built market-sizing and forecasting models estimating $20M revenue potential across emerging health-product
+segments.
+• Delivered executive dashboards and recommendations to client decision makers with research and strategy teams.
+Project Experience
+Clinical NLP and LLM Evaluation Jan 2026 - Jul 2026
+University College London London, UK
+• Led a team building a Hugging Face pipeline that parsed unstructured radiology reports into structured features.
+• Fine-tuned PubMedBERT-style models against TF-IDF and kNN baselines inside a reproducible evaluation
+framework.
+• Surfaced vision-language failure modes by comparing model output with text-derived signals and patient data.
+Cardiovascular Risk Prediction and Causal ML Dec 2025 - Sep 2026
+University College London London, UK
+• Compared logistic regression and three tree ensembles on 458,840 participants, reaching AUC 0.714-0.718 with
+near-perfect calibration.
+• Shipped an interactive Streamlit tool and reported uncertainty honestly, including null results and sensitivity analyses.
+Skills
+Software Engineering : Python, SQL, R, JavaScript, APIs and data pipelines, Git, Docker, Linux shell, A WS (basic)
+LLM Systems and Evaluation : evaluation frameworks, benchmark and golden-dataset design, LLM-as-judge rubrics,
+guardrails and red-line rules, RAG and knowledge graphs, Anthropic and OpenAI-compatible APIs, Claude Code
+Data Integration : multi-system data sourcing, ETL in pandas and NumPy, Playwright API collectors, Streamlit, Power
+BI, Excel
+Implementation and Stakeholders : stakeholder interviews, acceptance criteria, A/B testing and experimental design,
+executive reporting | Languages: English (fluent), Mandarin (native)

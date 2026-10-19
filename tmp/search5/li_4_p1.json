@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4468555051",
+      "title": "AI Engineer",
+      "company": "Trust In SODA",
+      "companyUrl": "https://uk.linkedin.com/company/trust-in-soda",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-09-22",
+      "url": "https://es.linkedin.com/jobs/view/ai-engineer-at-trust-in-soda-4468555051"
+    },
+    {
+      "id": "4464323868",
+      "title": "AI Engineer - Machine Learning LLM",
+      "company": "Client Server",
+      "companyUrl": "https://uk.linkedin.com/company/client-server",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-09-07",
+      "url": "https://es.linkedin.com/jobs/view/ai-engineer-machine-learning-llm-at-client-server-4464323868"
+    },
+    {
+      "id": "4445031835",
+      "title": "Senior Machine Learning / AI Engineer",
+      "company": "Busuu",
+      "companyUrl": "https://uk.linkedin.com/company/busuu-com",
+      "location": "Community of Madrid, Spain",
+      "date": "2026-09-11",
+      "url": "https://es.linkedin.com/jobs/view/senior-machine-learning-ai-engineer-at-busuu-4445031835"
+    },
+    {
+      "id": "4461155781",
+      "title": "Ingeniero de Inteligencia Artificial (Agentes + ML/DL)",
+      "company": "Mutua Madrileña",
+      "companyUrl": "https://es.linkedin.com/company/mutua-madrilena",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-09-04",
+      "url": "https://es.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-agentes-%2B-ml-dl-at-mutua-madrile%C3%B1a-4461155781"
+    },
+    {
+      "id": "4444013164",
+      "title": "Senior AI & ML Engineer / Generative AI",
+      "company": "Accenture España",
+      "companyUrl": "https://es.linkedin.com/company/accenture-espana",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-09-18",
+      "url": "https://es.linkedin.com/jobs/view/senior-ai-ml-engineer-generative-ai-at-accenture-espa%C3%B1a-4444013164"
+    },
+    {
+      "id": "4467841713",
+      "title": "AI Engineer",
+      "company": "Oliver James",
+      "companyUrl": "https://uk.linkedin.com/company/oliver-james-",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-09-18",
+      "url": "https://es.linkedin.com/jobs/view/ai-engineer-at-oliver-james-4467841713"
+    },
+    {
+      "id": "4431737276",
+      "title": "Software / Machine Learning Engineer",
+      "company": "Prima",
+      "companyUrl": "https://it.linkedin.com/company/prima-assicurazioni",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-09-17",
+      "url": "https://es.linkedin.com/jobs/view/software-machine-learning-engineer-at-prima-4431737276"
+    },
+    {
+      "id": "4470915755",
+      "title": "Software Engineer",
+      "company": "Teros AI",
+      "companyUrl": "https://es.linkedin.com/company/teros-ai",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-09-23",
+      "url": "https://es.linkedin.com/jobs/view/software-engineer-at-teros-ai-4470915755"
+    },
+    {
+      "id": "4460475529",
+      "title": "GenAI Engineer",
+      "company": "Minsait",
+      "companyUrl": "https://es.linkedin.com/company/minsait",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-09-03",
+      "url": "https://es.linkedin.com/jobs/view/genai-engineer-at-minsait-4460475529"
+    },
+    {
+      "id": "4417423501",
+      "title": "Frontier Agentic AI Engineer — Santander AI Lab",
+      "company": "Santander Digital Services",
+      "companyUrl": "https://es.linkedin.com/company/santanderdigitalservices",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-09-06",
+      "url": "https://es.linkedin.com/jobs/view/frontier-agentic-ai-engineer-%E2%80%94-santander-ai-lab-at-santander-digital-services-4417423501"
+    }
+  ]
+}

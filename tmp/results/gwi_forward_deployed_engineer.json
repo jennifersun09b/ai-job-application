@@ -1,0 +1,46 @@
+{
+  "name": "gwi_forward_deployed_engineer",
+  "company": "GWI",
+  "role": "Forward Deployed Engineer",
+  "sector": "Consumer research and audience insight (data infrastructure and analytics)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-at-gwi-4424753326",
+  "deadline": "",
+  "fit_rating": 62,
+  "cv_file": "cv/main_gwi_forward_deployed_engineer.tex",
+  "cover_letter_file": "cover_letters/cover_gwi_forward_deployed_engineer.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 7, "synonym_only": 7, "missing_have_it": 0, "missing_gap": 5},
+  "gaps_acknowledged": [
+    "Advertised at Lead/Principal seniority; candidate is early-career. Stated plainly in the cover letter.",
+    "No production code shipped in a complex enterprise environment and no production service at scale.",
+    "No real production AI deployment into a large organisation (evaluation and pipeline work, not deployment).",
+    "No prior FDE, solutions architect or technical account management role, and no B2B SaaS or AI-native company background.",
+    "No financial services vertical experience; cloud is AWS at basic level only."
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led both documents with the Apple x Tmall audience programme (12 segments re-validated, ~60M-user segment rebuilt, 12 segments x 15 ad touchpoints tested), which is a direct domain match to GWI's audience-insight business.",
+    "Added Ipsos Strategy3 as a third CV work entry to evidence time inside the market-research industry GWI sells into, alongside the IQVIA mention in the letter.",
+    "Relabelled the CV skills lines to the posting's own vocabulary (Engineering / AI and Agentic Workflows / Data and Analytics / Consumer and Audience Insight) and led the DS Digital entry with the 6-LLM-API Python pipeline to engage the agentic-AI nice-to-have.",
+    "Anchored the 'why GWI' paragraph on independently verified facts from gwi.com (founded 2009, close to a million internet users surveyed a year across 53 markets, Agent Spark) rather than generic praise.",
+    "Named the seniority gap explicitly in the letter rather than papering over it, and addressed the office, travel, start date and visa logistics in one sentence."
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "MANDATORY REVIEWER SUBAGENT COULD NOT RUN: two attempts to spawn the general-purpose reviewer both failed with 'Concurrent subagent limit reached' (20 sibling agents running). The grounding audit, AI-tells audit and template-compliance check were performed by the drafting agent instead. A second pair of eyes has not seen these drafts.",
+    "The posting is advertised at Lead/Principal seniority and demands significant production-engineering experience. This is a substantial stretch and likely an auto-reject on experience; the user may prefer to skip it or wait for a mid-level FDE opening at GWI.",
+    "Posting requires approximately 30-50% travel to client sites across the UK and Europe. Per 04-job-evaluation.md, frequent international travel is a FLAG to discuss with the user.",
+    "The posting says nothing about visa sponsorship. The letter states the candidate can work now without sponsorship and would need Skilled Worker sponsorship in about two years, which matters for a permanent role."
+  ]
+}

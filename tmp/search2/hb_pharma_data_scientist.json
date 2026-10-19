@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4454772365",
+      "title": "Data Scientist",
+      "company": "AbbVie",
+      "companyUrl": "https://www.linkedin.com/company/abbvie",
+      "location": "Maidenhead, England, United Kingdom",
+      "date": "2026-09-09",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-abbvie-4454772365"
+    },
+    {
+      "id": "4460164221",
+      "title": "Senior Principal Data Scientist",
+      "company": "Novartis UK",
+      "companyUrl": "https://uk.linkedin.com/company/novartis-uk-limited",
+      "location": "London, England, United Kingdom",
+      "date": "2026-08-28",
+      "url": "https://uk.linkedin.com/jobs/view/senior-principal-data-scientist-at-novartis-uk-4460164221"
+    },
+    {
+      "id": "4459959684",
+      "title": "Principle Scientist - Cheminformatics",
+      "company": "GSK",
+      "companyUrl": "https://uk.linkedin.com/company/gsk",
+      "location": "Stevenage, England, United Kingdom",
+      "date": "2026-09-02",
+      "url": "https://uk.linkedin.com/jobs/view/principle-scientist-cheminformatics-at-gsk-4459959684"
+    },
+    {
+      "id": "4403844682",
+      "title": "AI Accelerator for Drug Discovery - Talent Pool",
+      "company": "Boehringer Ingelheim",
+      "companyUrl": "https://de.linkedin.com/company/boehringer-ingelheim",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-01",
+      "url": "https://uk.linkedin.com/jobs/view/ai-accelerator-for-drug-discovery-talent-pool-at-boehringer-ingelheim-4403844682"
+    },
+    {
+      "id": "4433880650",
+      "title": "Principal Computational Methodologist (UK)",
+      "company": "UCB",
+      "companyUrl": "https://be.linkedin.com/company/ucb-pharma",
+      "location": "Slough, England, United Kingdom",
+      "date": "2026-08-30",
+      "url": "https://uk.linkedin.com/jobs/view/principal-computational-methodologist-uk-at-ucb-4433880650"
+    },
+    {
+      "id": "4445974761",
+      "title": "Research Data Scientist - Macrophage",
+      "company": "UCB",
+      "companyUrl": "https://be.linkedin.com/company/ucb-pharma",
+      "location": "Slough, England, United Kingdom",
+      "date": "2026-09-09",
+      "url": "https://uk.linkedin.com/jobs/view/research-data-scientist-macrophage-at-ucb-4445974761"
+    },
+    {
+      "id": "4456753943",
+      "title": "Staff AI Scientist",
+      "company": "Boehringer Ingelheim",
+      "companyUrl": "https://de.linkedin.com/company/boehringer-ingelheim",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-11",
+      "url": "https://uk.linkedin.com/jobs/view/staff-ai-scientist-at-boehringer-ingelheim-4456753943"
+    },
+    {
+      "id": "4461670264",
+      "title": "Cheminformatics Researcher",
+      "company": "R&D Partners",
+      "companyUrl": "https://www.linkedin.com/company/r&d-partners_2",
+      "location": "Bracknell, England, United Kingdom",
+      "date": "2026-09-03",
+      "url": "https://uk.linkedin.com/jobs/view/cheminformatics-researcher-at-r-d-partners-4461670264"
+    },
+    {
+      "id": "4454182351",
+      "title": "Senior Data Scientist - LeapSpace",
+      "company": "Elsevier",
+      "companyUrl": "https://nl.linkedin.com/company/elsevier",
+      "location": "London Area, United Kingdom",
+      "date": "2026-08-21",
+      "url": "https://uk.linkedin.com/jobs/view/senior-data-scientist-leapspace-at-elsevier-4454182351"
+    },
+    {
+      "id": "4456772727",
+      "title": "Sr Programmer-Sr Data Scientist/Analys Real-World Data (SAS/R)",
+      "company": "Syneos Health",
+      "companyUrl": "https://www.linkedin.com/company/syneos-health",
+      "location": "United Kingdom",
+      "date": "2026-08-20",
+      "url": "https://uk.linkedin.com/jobs/view/sr-programmer-sr-data-scientist-analys-real-world-data-sas-r-at-syneos-health-4456772727"
+    }
+  ]
+}

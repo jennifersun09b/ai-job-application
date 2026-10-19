@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 2
+  },
+  "results": [
+    {
+      "id": "4471622677",
+      "title": "AI-Assisted Software Engineer",
+      "company": "AWE",
+      "companyUrl": "https://uk.linkedin.com/company/awe",
+      "location": "Reading, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/ai-assisted-software-engineer-at-awe-4471622677"
+    },
+    {
+      "id": "4471451553",
+      "title": "Software Engineer (Machine Learning)",
+      "company": "Netcraft",
+      "companyUrl": "https://uk.linkedin.com/company/netcraft",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-machine-learning-at-netcraft-4471451553"
+    },
+    {
+      "id": "4469760683",
+      "title": "AI Forward Deployed Engineer",
+      "company": "Trubrics",
+      "companyUrl": "https://uk.linkedin.com/company/trubrics",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/ai-forward-deployed-engineer-at-trubrics-4469760683"
+    },
+    {
+      "id": "4470981255",
+      "title": "Computer Vision Engineer Graduate",
+      "company": "PurpleSector",
+      "companyUrl": "https://uk.linkedin.com/company/purplesectorlimited",
+      "location": "Thursley, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/computer-vision-engineer-graduate-at-purplesector-4470981255"
+    },
+    {
+      "id": "4471680875",
+      "title": "CoLM 2026 — Full Time",
+      "company": "Spotify",
+      "companyUrl": "https://se.linkedin.com/company/spotify",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/colm-2026-%E2%80%94-full-time-at-spotify-4471680875"
+    },
+    {
+      "id": "4471689655",
+      "title": "RecSys 2026 — Full Time",
+      "company": "Spotify",
+      "companyUrl": "https://se.linkedin.com/company/spotify",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/recsys-2026-%E2%80%94-full-time-at-spotify-4471689655"
+    },
+    {
+      "id": "4444981527",
+      "title": "Applied AI Engineer, Markets Operations - Associate",
+      "company": "JPMorganChase",
+      "companyUrl": "https://www.linkedin.com/company/jpmorganchase",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-09-27",
+      "url": "https://uk.linkedin.com/jobs/view/applied-ai-engineer-markets-operations-associate-at-jpmorganchase-4444981527"
+    },
+    {
+      "id": "4469769337",
+      "title": "AI Forward Deployed Engineer",
+      "company": "ISL Talent",
+      "companyUrl": "https://uk.linkedin.com/company/isltalent",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-24",
+      "url": "https://uk.linkedin.com/jobs/view/ai-forward-deployed-engineer-at-isl-talent-4469769337"
+    },
+    {
+      "id": "4470912191",
+      "title": "Data & AI Engineer",
+      "company": "ESP Utilities Group Ltd",
+      "companyUrl": "https://www.linkedin.com/company/esp-utilities-group",
+      "location": "Leatherhead, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/data-ai-engineer-at-esp-utilities-group-ltd-4470912191"
+    },
+    {
+      "id": "4471867578",
+      "title": "Data Scientist",
+      "company": "Searchability NS&D",
+      "companyUrl": "https://uk.linkedin.com/company/searchability-ns-d",
+      "location": "London Area, United Kingdom",
+      "date": "2026-09-25",
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-searchability-ns-d-4471867578"
+    }
+  ]
+}

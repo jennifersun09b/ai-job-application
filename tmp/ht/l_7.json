@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4429793459",
+      "title": "Data Analyst",
+      "company": "MANUAL",
+      "companyUrl": "https://uk.linkedin.com/company/manualco",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-01",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-manual-4429793459"
+    },
+    {
+      "id": "4469008922",
+      "title": "Data Analyst",
+      "company": "Voy",
+      "companyUrl": "https://uk.linkedin.com/company/joinvoy",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-voy-4469008922"
+    },
+    {
+      "id": "4473247170",
+      "title": "Data Insights Analyst",
+      "company": "PEP Health",
+      "companyUrl": "https://uk.linkedin.com/company/pep-health",
+      "location": "United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/data-insights-analyst-at-pep-health-4473247170"
+    },
+    {
+      "id": "4464784380",
+      "title": "Senior Analytics Engineer",
+      "company": "CMR Surgical",
+      "companyUrl": "https://uk.linkedin.com/company/cmrsurgical",
+      "location": "Cambridge, England, United Kingdom",
+      "date": "2026-09-14",
+      "url": "https://uk.linkedin.com/jobs/view/senior-analytics-engineer-at-cmr-surgical-4464784380"
+    },
+    {
+      "id": "4467715603",
+      "title": "Product Analyst",
+      "company": "Accurx",
+      "companyUrl": "https://uk.linkedin.com/company/accurx",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-15",
+      "url": "https://uk.linkedin.com/jobs/view/product-analyst-at-accurx-4467715603"
+    },
+    {
+      "id": "4472173144",
+      "title": "Data Analyst - Participant Support Operations & Clinical Operations",
+      "company": "Our Future Health UK",
+      "companyUrl": "https://uk.linkedin.com/company/our-future-health-uk",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-30",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-participant-support-operations-clinical-operations-at-our-future-health-uk-4472173144"
+    },
+    {
+      "id": "4466865242",
+      "title": "Data Analyst",
+      "company": "Harnham",
+      "companyUrl": "https://uk.linkedin.com/company/harnham",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-16",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-harnham-4466865242"
+    },
+    {
+      "id": "4466864548",
+      "title": "Data Analyst (Finance)",
+      "company": "Harnham",
+      "companyUrl": "https://uk.linkedin.com/company/harnham",
+      "location": "Manchester, England, United Kingdom",
+      "date": "2026-09-16",
+      "url": "https://uk.linkedin.com/jobs/view/data-analyst-finance-at-harnham-4466864548"
+    },
+    {
+      "id": "4445922501",
+      "title": "Senior Product Analyst",
+      "company": "Accurx",
+      "companyUrl": "https://uk.linkedin.com/company/accurx",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-29",
+      "url": "https://uk.linkedin.com/jobs/view/senior-product-analyst-at-accurx-4445922501"
+    },
+    {
+      "id": "4471100565",
+      "title": "Senior Research Scientist",
+      "company": "Surgo Health",
+      "companyUrl": "https://www.linkedin.com/company/surgo-health",
+      "location": "London, England, United Kingdom",
+      "date": "2026-09-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-research-scientist-at-surgo-health-4471100565"
+    }
+  ]
+}

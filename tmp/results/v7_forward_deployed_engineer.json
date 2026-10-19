@@ -1,0 +1,41 @@
+{
+  "name": "v7_forward_deployed_engineer",
+  "company": "V7",
+  "role": "Forward Deployed Engineer",
+  "sector": "AI-native software (document and vision AI, agentic workflows)",
+  "role_type": "Full-time",
+  "channel": "portal",
+  "source": "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-at-v7-4459804615",
+  "deadline": "",
+  "fit_rating": 80,
+  "cv_file": "cv/main_v7_forward_deployed_engineer.tex",
+  "cover_letter_file": "cover_letters/cover_v7_forward_deployed_engineer.tex",
+  "cv_pages": 1,
+  "cover_pages": 1,
+  "ats_extractor": "pypdf",
+  "keyword_coverage": {"covered": 14, "synonym_only": 3, "missing_have_it": 0, "missing_gap": 3},
+  "gaps_acknowledged": [
+    "No high-traffic production service owned; experience is pipelines, evaluation harnesses and a deployed Streamlit app (bridged explicitly in the cover letter)",
+    "No multi-cloud provider integration experience (AWS at basic level only)",
+    "No finance, insurance or real estate domain experience; document-AI depth comes from clinical and pharma work"
+  ],
+  "sponsorship_note": "not stated",
+  "key_tailoring_decisions": [
+    "Led the Project Experience section with the UCL clinical NLP work, retitled 'Clinical NLP and Document AI Evaluation', because radiology-report parsing into structured features and vision-language failure-mode evaluation map directly onto V7 Go's document and multi-modal extraction work",
+    "Rebuilt the DS Digital Technology bullets around the posting's own 'Who you are' list: 6-LLM-API integration and data pipeline, prompt engineering with retrieval augmentation, and measuring AI accuracy via a 246-question benchmark, six-dimension rubric and blinded paired A/B tests, all delivered with a client in the room",
+    "Reused posting vocabulary in the skills headings ('LLM and Agent Workflows', 'Measuring AI Accuracy', 'Data Pipelines and Tools') and anchored the letter's motivation paragraph on V7 Go's citations and audit trail, verified on v7labs.com rather than taken from the posting"
+  ],
+  "verification": {
+    "factual_accuracy": "pass",
+    "targeting": "pass",
+    "consistency": "pass",
+    "quality": "pass",
+    "pdf_layout": "pass",
+    "ats": "pass"
+  },
+  "warnings": [
+    "MANDATORY REVIEWER SUBAGENT NOT RUN: two attempts to spawn the general-purpose reviewer both failed with 'Concurrent subagent limit reached (20)' because all orchestrator agent slots were in use, and the tool instructed not to retry. The drafter ran the full audit checklist in its place (grounding audit against 01-candidate-profile.md + CLAUDE.md + cv/main_example.tex, AI-tells audit against the banned-phrase list, template-constraint check, requirement coverage). A human or a later reviewer pass should still spot-check this pair.",
+    "ATS extraction artefact: Computer Modern kerning makes 'Workflows' extract as 'W orkflows' and 'AWS' as 'A WS' in the skills block. Mitigated by adding a lowercase 'LLM workflow design' entry that extracts cleanly; 'AWS' left as is since cloud-provider integration is an acknowledged gap rather than a claimed keyword.",
+    "Posting is silent on visa sponsorship. The letter states she has the right to work in the UK now and would need Skilled Worker sponsorship in about two years."
+  ]
+}

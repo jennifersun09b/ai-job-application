@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*-
+SPEC = {
+ "file":"cover_genomics_scientist",
+ "label":"Genomics plc Scientist",
+ "paras":[
+ r"I am writing to apply for the Scientist position in the Life Sciences team at Genomics. I am currently completing an MSc in Health Data Science at University College London, where a distinction is expected, after a BSc in Biological Sciences at Imperial College London, and I work as a Data Analyst Intern at TikTok Shop UK. My degree sits exactly where this role does: statistical and computational methods applied to biomedical data, with the aim of getting the right people into the right prevention or treatment. I am particularly interested in this role because it combines genetics with the kind of statistical work I have spent my MSc on.",
+
+ r"What attracts me most to Genomics is the opportunity to work on disease risk and patient stratification using population-scale genetic and health data, rather than on a single dataset in isolation. I enjoy taking an unclear clinical or business problem, identifying what users actually need, and turning it into a workflow that can be tested and improved. Polygenic risk scores combined with conventional risk factors to identify who is most likely to benefit from a particular intervention is a problem I have effectively been working on from the non-genetic side for the past year.",
+
+ r"My MSc dissertation uses UK Biobank, which is the closest thing I have to your data environment. I built cardiovascular risk models on 458,840 participants, comparing logistic regression against three tree ensembles and judging them on calibration rather than headline accuracy, because a risk score that is poorly calibrated cannot be used to decide who gets screened. I then used doubly robust causal forests on a longitudinal subset of 71,428 participants to estimate the effect of lifestyle change at an individual level, across 24 single-domain transitions and 120 joint contrasts. I tested how far the conclusions could be pushed before they broke, using overlap weighting for positivity, sensitivity analysis including E-values and quantitative bias analysis for unmeasured confounding, and external validation in a second cohort. I reported null results where I found them, and delivered the work as a Streamlit tool so that others could run scenarios without touching the code.",
+
+ r"I have worked with omics data directly. At Westlake University I analysed multi-omics data on epigenetic change in ageing skin stem cells, and refactored and parallelised the pipeline in Python and R, cutting processing time by around 60 per cent while adding version-controlled scripts so the work could be reproduced. At the University of Science and Technology of China I built a spatial transcriptomics pipeline for medulloblastoma covering spot detection, filtering and clustering, where tuning the decoding parameters improved decoding accuracy substantially. My undergraduate project ran molecular dynamics simulations of rare genetic variants and analysed hundreds of gigabytes of output through a Python pipeline.",
+
+ r"On phenotyping from clinical records, I led a group project at UCL building a Hugging Face Transformers pipeline that parses radiology reports into structured features, fine-tuning ClinicalBERT and PubMedBERT-style models, which outperformed TF-IDF and kNN baselines. At DS Digital Technology I worked on a medical AI engagement for a pharmaceutical client, where I designed a 246-question benchmark and a six-dimension safety rubric with clinical subject-matter experts, built a Python pipeline calling six LLM APIs that produced and scored more than 2,400 responses, and mined over 4,800 patient consultation threads with a regex and LLM extraction pipeline.",
+
+ r"On the engineering practices you list as preferred, I use Git and GitHub, Docker and containerisation routinely, and I write agentic code: I built an AI agent with Claude Code that automates repetitive steps of my analytics workflow at TikTok Shop UK, now used by my team and adjacent teams.",
+
+ r"I should be clear about the gaps. I have not worked with the specific statistical genetics toolkit you prefer, so GWAS, colocalization, fine-mapping, Mendelian randomization and polygenic risk scores are methods I would be learning rather than bringing. I have not used WDL, Snakemake or NextFlow, or trusted research environments such as DNAnexus. My statistics, my causal inference, my omics analysis and my Python and R are well established, and my genetics and molecular biology come from a full biological sciences degree.",
+
+ r"I have the right to work in the UK until January 2029 without sponsorship, and I am based in London.",
+
+ r"Thank you for considering my application. I would welcome the opportunity to discuss how my background in biomedical statistics, causal inference and omics analysis could support the Life Sciences team.",
+ ]
+}

@@ -1,0 +1,703 @@
+{
+  "meta": {
+    "count": 25,
+    "page": 1,
+    "total": 2021
+  },
+  "results": [
+    {
+      "id": "graduate-data-scientist-amplar-health-home-hospital-medibank-rnkd2zwa",
+      "title": "Graduate Data Scientist - Amplar Health Home Hospital",
+      "company": "Medibank",
+      "company_slug": "medibank",
+      "location": null,
+      "date": "2026-09-26T00:00:00Z",
+      "url": "https://jobs.medibank.com.au/job/Soansville-Graduate-Data-Scientist-Amplar-Health-Home-Hospital-SA/1367154866/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "analytics",
+        "data-modeling",
+        "data-quality",
+        "data-science",
+        "help-desk",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-data-ai-engineer-build-ai-data-pipelines-bigtalent-3ozpjkis",
+      "title": "Graduate Data & AI Engineer: Build AI & Data Pipelines",
+      "company": "BigTalent",
+      "company_slug": "bigtalent",
+      "location": "Cape Town, South Africa",
+      "date": "2026-09-25T14:43:39Z",
+      "url": "https://en-za.whatjobs.com/pub_api__cpl__58307042__7122?geoID=158&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "africa"
+      ],
+      "countries": [
+        "za"
+      ],
+      "skills": [
+        "ai",
+        "data-engineering",
+        "data-pipelines",
+        "generative-ai",
+        "python",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-data-engineer-2026-beng-graduates-bigtalent-a652wwuw",
+      "title": "Graduate Data Engineer | 2026 BEng Graduates",
+      "company": "BigTalent",
+      "company_slug": "bigtalent",
+      "location": "Cape Town, South Africa",
+      "date": "2026-09-25T14:43:36Z",
+      "url": "https://en-za.whatjobs.com/pub_api__cpl__58304600__7122?geoID=158&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "africa"
+      ],
+      "countries": [
+        "za"
+      ],
+      "skills": [
+        "ai",
+        "automation",
+        "aws",
+        "ci-cd",
+        "cloud",
+        "data-engineering",
+        "data-governance",
+        "data-modeling",
+        "data-pipelines",
+        "data-science",
+        "etl",
+        "infrastructure-as-code",
+        "python",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-data-engineer-hybrid-aws-etl-data-pipelines-bigtalent-jc7zd4el",
+      "title": "Graduate Data Engineer - Hybrid (AWS, ETL, Data Pipelines)",
+      "company": "BigTalent",
+      "company_slug": "bigtalent",
+      "location": "Cape Town, South Africa",
+      "date": "2026-09-25T14:43:35Z",
+      "url": "https://en-za.whatjobs.com/pub_api__cpl__58304145__7122?geoID=158&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "africa"
+      ],
+      "countries": [
+        "za"
+      ],
+      "skills": [
+        "ai",
+        "aws",
+        "ci-cd",
+        "data-modeling",
+        "data-pipelines",
+        "etl",
+        "python",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-data-engineer-analyst-build-data-pipelines-speckand-c5qffbkk",
+      "title": "Graduate Data Engineer/Analyst: Build Data Pipelines",
+      "company": "Speckand",
+      "company_slug": "speckand",
+      "location": "Italy",
+      "date": "2026-09-25T12:58:55Z",
+      "url": "https://it.whatjobs.com/pub_api__cpl__223397172__7128?geoID=5917&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "it"
+      ],
+      "skills": [
+        "fintech",
+        "powerbi",
+        "python",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-data-entry-position-wcl-office-of-career-and-professional-development-student-american-university-i3bft2bw",
+      "title": "Graduate Data Entry Position, WCL Office of Career and Professional Development (Student)",
+      "company": "American University",
+      "company_slug": "american-university",
+      "location": "Tenley Campus (Washington, DC)",
+      "date": "2026-09-25T00:00:00Z",
+      "url": "https://american.wd1.myworkdayjobs.com/AU/job/Tenley-Campus-Washington-DC/Graduate-Data-Entry-Position--WCL-Office-of-Career-and-Professional-Development--Student-_R5028?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "graduate-data-ai-engineer-targetjobs-uk-tmbdvzqw",
+      "title": "Graduate Data & AI Engineer",
+      "company": "targetjobs UK",
+      "company_slug": "targetjobs-uk",
+      "location": "United Kingdom",
+      "date": "2026-09-22T16:59:40Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__541850149__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "agentic-ai",
+        "agile",
+        "ai",
+        "analytics",
+        "api",
+        "automation",
+        "azure",
+        "azure-data-factory",
+        "cloud",
+        "data-engineering",
+        "data-modeling",
+        "data-pipelines",
+        "data-science",
+        "data-warehousing",
+        "databricks",
+        "devops",
+        "elt",
+        "embeddings",
+        "etl",
+        "generative-ai",
+        "git",
+        "lakehouse",
+        "llm",
+        "machine-learning",
+        "microsoft-copilot",
+        "microsoft-fabric",
+        "openai",
+        "power-automate",
+        "powerapps",
+        "powerbi",
+        "prompt-engineering",
+        "python",
+        "rag",
+        "semantic-search",
+        "sql",
+        "vector-databases",
+        "vector-search",
+        "version-control"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-trainee-data-science-natwest-group-d7kib2v5",
+      "title": "Graduate Trainee - Data Science",
+      "company": "NatWest Group",
+      "company_slug": "natwest-group",
+      "location": "Edinburgh",
+      "date": "2026-09-28T00:00:00Z",
+      "url": "https://rbs.wd3.myworkdayjobs.com/RBS/job/Edinburgh/Graduate-Trainee---Data-Science_R-00285725?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "cloud",
+        "data-science",
+        "data-visualization",
+        "generative-ai",
+        "machine-learning"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-trainee-data-center-design-e-m-engineer-du-xyi2f6uv",
+      "title": "Graduate Trainee: Data Center Design & E&M Engineer",
+      "company": "du",
+      "company_slug": "du",
+      "location": "Dubai, United Arab Emirates",
+      "date": "2026-09-21T14:33:04Z",
+      "url": "https://en-ae.whatjobs.com/pub_api__cpl__93667770__7102?geoID=1743&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "mena"
+      ],
+      "countries": [
+        "ae"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "remote-graduate-data-scientist-ai-and-data-pipelines-bending-spoons-el7tcfzl",
+      "title": "Remote Graduate Data Scientist — AI and Data Pipelines",
+      "company": "Bending Spoons",
+      "company_slug": "bending-spoons",
+      "location": "Oxford, United Kingdom",
+      "date": "2026-09-27T23:42:09Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__548152910__7082?geoID=559&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "data-pipelines"
+      ],
+      "description": null
+    },
+    {
+      "id": "remote-graduate-data-scientist-ai-data-pipelines-bending-spoons-vmhboskg",
+      "title": "Remote Graduate Data Scientist — AI & Data Pipelines",
+      "company": "Bending Spoons",
+      "company_slug": "bending-spoons",
+      "location": "Cambridge, United Kingdom",
+      "date": "2026-09-26T15:41:12Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__546315346__7082?geoID=126&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "data-pipelines"
+      ],
+      "description": null
+    },
+    {
+      "id": "finance-data-analyst-graduate-programme-2027-allied-irish-banks-zetoqemw",
+      "title": "Finance Data Analyst Graduate Programme 2027",
+      "company": "Allied Irish Banks",
+      "company_slug": "allied-irish-banks",
+      "location": null,
+      "date": "2026-09-26T00:00:00Z",
+      "url": "https://jobs.aib.ie/aib/job/Dublin-Finance-Data-Analyst-Graduate-Programme-2027-IE/1373068557/?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "ie"
+      ],
+      "skills": [
+        "analytics",
+        "data-analytics",
+        "data-visualization",
+        "machine-learning",
+        "networking",
+        "python",
+        "sql",
+        "teradata"
+      ],
+      "description": null
+    },
+    {
+      "id": "hybrid-data-science-ai-graduate-rotations-targetjobs-uk-xhpni4ka",
+      "title": "Hybrid Data Science & AI Graduate Rotations",
+      "company": "targetjobs UK",
+      "company_slug": "targetjobs-uk",
+      "location": "Halifax, Canada",
+      "date": "2026-09-25T02:01:46Z",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__146625415__7103?geoID=2354&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "analytics",
+        "cloud",
+        "data-analytics",
+        "data-science",
+        "gcp",
+        "mlops",
+        "python",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-software-engineer-systems-data-solutions-b-r-enclosures-55xzfymb",
+      "title": "Graduate Software Engineer – Systems & Data Solutions",
+      "company": "B&R Enclosures",
+      "company_slug": "b-r-enclosures",
+      "location": "Queensland, Australia",
+      "date": "2026-09-23T19:38:24Z",
+      "url": "https://au.whatjobs.com/pub_api__cpl__122287369__7084?geoID=4&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "csharp",
+        "java",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "hybrid-graduate-data-ai-analytics-engineer-renewable-energy-systems-ltd-giuuled5",
+      "title": "Hybrid Graduate: Data & AI Analytics Engineer",
+      "company": "Renewable Energy Systems Ltd",
+      "company_slug": "renewable-energy-systems",
+      "location": "Kings Langley, United Kingdom",
+      "date": "2026-09-22T15:02:03Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__540378977__7082?geoID=183&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "azure",
+        "data-modeling",
+        "lakehouse",
+        "powerbi"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-maintenance-engineer-data-driven-flexible-growth-targetjobs-uk-glgcvtct",
+      "title": "Graduate Maintenance Engineer - Data-Driven, Flexible Growth",
+      "company": "targetjobs UK",
+      "company_slug": "targetjobs-uk",
+      "location": "Warton, United Kingdom",
+      "date": "2026-09-21T22:59:47Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__540531030__7082?geoID=30453&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-agoda-mhdviw5x",
+      "title": "Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)",
+      "company": "Agoda",
+      "company_slug": "agoda",
+      "location": "Bangkok",
+      "date": "2026-09-21T07:59:24Z",
+      "url": "https://job-boards.greenhouse.io/agoda/jobs/8194692?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "th"
+      ],
+      "skills": [
+        "ab-testing",
+        "data-science",
+        "python",
+        "sas",
+        "spss",
+        "sql",
+        "statistics",
+        "tableau",
+        "vba"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-engineer-fresh-graduate-re-zoo-me-5f73hod3",
+      "title": "Data Engineer (Fresh Graduate)",
+      "company": "re-zoo-me",
+      "company_slug": "re-zoo-me",
+      "location": "Singapore, Singapore",
+      "date": "2026-09-27T09:58:24Z",
+      "url": "https://en-sg.whatjobs.com/pub_api__cpl__92333140__7119?geoID=1&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "sg"
+      ],
+      "skills": [
+        "bash",
+        "data-pipelines",
+        "data-quality",
+        "data-warehousing",
+        "elt",
+        "etl",
+        "flink",
+        "hadoop",
+        "java",
+        "python",
+        "spark",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-analyst-co-op-graduate-level-nova-scotia-power-2q2jfzjl",
+      "title": "Data Analyst Co-Op (Graduate Level)",
+      "company": "Nova Scotia Power",
+      "company_slug": "nova-scotia-power",
+      "location": "Halifax, Canada",
+      "date": "2026-09-26T12:03:09Z",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__147495598__7103?geoID=2354&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "accessibility",
+        "analytics",
+        "automation",
+        "data-analytics",
+        "data-visualization",
+        "networking",
+        "power-query",
+        "python",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-analyst-co-op-graduate-level-socket-dev-qlmjuwv6",
+      "title": "Data Analyst Co-Op (Graduate Level)",
+      "company": "Socket.dev",
+      "company_slug": "socket-dev",
+      "location": "Halifax, Canada",
+      "date": "2026-09-25T02:01:46Z",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__146625825__7103?geoID=2354&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "accessibility",
+        "analytics",
+        "automation",
+        "data-analytics",
+        "data-visualization",
+        "networking",
+        "power-query",
+        "python",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-analyst-co-op-graduate-level-emera-inc-als7w7vd",
+      "title": "Data Analyst Co-Op (Graduate Level)",
+      "company": "Emera Inc.",
+      "company_slug": "emera",
+      "location": "Halifax, Canada",
+      "date": "2026-09-25T02:01:46Z",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__147291330__7103?geoID=2354&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "accessibility",
+        "analytics",
+        "automation",
+        "data-analytics",
+        "data-visualization",
+        "networking",
+        "power-query",
+        "python",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "description": null
+    },
+    {
+      "id": "data-science-ai-graduate-scheme-halifax-targetjobs-uk-jdkopgsw",
+      "title": "Data Science & AI Graduate Scheme - Halifax",
+      "company": "targetjobs UK",
+      "company_slug": "targetjobs-uk",
+      "location": "Halifax, Canada",
+      "date": "2026-09-25T02:01:46Z",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__146442237__7103?geoID=2354&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "analytics",
+        "automation",
+        "ci-cd",
+        "cloud",
+        "cloud-native",
+        "data-engineering",
+        "data-pipelines",
+        "data-science",
+        "deep-learning",
+        "devops",
+        "gcp",
+        "generative-ai",
+        "langchain",
+        "llm",
+        "machine-learning",
+        "mlops",
+        "neural-networks",
+        "predictive-modeling",
+        "python",
+        "pytorch",
+        "rag",
+        "scikit-learn",
+        "solution-design",
+        "spark",
+        "sql",
+        "tensorflow",
+        "xgboost"
+      ],
+      "description": null
+    },
+    {
+      "id": "quantitative-developer-graduate-data-pipelines-trading-tools-greenhouse-software-inc-kdti75bi",
+      "title": "Quantitative Developer Graduate | Data Pipelines & Trading Tools",
+      "company": "Greenhouse Software, Inc.",
+      "company_slug": "greenhouse-software",
+      "location": "London, United Kingdom",
+      "date": "2026-09-27T23:42:09Z",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__548147850__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "graduate-assistant-non-teaching-institutional-research-and-integrated-data-analytics-prairie-view-a-m-university-7sxjjqge",
+      "title": "Graduate Assistant Non-Teaching | Institutional Research and Integrated Data Analytics",
+      "company": "Prairie View A&M University",
+      "company_slug": "prairie-view-a-m-university",
+      "location": "Prairie View, TX",
+      "date": "2026-09-23T00:00:00Z",
+      "url": "https://tamus.wd1.myworkdayjobs.com/PVAMU_External/job/Prairie-View-TX/Graduate-Assistant-Non-Teaching---Institutional-Research-and-Integrated-Data-Analytics_R-097449?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "analytics",
+        "data-analytics",
+        "data-governance",
+        "data-quality",
+        "data-science",
+        "data-visualization",
+        "powerbi",
+        "python",
+        "sap",
+        "sql",
+        "tableau"
+      ],
+      "description": null
+    },
+    {
+      "id": "graduate-assistant-non-teaching-institutional-research-and-integrated-data-analytics-texas-a-m-university-system-jb7ywplx",
+      "title": "Graduate Assistant Non-Teaching | Institutional Research and Integrated Data Analytics",
+      "company": "Texas A&M University System",
+      "company_slug": "texas-a-m-university-system",
+      "location": "Prairie View, TX",
+      "date": "2026-09-23T00:00:00Z",
+      "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Graduate-Assistant-Non-Teaching---Institutional-Research-and-Integrated-Data-Analytics_R-097449-2?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "analytics",
+        "data-analytics",
+        "data-governance",
+        "data-quality",
+        "data-science",
+        "data-visualization",
+        "powerbi",
+        "python",
+        "sap",
+        "sql",
+        "tableau"
+      ],
+      "description": null
+    }
+  ]
+}

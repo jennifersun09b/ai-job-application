@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4468600553",
+      "title": "Senior Data Scientist",
+      "company": "adesso Netherlands",
+      "companyUrl": "https://nl.linkedin.com/company/adesso-netherlands",
+      "location": "Utrecht, Netherlands",
+      "date": "2026-09-17",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-at-adesso-netherlands-4468600553"
+    },
+    {
+      "id": "4219666091",
+      "title": "Data Scientist - QuantumBlack, AI by McKinsey",
+      "company": "QuantumBlack, AI by McKinsey",
+      "companyUrl": "https://uk.linkedin.com/company/quantumblack",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-10",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4219666091"
+    },
+    {
+      "id": "4465246603",
+      "title": "Senior Data Scientist",
+      "company": "Scrambly",
+      "companyUrl": "https://it.linkedin.com/company/scrambly",
+      "location": "Netherlands",
+      "date": "2026-09-14",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-at-scrambly-4465246603"
+    },
+    {
+      "id": "4470941016",
+      "title": "Ecommerce Data Scientist",
+      "company": "Versuni",
+      "companyUrl": "https://nl.linkedin.com/company/versuni",
+      "location": "Amsterdam Area",
+      "date": "2026-09-23",
+      "url": "https://nl.linkedin.com/jobs/view/ecommerce-data-scientist-at-versuni-4470941016"
+    },
+    {
+      "id": "4467752537",
+      "title": "Senior Data Scientist (GenAI/ML)",
+      "company": "Huxley",
+      "companyUrl": "https://uk.linkedin.com/company/huxley",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-09-15",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-genai-ml-at-huxley-4467752537"
+    },
+    {
+      "id": "4441560150",
+      "title": "Senior Data Scientist - Machine Learning",
+      "company": "Catawiki",
+      "companyUrl": "https://nl.linkedin.com/company/catawiki",
+      "location": "The Randstad, Netherlands",
+      "date": "2026-09-21",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-machine-learning-at-catawiki-4441560150"
+    },
+    {
+      "id": "4468538812",
+      "title": "Senior Data Scientist",
+      "company": "BMC",
+      "companyUrl": "https://nl.linkedin.com/company/bmc-adviesbureau",
+      "location": "Amersfoort, Utrecht, Netherlands",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-at-bmc-4468538812"
+    },
+    {
+      "id": "4447014098",
+      "title": "Senior Data Scientist",
+      "company": "Info Support",
+      "companyUrl": "https://nl.linkedin.com/company/info-support",
+      "location": "Veenendaal, Utrecht, Netherlands",
+      "date": "2026-09-12",
+      "url": "https://nl.linkedin.com/jobs/view/senior-data-scientist-at-info-support-4447014098"
+    },
+    {
+      "id": "4467552251",
+      "title": "Mid Data Scientist",
+      "company": "Jobgether",
+      "companyUrl": "https://be.linkedin.com/company/jobgether",
+      "location": "Netherlands",
+      "date": "2026-09-17",
+      "url": "https://nl.linkedin.com/jobs/view/mid-data-scientist-at-jobgether-4467552251"
+    },
+    {
+      "id": "4468556277",
+      "title": "Data Scientist",
+      "company": "CIMSOLUTIONS",
+      "companyUrl": "https://nl.linkedin.com/company/cimsolutions",
+      "location": "Utrecht Area",
+      "date": "2026-09-22",
+      "url": "https://nl.linkedin.com/jobs/view/data-scientist-at-cimsolutions-4468556277"
+    }
+  ]
+}
